@@ -1,0 +1,105 @@
+StartChar: Aringacute
+Encoding: 506 506 470
+Width: 1366
+Flags: W
+TtInstrs:
+PUSHB_8
+ 4
+ 39
+ 17
+ 0
+ 72
+ 43
+ 4
+ 39
+PUSHW_1
+ -64
+PUSHB_4
+ 51
+ 54
+ 52
+ 39
+PUSHW_1
+ -64
+PUSHB_4
+ 34
+ 36
+ 52
+ 39
+PUSHW_1
+ -64
+PUSHB_4
+ 30
+ 32
+ 52
+ 39
+PUSHW_1
+ -64
+PUSHB_7
+ 16
+ 18
+ 52
+ 175
+ 39
+ 1
+ 39
+SVTCA[y-axis]
+MDAP[rnd]
+DELTAP1
+CALL
+CALL
+CALL
+CALL
+PUSHB_2
+ 6
+ 2
+RS
+EQ
+IF
+NPUSHB
+ 9
+ 0
+ 39
+ 16
+ 39
+ 2
+ 160
+ 39
+ 1
+ 39
+PUSHW_1
+ -64
+PUSHB_4
+ 69
+ 69
+ 52
+ 39
+PUSHW_1
+ -64
+PUSHB_4
+ 44
+ 47
+ 52
+ 39
+PUSHW_1
+ -64
+PUSHB_3
+ 23
+ 25
+ 52
+CALL
+CALL
+CALL
+DELTAP1
+DELTAP3
+EIF
+SHC[rp1]
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 99 197 N 1 0 0 1 0 0 3
+Refer: 141 180 N 1 0 0 1 339 586 2
+EndChar

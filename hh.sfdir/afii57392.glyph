@@ -1,0 +1,51 @@
+StartChar: afii57392
+Encoding: 1632 1632 761
+AltUni2: 0006f0.ffffffff.0
+Width: 1077
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 14
+ 10
+ 10
+ 3
+ 10
+ 32
+ 16
+ 19
+ 52
+ 3
+ 10
+ 7
+ 0
+ 0
+ 7
+MDAP[rnd]
+SHP[rp1]
+MDAP[rnd]
+SRP2
+IP
+IP
+CALL
+SVTCA[y-axis]
+MDAP[rnd]
+SHP[rp1]
+MDAP[rnd]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+705 744 m 1,0,1
+ 677 657 677 657 663 603 c 128,-1,2
+ 649 549 649 549 630 448 c 1,3,4
+ 545 496 545 496 497 530 c 0,5,6
+ 465 553 465 553 380 621 c 1,7,8
+ 401 712 401 712 418.5 771 c 128,-1,9
+ 436 830 436 830 470 925 c 1,10,11
+ 526 876 526 876 583 832 c 0,12,13
+ 621 803 621 803 705 744 c 1,0,1
+EndSplineSet
+EndChar

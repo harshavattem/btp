@@ -1,0 +1,65 @@
+StartChar: afii10095
+Encoding: 1101 1101 631
+Width: 1045
+Flags: W
+TtInstrs:
+PUSHB_2
+ 0
+ 14
+PUSHW_1
+ -6
+NPUSHB
+ 11
+ 16
+ 16
+ 2
+ 85
+ 14
+ 6
+ 15
+ 15
+ 2
+ 85
+ 14
+PUSHW_1
+ -12
+PUSHB_5
+ 12
+ 12
+ 2
+ 85
+ 14
+PUSHW_1
+ -2
+NPUSHB
+ 14
+ 15
+ 15
+ 6
+ 85
+ 14
+ 6
+ 16
+ 16
+ 6
+ 85
+ 14
+ 14
+ 55
+ 28
+FLIPOFF
+SRP0
+MIRP[rp0,rnd,white]
+SRP1
+CALL
+CALL
+CALL
+CALL
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 637 1108 N -1 0 0 1 1045 0 0
+Kerns2: 633 -23 "'kern' Horizontal Kerning lookup 0 subtable" 623 -23 "'kern' Horizontal Kerning lookup 0 subtable" 620 -45 "'kern' Horizontal Kerning lookup 0 subtable" 616 23 "'kern' Horizontal Kerning lookup 0 subtable" 613 -45 "'kern' Horizontal Kerning lookup 0 subtable" 609 -23 "'kern' Horizontal Kerning lookup 0 subtable" 607 23 "'kern' Horizontal Kerning lookup 0 subtable" 606 -45 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

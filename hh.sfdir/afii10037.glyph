@@ -1,0 +1,203 @@
+StartChar: afii10037
+Encoding: 1059 1059 589
+Width: 1301
+Flags: W
+TtInstrs:
+NPUSHB
+ 23
+ 102
+ 2
+ 1
+ 155
+ 2
+ 1
+ 104
+ 2
+ 1
+ 156
+ 1
+ 147
+ 3
+ 2
+ 2
+ 16
+ 2
+ 1
+ 16
+ 3
+ 1
+ 2
+ 2
+PUSHW_1
+ -12
+NPUSHB
+ 17
+ 13
+ 13
+ 6
+ 85
+ 2
+ 30
+ 16
+ 0
+ 20
+ 16
+ 2
+ 3
+ 16
+ 0
+ 3
+ 2
+ 2
+PUSHW_1
+ -12
+NPUSHB
+ 32
+ 13
+ 13
+ 6
+ 85
+ 2
+ 30
+ 5
+ 4
+ 20
+ 5
+ 2
+ 1
+ 5
+ 4
+ 2
+ 16
+ 5
+ 3
+ 8
+ 0
+ 11
+ 93
+ 10
+ 74
+ 8
+ 4
+ 3
+ 3
+ 1
+ 0
+ 2
+ 13
+PUSHW_1
+ 584
+NPUSHB
+ 16
+ 8
+ 9
+ 16
+ 1
+ 0
+ 5
+ 3
+ 4
+ 2
+ 32
+ 10
+ 1
+ 10
+ 147
+ 0
+ 4
+PUSHW_3
+ 348
+ 0
+ 348
+PUSHB_4
+ 2
+ 2
+ 18
+ 17
+RTHG
+SRP1
+SRP2
+IP
+MDAP[rnd]
+RTG
+MIRP[min,rnd,black]
+MIRP[min,rnd,black]
+RTHG
+SRP0
+MIRP[rnd,grey]
+DELTAP1
+SRP1
+SRP2
+IP
+IP
+SRP2
+IP
+IP
+SVTCA[y-axis]
+RTG
+MIAP[rnd]
+MIRP[min,rnd,black]
+MIAP[rnd]
+ALIGNRP
+ALIGNRP
+SRP0
+ALIGNRP
+SRP0
+MIRP[rp0,rnd,grey]
+MIRP[min,rnd,black]
+SRP1
+SRP2
+SLOOP
+IP
+SDPVTL[orthog]
+SFVTL[parallel]
+MDAP[no-rnd]
+CALL
+CALL
+SFVTCA[x-axis]
+RDTG
+SRP0
+MDRP[rnd,grey]
+SDPVTL[orthog]
+SFVTL[parallel]
+MDAP[no-rnd]
+RTG
+CALL
+CALL
+SFVTCA[x-axis]
+RDTG
+SRP0
+MDRP[rnd,grey]
+SDPVTL[orthog]
+SFVTL[parallel]
+SRP0
+MDRP[rnd,grey]
+IUP[x]
+IUP[y]
+SVTCA[x-axis]
+DELTAP3
+DELTAP1
+SVTCA[y-axis]
+DELTAP3
+DELTAP1
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+10 1466 m 1,0,-1
+ 206 1466 l 1,1,-1
+ 684 568 l 1,2,-1
+ 1102 1466 l 1,3,-1
+ 1295 1466 l 1,4,-1
+ 745 326 l 2,5,6
+ 642 112 642 112 576 46 c 128,-1,7
+ 510 -20 510 -20 387 -20 c 0,8,9
+ 312 -20 312 -20 203 15 c 1,10,-1
+ 203 181 l 1,11,12
+ 281 136 281 136 368 136 c 0,13,14
+ 439 136 439 136 490.5 181.5 c 128,-1,15
+ 542 227 542 227 604 389 c 1,16,-1
+ 10 1466 l 1,0,-1
+EndSplineSet
+Kerns2: 633 -137 "'kern' Horizontal Kerning lookup 0 subtable" 632 -92 "'kern' Horizontal Kerning lookup 0 subtable" 627 -92 "'kern' Horizontal Kerning lookup 0 subtable" 626 -92 "'kern' Horizontal Kerning lookup 0 subtable" 624 -92 "'kern' Horizontal Kerning lookup 0 subtable" 623 -92 "'kern' Horizontal Kerning lookup 0 subtable" 619 -137 "'kern' Horizontal Kerning lookup 0 subtable" 618 -92 "'kern' Horizontal Kerning lookup 0 subtable" 617 -92 "'kern' Horizontal Kerning lookup 0 subtable" 616 -137 "'kern' Horizontal Kerning lookup 0 subtable" 615 -92 "'kern' Horizontal Kerning lookup 0 subtable" 614 -92 "'kern' Horizontal Kerning lookup 0 subtable" 613 -137 "'kern' Horizontal Kerning lookup 0 subtable" 612 -92 "'kern' Horizontal Kerning lookup 0 subtable" 611 -68 "'kern' Horizontal Kerning lookup 0 subtable" 610 -92 "'kern' Horizontal Kerning lookup 0 subtable" 609 -115 "'kern' Horizontal Kerning lookup 0 subtable" 608 -68 "'kern' Horizontal Kerning lookup 0 subtable" 607 -137 "'kern' Horizontal Kerning lookup 0 subtable" 606 -160 "'kern' Horizontal Kerning lookup 0 subtable" 605 -92 "'kern' Horizontal Kerning lookup 0 subtable" 604 -115 "'kern' Horizontal Kerning lookup 0 subtable" 603 -45 "'kern' Horizontal Kerning lookup 0 subtable" 601 -45 "'kern' Horizontal Kerning lookup 0 subtable" 599 -45 "'kern' Horizontal Kerning lookup 0 subtable" 590 -68 "'kern' Horizontal Kerning lookup 0 subtable" 584 -68 "'kern' Horizontal Kerning lookup 0 subtable" 581 -68 "'kern' Horizontal Kerning lookup 0 subtable" 577 -45 "'kern' Horizontal Kerning lookup 0 subtable" 574 -92 "'kern' Horizontal Kerning lookup 0 subtable" 570 -137 "'kern' Horizontal Kerning lookup 0 subtable" 178 -23 "'kern' Horizontal Kerning lookup 0 subtable" 170 -92 "'kern' Horizontal Kerning lookup 0 subtable" 169 -90 "'kern' Horizontal Kerning lookup 0 subtable" 30 -45 "'kern' Horizontal Kerning lookup 0 subtable" 29 -45 "'kern' Horizontal Kerning lookup 0 subtable" 17 -272 "'kern' Horizontal Kerning lookup 0 subtable" 15 -272 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

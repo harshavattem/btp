@@ -1,0 +1,60 @@
+StartChar: Acircumflexhookabove
+Encoding: 7848 7848 1196
+Width: 1366
+Flags: W
+TtInstrs:
+PUSHB_2
+ 3
+ 41
+PUSHW_1
+ -64
+NPUSHB
+ 29
+ 29
+ 31
+ 52
+ 176
+ 41
+ 1
+ 0
+ 41
+ 1
+ 0
+ 41
+ 40
+ 18
+ 19
+ 65
+ 2
+ 0
+ 17
+ 20
+ 1
+ 2
+ 65
+ 2
+ 16
+ 64
+ 25
+ 40
+ 52
+ 16
+SVTCA[y-axis]
+MDAP[rnd]
+CALL
+SHC[rp1]
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+CALL
+DELTAP1
+DELTAP2
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 36 65 N 1 0 0 1 0 0 3
+Refer: 1148 -1 N 1 0 0 1 653 25 2
+Refer: 1141 61456 N 1 0 0 1 980 0 2
+EndChar

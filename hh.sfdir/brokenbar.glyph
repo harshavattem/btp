@@ -1,0 +1,94 @@
+StartChar: brokenbar
+Encoding: 166 166 230
+Width: 532
+Flags: W
+TtInstrs:
+PUSHW_6
+ 2
+ 686
+ 7
+ 357
+ 6
+ 382
+NPUSHB
+ 35
+ 3
+ 0
+ 9
+ 161
+ 0
+ 3
+ 2
+ 0
+ 1
+ 1
+ 5
+ 5
+ 159
+ 4
+ 175
+ 4
+ 2
+ 4
+ 118
+ 6
+ 7
+ 7
+ 32
+ 2
+ 1
+ 2
+ 161
+ 8
+ 8
+ 9
+ 213
+ 33
+ 161
+ 152
+ 24
+CALL
+CALL
+FLIPOFF
+SRP0
+MIRP[rp0,rnd,grey]
+DELTAP1
+ALIGNRP
+SRP0
+ALIGNRP
+FLIPON
+MIRP[rp0,min,rnd,black]
+DELTAP1
+ALIGNRP
+SRP0
+ALIGNRP
+SRP0
+ALIGNRP
+SRP0
+ALIGNRP
+SRP0
+MIRP[min,rnd,white]
+SVTCA[y-axis]
+MIAP[rnd]
+FLIPON
+MIRP[rp0,min,rnd,black]
+MIRP[rp0,min,rnd,black]
+MIRP[rnd,white]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+345 1491 m 1,0,-1
+ 345 701 l 1,1,-1
+ 188 701 l 1,2,-1
+ 188 1491 l 1,3,-1
+ 345 1491 l 1,0,-1
+345 360 m 1,4,-1
+ 345 -431 l 1,5,-1
+ 188 -431 l 1,6,-1
+ 188 360 l 1,7,-1
+ 345 360 l 1,4,-1
+EndSplineSet
+EndChar

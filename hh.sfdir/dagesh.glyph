@@ -1,0 +1,42 @@
+StartChar: dagesh
+Encoding: 1468 1468 664
+Width: 682
+Flags: W
+TtInstrs:
+PUSHW_5
+ 6
+ 723
+ 0
+ 3
+ 723
+PUSHB_6
+ 31
+ 10
+ 47
+ 10
+ 2
+ 10
+MDAP[rnd]
+DELTAP2
+MIRP[min,rnd,black]
+SVTCA[y-axis]
+MDAP[rnd]
+MIRP[min,rnd,black]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+341 662 m 0,0,1
+ 371 662 371 662 398 640 c 128,-1,2
+ 425 618 425 618 425 578 c 0,3,4
+ 425 542 425 542 400.5 518 c 128,-1,5
+ 376 494 376 494 341 494 c 0,6,7
+ 317 494 317 494 298 505 c 128,-1,8
+ 279 516 279 516 268 534.5 c 128,-1,9
+ 257 553 257 553 257 578 c 0,10,11
+ 257 609 257 609 278.5 635.5 c 128,-1,12
+ 300 662 300 662 341 662 c 0,0,1
+EndSplineSet
+EndChar

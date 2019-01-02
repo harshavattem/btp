@@ -1,0 +1,77 @@
+StartChar: acircumflexdotbelow
+Encoding: 7853 7853 1201
+Width: 1139
+Flags: W
+TtInstrs:
+NPUSHB
+ 48
+ 3
+ 31
+ 64
+ 1
+ 0
+ 64
+ 65
+ 47
+ 55
+ 65
+ 2
+ 159
+ 58
+ 1
+ 32
+ 58
+ 48
+ 58
+ 112
+ 58
+ 128
+ 58
+ 4
+ 144
+ 58
+ 160
+ 58
+ 176
+ 58
+ 224
+ 58
+ 240
+ 58
+ 5
+ 58
+ 64
+ 46
+ 50
+ 52
+ 0
+ 58
+ 61
+ 28
+ 28
+ 65
+ 2
+ 1
+ 62
+PUSHW_2
+ 546
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+CALL
+DELTAP1
+DELTAP2
+DELTAP3
+SHC[rp1]
+CALL
+DELTAP1
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 68 97 N 1 0 0 1 0 0 3
+Refer: 214 710 N 1 0 0 1 222 0 2
+Refer: 1149 61484 N 1 0 0 1 712 0 2
+EndChar

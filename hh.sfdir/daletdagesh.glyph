@@ -1,0 +1,41 @@
+StartChar: daletdagesh
+Encoding: 64307 64307 720
+Width: 1041
+Flags: W
+TtInstrs:
+NPUSHB
+ 19
+ 1
+ 0
+ 18
+ 16
+ 18
+ 32
+ 18
+ 176
+ 18
+ 4
+ 0
+ 18
+ 11
+ 5
+ 4
+ 65
+ 1
+ 1
+ 8
+PUSHW_2
+ 732
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+DELTAP1
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 675 1491 N 1 0 0 1 0 0 3
+Refer: 664 1468 N 1 0 0 1 78 0 2
+EndChar

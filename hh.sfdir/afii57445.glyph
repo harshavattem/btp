@@ -1,0 +1,165 @@
+StartChar: afii57445
+Encoding: 1605 1605 993
+AltUni2: 00fee1.ffffffff.0
+Width: 692
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHW_2
+ 8
+ -32
+PUSHB_4
+ 28
+ 31
+ 52
+ 7
+PUSHW_1
+ -8
+NPUSHB
+ 19
+ 17
+ 25
+ 52
+ 139
+ 19
+ 139
+ 24
+ 2
+ 32
+ 27
+ 31
+ 64
+ 9
+ 24
+ 52
+ 31
+ 31
+ 23
+ 36
+PUSHW_1
+ 751
+NPUSHB
+ 9
+ 27
+ 64
+ 25
+ 26
+ 52
+ 27
+ 27
+ 23
+ 42
+PUSHW_7
+ 751
+ 23
+ 751
+ 1
+ 747
+ 12
+ 774
+PUSHB_4
+ 23
+ 23
+ 0
+ 31
+PUSHW_1
+ 762
+PUSHB_4
+ 32
+ 32
+ 5
+ 0
+PUSHW_1
+ 752
+PUSHB_7
+ 44
+ 12
+ 12
+ 18
+ 9
+ 9
+ 5
+PUSHW_1
+ 765
+PUSHB_4
+ 16
+ 18
+ 1
+ 18
+MDAP[rnd]
+DELTAP1
+MIRP[min,rnd,black]
+SHP[rp1]
+MDAP[rnd]
+RTHG
+SRP2
+IP
+MDAP[rnd]
+RTG
+SRP0
+MIRP[rnd,grey]
+SRP1
+IP
+MDAP[rnd]
+MIRP[rp0,min,rnd,black]
+SRP1
+IP
+MDAP[rnd]
+SVTCA[y-axis]
+MIAP[rnd]
+MIAP[rnd]
+MIRP[min,rnd,black]
+MIRP[min,rnd,black]
+SRP1
+SHP[rp1]
+MDAP[rnd]
+CALL
+MIRP[min,rnd,black]
+SRP2
+IP
+MDAP[rnd]
+CALL
+SRP2
+IP
+IUP[x]
+IUP[y]
+SVTCA[x-axis]
+DELTAP1
+CALL
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+692 293 m 1,0,-1
+ 573 293 l 2,1,2
+ 407 293 407 293 283 262 c 0,3,4
+ 126 223 126 223 126 150 c 0,5,6
+ 126 84 126 84 148.5 9 c 128,-1,7
+ 171 -66 171 -66 194.5 -143 c 128,-1,8
+ 218 -220 218 -220 218 -284 c 0,9,10
+ 218 -322 218 -322 212.5 -353 c 128,-1,11
+ 207 -384 207 -384 193 -434 c 1,12,13
+ 167 -351 167 -351 142 -268 c 0,14,15
+ 94 -110 94 -110 71 -29 c 0,16,17
+ 35 99 35 99 35 125 c 0,18,19
+ 35 253 35 253 88.5 321.5 c 128,-1,20
+ 142 390 142 390 253 423 c 0,21,22
+ 341 449 341 449 518 467 c 1,23,24
+ 455 531 455 531 440 543 c 0,25,26
+ 389 583 389 583 337 583 c 0,27,28
+ 304 583 304 583 274 563 c 0,29,30
+ 250 547 250 547 216 508 c 1,31,-1
+ 170 537 l 1,32,33
+ 200 612 200 612 238 657 c 0,34,35
+ 301 731 301 731 387 731 c 0,36,37
+ 449 731 449 731 511 685 c 0,38,39
+ 562 647 562 647 615 579 c 0,40,41
+ 641 546 641 546 692 467 c 1,42,-1
+ 692 293 l 1,0,-1
+EndSplineSet
+Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" afii62822
+Substitution2: "'fina' Terminal Forms in Arabic lookup 4 subtable" afii62822
+Substitution2: "'medi' Medial Forms in Arabic lookup 3 subtable" afii62821
+Substitution2: "'init' Initial Forms in Arabic lookup 2 subtable" afii62820
+EndChar

@@ -1,0 +1,301 @@
+StartChar: afii10042
+Encoding: 1064 1064 594
+Width: 1877
+Flags: W
+TtInstrs:
+NPUSHB
+ 79
+ 15
+ 13
+ 64
+ 13
+ 112
+ 13
+ 128
+ 13
+ 191
+ 13
+ 192
+ 13
+ 239
+ 13
+ 7
+ 7
+ 2
+ 30
+ 11
+ 8
+ 4
+ 4
+ 1
+ 16
+ 2
+ 32
+ 11
+ 42
+ 16
+ 16
+ 2
+ 85
+ 11
+ 14
+ 15
+ 15
+ 2
+ 85
+ 11
+ 6
+ 13
+ 13
+ 2
+ 85
+ 11
+ 16
+ 12
+ 12
+ 2
+ 85
+ 11
+ 10
+ 11
+ 11
+ 2
+ 85
+ 11
+ 26
+ 15
+ 15
+ 6
+ 85
+ 11
+ 15
+ 12
+ 13
+ 6
+ 85
+ 15
+ 11
+ 1
+ 79
+ 11
+ 127
+ 11
+ 143
+ 11
+ 3
+ 11
+PUSHW_1
+ 365
+PUSHB_4
+ 6
+ 7
+ 32
+ 10
+PUSHW_1
+ -40
+PUSHB_5
+ 16
+ 16
+ 2
+ 85
+ 10
+PUSHW_1
+ -18
+PUSHB_5
+ 15
+ 15
+ 2
+ 85
+ 10
+PUSHW_1
+ -2
+PUSHB_5
+ 13
+ 13
+ 2
+ 85
+ 10
+PUSHW_1
+ -16
+PUSHB_5
+ 12
+ 12
+ 2
+ 85
+ 10
+PUSHW_1
+ -32
+PUSHB_5
+ 11
+ 11
+ 2
+ 85
+ 10
+PUSHW_1
+ -26
+PUSHB_5
+ 15
+ 15
+ 6
+ 85
+ 10
+PUSHW_1
+ -18
+NPUSHB
+ 18
+ 12
+ 13
+ 6
+ 85
+ 80
+ 10
+ 1
+ 0
+ 10
+ 1
+ 64
+ 10
+ 112
+ 10
+ 128
+ 10
+ 3
+ 10
+PUSHW_1
+ 365
+NPUSHB
+ 9
+ 6
+ 32
+ 3
+ 16
+ 16
+ 16
+ 2
+ 85
+ 3
+PUSHW_1
+ -10
+PUSHB_5
+ 15
+ 15
+ 2
+ 85
+ 3
+PUSHW_1
+ -2
+NPUSHB
+ 11
+ 12
+ 12
+ 2
+ 85
+ 3
+ 7
+ 16
+ 16
+ 6
+ 85
+ 3
+PUSHW_1
+ -4
+PUSHB_5
+ 15
+ 15
+ 6
+ 85
+ 3
+PUSHW_1
+ -2
+NPUSHB
+ 24
+ 11
+ 13
+ 6
+ 85
+ 64
+ 3
+ 144
+ 3
+ 2
+ 32
+ 3
+ 112
+ 3
+ 160
+ 3
+ 192
+ 3
+ 239
+ 3
+ 5
+ 3
+ 112
+ 13
+ 1
+DELTAP1
+MDAP[rnd]
+DELTAP1
+DELTAP3
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+MIRP[min,rnd,black]
+MIRP[rp0,min,rnd,black]
+DELTAP1
+DELTAP2
+DELTAP3
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+MIRP[min,rnd,black]
+SRP0
+MIRP[rp0,min,rnd,black]
+DELTAP1
+DELTAP2
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+MIRP[min,rnd,black]
+SVTCA[y-axis]
+MIAP[rnd]
+ALIGNRP
+SRP0
+ALIGNRP
+MDAP[rnd]
+MIRP[rp0,min,rnd,black]
+ALIGNRP
+IUP[x]
+IUP[y]
+SVTCA[x-axis]
+DELTAP1
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+161 1466 m 1,0,-1
+ 355 1466 l 1,1,-1
+ 355 173 l 1,2,-1
+ 842 173 l 1,3,-1
+ 842 1466 l 1,4,-1
+ 1036 1466 l 1,5,-1
+ 1036 173 l 1,6,-1
+ 1523 173 l 1,7,-1
+ 1523 1466 l 1,8,-1
+ 1717 1466 l 1,9,-1
+ 1717 0 l 1,10,-1
+ 161 0 l 1,11,-1
+ 161 1466 l 1,0,-1
+EndSplineSet
+EndChar

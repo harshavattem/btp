@@ -1,0 +1,37 @@
+StartChar: omicrontonos
+Encoding: 972 972 553
+Width: 1139
+Flags: W
+TtInstrs:
+NPUSHB
+ 14
+ 2
+ 224
+ 29
+ 240
+ 29
+ 2
+ 29
+ 4
+ 0
+ 72
+ 43
+ 2
+ 1
+ 29
+PUSHW_2
+ 546
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+DELTAP1
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 82 111 N 1 0 0 1 0 0 3
+Refer: 141 180 N 1 0 0 1 244 0 2
+Kerns2: 652 -29 "'kern' Horizontal Kerning lookup 0 subtable" 548 -55 "'kern' Horizontal Kerning lookup 0 subtable" 540 -39 "'kern' Horizontal Kerning lookup 0 subtable" 306 -29 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

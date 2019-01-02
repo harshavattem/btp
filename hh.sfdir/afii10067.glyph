@@ -1,0 +1,341 @@
+StartChar: afii10067
+Encoding: 1074 1074 604
+Width: 1088
+Flags: W
+TtInstrs:
+NPUSHB
+ 54
+ 15
+ 37
+ 47
+ 37
+ 2
+ 70
+ 8
+ 8
+ 16
+ 35
+ 8
+ 5
+ 30
+ 16
+ 43
+ 35
+ 35
+ 15
+ 25
+ 43
+ 0
+ 6
+ 26
+ 43
+ 15
+ 10
+ 21
+ 36
+ 5
+ 12
+ 12
+ 13
+ 6
+ 85
+ 5
+ 8
+ 15
+ 15
+ 6
+ 85
+ 5
+ 22
+ 16
+ 16
+ 6
+ 85
+ 208
+ 5
+ 1
+ 5
+ 170
+ 30
+ 36
+ 11
+PUSHW_1
+ -4
+PUSHB_5
+ 13
+ 13
+ 2
+ 85
+ 11
+PUSHW_1
+ -18
+PUSHB_5
+ 12
+ 12
+ 6
+ 85
+ 11
+PUSHW_1
+ -8
+PUSHB_5
+ 13
+ 13
+ 6
+ 85
+ 11
+PUSHW_1
+ -12
+NPUSHB
+ 11
+ 15
+ 15
+ 6
+ 85
+ 11
+ 6
+ 16
+ 16
+ 6
+ 85
+ 11
+PUSHW_1
+ -64
+NPUSHB
+ 19
+ 36
+ 37
+ 52
+ 48
+ 11
+ 1
+ 0
+ 11
+ 16
+ 11
+ 32
+ 11
+ 3
+ 11
+ 49
+ 223
+ 37
+ 1
+ 37
+PUSHW_1
+ -64
+NPUSHB
+ 29
+ 30
+ 35
+ 52
+ 48
+ 37
+ 1
+ 37
+ 25
+ 26
+ 37
+ 15
+ 4
+ 12
+ 12
+ 2
+ 85
+ 15
+ 10
+ 11
+ 11
+ 2
+ 85
+ 15
+ 4
+ 9
+ 9
+ 2
+ 85
+ 15
+PUSHW_1
+ -10
+NPUSHB
+ 11
+ 11
+ 11
+ 6
+ 85
+ 15
+ 10
+ 12
+ 12
+ 6
+ 85
+ 15
+PUSHW_1
+ -14
+PUSHB_7
+ 15
+ 16
+ 6
+ 85
+ 15
+ 69
+ 36
+SRP0
+MIRP[rp0,rnd,white]
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+MIRP[rp0,min,rnd,black]
+ALIGNRP
+SRP0
+DELTAP2
+CALL
+DELTAP1
+MIRP[rp0,rnd,white]
+DELTAP1
+DELTAP1
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+MIRP[min,rnd,black]
+MIRP[rp0,rnd,grey]
+DELTAP1
+CALL
+CALL
+CALL
+MIRP[min,rnd,black]
+SVTCA[y-axis]
+MIAP[rnd]
+MIRP[min,rnd,black]
+MIAP[rnd]
+MIRP[min,rnd,black]
+SRP2
+IP
+MDAP[rnd]
+MIRP[rp0,min,rnd,black]
+SVTCA[x-axis]
+SRP1
+SRP2
+IP
+SVTCA[y-axis]
+SRP1
+SRP2
+IP
+IUP[x]
+IUP[y]
+RS
+JROF
+NPUSHB
+ 51
+ 2
+ 33
+ 19
+ 37
+ 3
+ 37
+ 32
+ 38
+ 18
+ 7
+ 21
+ 27
+ 1
+ 23
+ 2
+ 21
+ 27
+ 1
+ 28
+ 13
+ 30
+ 27
+ 1
+ 33
+ 9
+ 30
+ 27
+ 1
+ 20
+ 6
+ 17
+ 27
+ 0
+ 7
+ 22
+ 4
+ 24
+ 27
+ 1
+ 29
+ 12
+ 27
+ 27
+ 0
+ 31
+ 10
+ 34
+ 27
+ 1
+ 9
+ 8
+SRP0
+ALIGNRP
+CALL
+CALL
+CALL
+ALIGNRP
+CALL
+SVTCA[x-axis]
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+FLIPRGON
+SVTCA[x-axis]
+DELTAP1
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+136 1062 m 1,0,-1
+ 551 1062 l 2,1,2
+ 704 1062 704 1062 778.5 1036.5 c 128,-1,3
+ 853 1011 853 1011 906.5 943 c 128,-1,4
+ 960 875 960 875 960 780 c 0,5,6
+ 960 704 960 704 928.5 647.5 c 128,-1,7
+ 897 591 897 591 834 553 c 1,8,9
+ 909 528 909 528 958.5 459.5 c 128,-1,10
+ 1008 391 1008 391 1008 297 c 1,11,12
+ 998 146 998 146 900 73 c 128,-1,13
+ 802 0 802 0 615 0 c 2,14,-1
+ 136 0 l 1,15,-1
+ 136 1062 l 1,0,-1
+316 615 m 1,16,-1
+ 508 615 l 2,17,18
+ 623 615 623 615 666 627 c 128,-1,19
+ 709 639 709 639 743 675.5 c 128,-1,20
+ 777 712 777 712 777 763 c 0,21,22
+ 777 847 777 847 717.5 880 c 128,-1,23
+ 658 913 658 913 514 913 c 2,24,-1
+ 316 913 l 1,25,-1
+ 316 615 l 1,16,-1
+316 148 m 1,26,-1
+ 553 148 l 2,27,28
+ 706 148 706 148 763 183.5 c 128,-1,29
+ 820 219 820 219 823 306 c 0,30,31
+ 823 357 823 357 790 400.5 c 128,-1,32
+ 757 444 757 444 704 455.5 c 128,-1,33
+ 651 467 651 467 534 467 c 2,34,-1
+ 316 467 l 1,35,-1
+ 316 148 l 1,26,-1
+EndSplineSet
+Kerns2: 633 -23 "'kern' Horizontal Kerning lookup 0 subtable" 628 -68 "'kern' Horizontal Kerning lookup 0 subtable" 625 -92 "'kern' Horizontal Kerning lookup 0 subtable" 622 -23 "'kern' Horizontal Kerning lookup 0 subtable" 621 -45 "'kern' Horizontal Kerning lookup 0 subtable" 620 -45 "'kern' Horizontal Kerning lookup 0 subtable" 619 -23 "'kern' Horizontal Kerning lookup 0 subtable" 616 -23 "'kern' Horizontal Kerning lookup 0 subtable" 614 -23 "'kern' Horizontal Kerning lookup 0 subtable" 613 -47 "'kern' Horizontal Kerning lookup 0 subtable" 609 -23 "'kern' Horizontal Kerning lookup 0 subtable" 608 -23 "'kern' Horizontal Kerning lookup 0 subtable" 607 -23 "'kern' Horizontal Kerning lookup 0 subtable" 606 -23 "'kern' Horizontal Kerning lookup 0 subtable" 603 -23 "'kern' Horizontal Kerning lookup 0 subtable" 602 -23 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

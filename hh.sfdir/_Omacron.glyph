@@ -1,0 +1,38 @@
+StartChar: Omacron
+Encoding: 332 332 447
+Width: 1593
+Flags: W
+TtInstrs:
+PUSHB_6
+ 2
+ 32
+ 28
+ 112
+ 28
+ 2
+PUSHW_1
+ -20
+PUSHB_8
+ 28
+ 31
+ 0
+ 7
+ 65
+ 2
+ 1
+ 28
+PUSHW_2
+ 545
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+DELTAP1
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 50 79 N 1 0 0 1 0 0 3
+Refer: 216 713 N 1 0 0 1 475 372 2
+EndChar

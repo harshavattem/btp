@@ -1,0 +1,90 @@
+StartChar: caron
+Encoding: 711 711 223
+Width: 682
+Flags: W
+TtInstrs:
+NPUSHB
+ 19
+ 5
+ 6
+ 1
+ 15
+ 2
+ 31
+ 2
+ 2
+ 2
+ 135
+ 0
+ 100
+ 4
+ 3
+ 2
+ 60
+ 1
+ 61
+ 3
+PUSHW_1
+ -64
+NPUSHB
+ 17
+ 9
+ 12
+ 52
+ 3
+ 100
+ 0
+ 100
+ 4
+ 127
+ 6
+ 60
+ 5
+ 25
+ 7
+ 155
+ 122
+ 24
+CALL
+RTHG
+FLIPOFF
+SRP0
+MIRP[rp0,rnd,grey]
+RTG
+FLIPON
+MIRP[rp0,min,rnd,black]
+RTHG
+MIRP[rp0,rnd,white]
+RTG
+MIRP[rp0,min,rnd,black]
+MIRP[rp0,min,rnd,black]
+CALL
+RTHG
+MIRP[rp0,rnd,white]
+RTG
+MIRP[min,rnd,black]
+SVTCA[y-axis]
+MDAP[rnd]
+ALIGNRP
+MIRP[min,rnd,black]
+MIRP[rp0,min,rnd,black]
+DELTAP1
+ALIGNRP
+ALIGNRP
+ALIGNRP
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+359 1304 m 1,0,-1
+ 469 1474 l 1,1,-1
+ 673 1474 l 1,2,-1
+ 448 1194 l 1,3,-1
+ 256 1194 l 1,4,-1
+ 40 1474 l 1,5,-1
+ 246 1474 l 1,6,-1
+ 359 1304 l 1,0,-1
+EndSplineSet
+EndChar

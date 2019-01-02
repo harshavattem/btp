@@ -1,0 +1,46 @@
+StartChar: sacute
+Encoding: 347 347 286
+Width: 1024
+Flags: W
+TtInstrs:
+NPUSHB
+ 22
+ 1
+ 207
+ 52
+ 223
+ 52
+ 2
+ 47
+ 52
+ 95
+ 52
+ 2
+ 79
+ 52
+ 1
+ 52
+ 21
+ 0
+ 72
+ 43
+ 1
+ 1
+ 52
+PUSHW_2
+ 546
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+DELTAP1
+DELTAP1
+DELTAP1
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 86 115 N 1 0 0 1 0 0 3
+Refer: 141 180 N 1 0 0 1 172 0 2
+EndChar

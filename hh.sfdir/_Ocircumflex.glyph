@@ -1,0 +1,31 @@
+StartChar: Ocircumflex
+Encoding: 212 212 208
+Width: 1593
+Flags: W
+TtInstrs:
+NPUSHB
+ 10
+ 2
+ 0
+ 30
+ 33
+ 3
+ 3
+ 65
+ 2
+ 1
+ 34
+PUSHW_2
+ 545
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 50 79 N 1 0 0 1 0 0 3
+Refer: 214 710 N 1 0 0 1 454 362 2
+EndChar

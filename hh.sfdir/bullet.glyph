@@ -1,0 +1,49 @@
+StartChar: bullet
+Encoding: 8226 8226 135
+Width: 717
+Flags: W
+TtInstrs:
+PUSHW_2
+ 3
+ 339
+NPUSHB
+ 14
+ 9
+ 6
+ 204
+ 32
+ 0
+ 48
+ 0
+ 2
+ 0
+ 117
+ 12
+ 87
+ 167
+ 24
+CALL
+SRP0
+MIRP[rp0,rnd,white]
+DELTAP1
+MIRP[min,rnd,black]
+SVTCA[y-axis]
+MDAP[rnd]
+MIRP[min,rnd,black]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+109 718 m 256,0,1
+ 109 823 109 823 183.5 897 c 128,-1,2
+ 258 971 258 971 362 971 c 0,3,4
+ 467 971 467 971 541.5 897 c 128,-1,5
+ 616 823 616 823 616 718 c 256,6,7
+ 616 613 616 613 541.5 538.5 c 128,-1,8
+ 467 464 467 464 362 464 c 0,9,10
+ 258 464 258 464 183.5 538.5 c 128,-1,11
+ 109 613 109 613 109 718 c 256,0,1
+EndSplineSet
+EndChar

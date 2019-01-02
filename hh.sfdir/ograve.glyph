@@ -1,0 +1,46 @@
+StartChar: ograve
+Encoding: 242 242 122
+Width: 1139
+Flags: W
+TtInstrs:
+PUSHB_2
+ 2
+ 27
+PUSHW_1
+ -64
+NPUSHB
+ 17
+ 11
+ 13
+ 52
+ 15
+ 27
+ 1
+ 112
+ 27
+ 1
+ 27
+ 4
+ 0
+ 72
+ 43
+ 2
+ 1
+ 27
+PUSHW_2
+ 546
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+DELTAP1
+DELTAP2
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 82 111 N 1 0 0 1 0 0 3
+Refer: 67 96 N 1 0 0 1 222 0 2
+EndChar

@@ -1,0 +1,79 @@
+StartChar: glyph1659
+Encoding: 65879 -1 1659
+Width: 1230
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 9
+ 2
+ 15
+ 75
+ 75
+ 38
+ 38
+ 65
+ 2
+ 88
+PUSHW_1
+ -64
+PUSHB_4
+ 18
+ 22
+ 52
+ 88
+PUSHW_1
+ -128
+PUSHB_3
+ 31
+ 53
+ 88
+PUSHW_1
+ -64
+PUSHB_3
+ 58
+ 53
+ 88
+PUSHW_1
+ -64
+NPUSHB
+ 19
+ 65
+ 66
+ 52
+ 64
+ 88
+ 1
+ 80
+ 88
+ 208
+ 88
+ 2
+ 48
+ 88
+ 64
+ 88
+ 240
+ 88
+ 3
+ 88
+SVTCA[y-axis]
+MDAP[no-rnd]
+DELTAP1
+DELTAP2
+DELTAP3
+CALL
+CALL
+CALL
+CALL
+SHC[rp1]
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 1020 65276 N 1 0 0 1 0 0 3
+Refer: 1333 -1 N 1 0 0 1 100 -1748 2
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 6 subtable" afii62818 glyph1345
+EndChar

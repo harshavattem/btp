@@ -1,0 +1,407 @@
+StartChar: afii10078
+Encoding: 1084 1084 614
+Width: 1408
+Flags: W
+TtInstrs:
+PUSHB_7
+ 7
+ 28
+ 10
+ 13
+ 2
+ 85
+ 2
+PUSHW_1
+ -28
+NPUSHB
+ 118
+ 10
+ 12
+ 2
+ 85
+ 14
+ 2
+ 181
+ 10
+ 197
+ 10
+ 3
+ 18
+ 2
+ 27
+ 7
+ 2
+ 4
+ 1
+ 12
+ 3
+ 3
+ 8
+ 12
+ 9
+ 70
+ 1
+ 74
+ 3
+ 69
+ 8
+ 74
+ 9
+ 86
+ 8
+ 90
+ 9
+ 132
+ 1
+ 143
+ 3
+ 129
+ 8
+ 143
+ 9
+ 208
+ 1
+ 223
+ 3
+ 208
+ 8
+ 223
+ 9
+ 245
+ 8
+ 250
+ 9
+ 20
+ 8
+ 9
+ 25
+ 2
+ 27
+ 9
+ 120
+ 2
+ 120
+ 9
+ 136
+ 9
+ 148
+ 1
+ 155
+ 3
+ 148
+ 8
+ 155
+ 9
+ 164
+ 1
+ 171
+ 3
+ 180
+ 1
+ 187
+ 3
+ 182
+ 8
+ 196
+ 1
+ 203
+ 3
+ 198
+ 8
+ 18
+ 5
+ 8
+ 10
+ 9
+ 20
+ 1
+ 26
+ 3
+ 22
+ 8
+ 27
+ 9
+ 149
+ 1
+ 153
+ 2
+ 154
+ 3
+ 149
+ 8
+ 158
+ 9
+ 11
+ 1
+PUSHW_1
+ -10
+NPUSHB
+ 21
+ 1
+ 10
+ 9
+ 9
+ 11
+ 10
+ 12
+ 6
+ 85
+ 9
+ 43
+ 2
+ 1
+ 20
+ 2
+ 2
+ 1
+ 3
+ 7
+ 8
+ 8
+PUSHW_1
+ -20
+PUSHB_5
+ 10
+ 12
+ 6
+ 85
+ 8
+PUSHW_1
+ -11
+NPUSHB
+ 39
+ 13
+ 13
+ 6
+ 85
+ 8
+ 43
+ 2
+ 3
+ 20
+ 2
+ 2
+ 3
+ 10
+ 7
+ 2
+ 3
+ 11
+ 3
+ 1
+ 6
+ 11
+ 9
+ 9
+ 8
+ 8
+ 6
+ 10
+ 2
+ 9
+ 8
+ 1
+ 3
+ 5
+ 6
+ 11
+ 6
+ 7
+ 37
+ 4
+PUSHW_1
+ -28
+NPUSHB
+ 11
+ 16
+ 16
+ 2
+ 85
+ 4
+ 28
+ 14
+ 14
+ 2
+ 85
+ 4
+PUSHW_1
+ -20
+PUSHB_5
+ 12
+ 12
+ 2
+ 85
+ 4
+PUSHW_1
+ -6
+PUSHB_5
+ 12
+ 12
+ 6
+ 85
+ 4
+PUSHW_1
+ -2
+NPUSHB
+ 33
+ 13
+ 13
+ 6
+ 85
+ 4
+ 8
+ 15
+ 15
+ 6
+ 85
+ 4
+ 32
+ 16
+ 17
+ 6
+ 85
+ 4
+ 78
+ 128
+ 14
+ 176
+ 14
+ 192
+ 14
+ 3
+ 14
+ 63
+ 14
+ 1
+ 11
+ 10
+ 37
+ 0
+PUSHW_1
+ -6
+NPUSHB
+ 11
+ 16
+ 16
+ 2
+ 85
+ 0
+ 6
+ 11
+ 12
+ 2
+ 85
+ 0
+PUSHW_1
+ -2
+PUSHB_5
+ 12
+ 12
+ 6
+ 85
+ 0
+PUSHW_1
+ -12
+NPUSHB
+ 12
+ 15
+ 17
+ 6
+ 85
+ 0
+ 0
+ 32
+ 0
+ 2
+ 0
+ 78
+ 13
+SRP0
+MIRP[rp0,rnd,white]
+DELTAP1
+CALL
+CALL
+CALL
+CALL
+MIRP[rp0,min,rnd,black]
+ALIGNRP
+DELTAP1
+SRP0
+DELTAP1
+MIRP[rp0,rnd,white]
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+MIRP[rp0,min,rnd,black]
+ALIGNRP
+SRP1
+SRP2
+SLOOP
+IP
+SVTCA[y-axis]
+MIAP[rnd]
+ALIGNRP
+SRP0
+ALIGNRP
+SRP0
+ALIGNRP
+MIAP[rnd]
+ALIGNRP
+SRP2
+SLOOP
+IP
+SDPVTL[orthog]
+SFVTCA[x-axis]
+MDAP[no-rnd]
+CALL
+CALL
+CALL
+SDPVTL[orthog]
+RDTG
+MDRP[rnd,grey]
+SDPVTL[orthog]
+MDAP[no-rnd]
+RTG
+CALL
+CALL
+SDPVTL[orthog]
+RDTG
+MDRP[rnd,grey]
+IUP[x]
+IUP[y]
+SVTCA[x-axis]
+SHPIX
+SVTCA[x-axis]
+DELTAP3
+DELTAP1
+DELTAP2
+SVTCA[y-axis]
+DELTAP3
+DELTAP1
+CALL
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+140 1062 m 1,0,-1
+ 420 1062 l 1,1,-1
+ 699 212 l 1,2,-1
+ 1009 1062 l 1,3,-1
+ 1268 1062 l 1,4,-1
+ 1268 0 l 1,5,-1
+ 1088 0 l 1,6,-1
+ 1088 855 l 1,7,-1
+ 774 0 l 1,8,-1
+ 613 0 l 1,9,-1
+ 316 896 l 1,10,-1
+ 316 0 l 1,11,-1
+ 140 0 l 1,12,-1
+ 140 1062 l 1,0,-1
+EndSplineSet
+Kerns2: 621 23 "'kern' Horizontal Kerning lookup 0 subtable" 609 -23 "'kern' Horizontal Kerning lookup 0 subtable" 603 -23 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

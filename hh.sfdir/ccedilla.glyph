@@ -1,0 +1,64 @@
+StartChar: ccedilla
+Encoding: 231 231 111
+Width: 1024
+Flags: W
+TtInstrs:
+PUSHB_2
+ 1
+ 28
+PUSHW_1
+ -64
+NPUSHB
+ 26
+ 20
+ 20
+ 6
+ 85
+ 31
+ 28
+ 47
+ 28
+ 2
+ 16
+ 28
+ 1
+ 239
+ 28
+ 255
+ 28
+ 2
+ 16
+ 28
+ 48
+ 28
+ 127
+ 28
+ 3
+ 28
+ 11
+PUSHW_1
+ -104
+PUSHB_7
+ 72
+ 43
+ 1
+ 1
+ 28
+ 8
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+DELTAP1
+DELTAP1
+DELTAP2
+DELTAP3
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 70 99 N 1 0 0 1 0 0 3
+Refer: 220 184 N 1 0 0 1 195 20 2
+EndChar

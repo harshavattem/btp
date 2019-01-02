@@ -1,0 +1,43 @@
+StartChar: Odblacute
+Encoding: 336 336 279
+Width: 1593
+Flags: W
+TtInstrs:
+NPUSHB
+ 19
+ 3
+ 2
+ 0
+ 32
+ 32
+ 32
+ 2
+ 240
+ 32
+ 1
+ 32
+ 3
+ 86
+ 72
+ 43
+ 2
+ 3
+ 2
+ 35
+PUSHW_2
+ 545
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+DELTAP1
+DELTAP2
+SHC[rp1]
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 50 79 N 1 0 0 1 0 0 3
+Refer: 221 733 N 1 0 0 1 415 362 2
+EndChar

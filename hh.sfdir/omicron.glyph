@@ -1,0 +1,9 @@
+StartChar: omicron
+Encoding: 959 959 544
+Width: 1139
+Flags: W
+LayerCount: 2
+Fore
+Refer: 82 111 N 1 0 0 1 0 0 3
+Kerns2: 652 -29 "'kern' Horizontal Kerning lookup 0 subtable" 548 -55 "'kern' Horizontal Kerning lookup 0 subtable" 540 -39 "'kern' Horizontal Kerning lookup 0 subtable" 306 -29 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

@@ -1,0 +1,31 @@
+StartChar: patah
+Encoding: 1463 1463 660
+Width: 682
+Flags: W
+TtInstrs:
+PUSHB_6
+ 1
+ 100
+ 0
+ 2
+ 2
+ 1
+MDAP[rnd]
+SHP[rp1]
+MDAP[rnd]
+SVTCA[y-axis]
+MDAP[rnd]
+MIRP[min,rnd,black]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+140 -315 m 1,0,-1
+ 140 -211 l 1,1,-1
+ 542 -211 l 1,2,-1
+ 542 -315 l 1,3,-1
+ 140 -315 l 1,0,-1
+EndSplineSet
+EndChar

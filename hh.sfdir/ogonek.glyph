@@ -1,0 +1,103 @@
+StartChar: ogonek
+Encoding: 731 731 222
+Width: 682
+Flags: W
+TtInstrs:
+NPUSHB
+ 9
+ 217
+ 2
+ 1
+ 14
+ 32
+ 13
+ 19
+ 52
+ 6
+PUSHW_1
+ -64
+PUSHB_4
+ 25
+ 28
+ 52
+ 6
+PUSHW_1
+ 671
+NPUSHB
+ 14
+ 12
+ 15
+ 0
+ 10
+ 8
+ 32
+ 9
+ 48
+ 9
+ 2
+ 9
+ 85
+ 18
+ 3
+PUSHW_1
+ -64
+NPUSHB
+ 14
+ 25
+ 28
+ 52
+ 3
+ 172
+ 15
+ 1
+ 172
+ 0
+ 56
+ 15
+ 159
+ 17
+ 161
+PUSHW_2
+ 390
+ 24
+CALL
+SRP0
+MIRP[rp0,rnd,white]
+MIRP[rp0,rnd,grey]
+MIRP[min,rnd,black]
+SRP0
+MIRP[min,rnd,black]
+CALL
+SRP0
+MIRP[rp0,rnd,white]
+DELTAP1
+ALIGNRP
+SVTCA[y-axis]
+MIAP[rnd]
+MIAP[rnd]
+MIRP[min,rnd,black]
+CALL
+IUP[x]
+IUP[y]
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+DELTAP1
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+224 24 m 1,0,-1
+ 348 24 l 1,1,2
+ 309 -65 309 -65 309 -140 c 0,3,4
+ 309 -208 309 -208 350 -250 c 128,-1,5
+ 391 -292 391 -292 453 -292 c 0,6,7
+ 530 -292 530 -292 621 -246 c 1,8,-1
+ 621 -365 l 1,9,10
+ 569 -392 569 -392 508 -409 c 128,-1,11
+ 447 -426 447 -426 402 -426 c 0,12,13
+ 303 -426 303 -426 243 -366 c 128,-1,14
+ 183 -306 183 -306 183 -205 c 0,15,16
+ 183 -119 183 -119 224 24 c 1,0,-1
+EndSplineSet
+EndChar

@@ -1,0 +1,39 @@
+StartChar: Acircumflex
+Encoding: 194 194 198
+Width: 1366
+Flags: W
+TtInstrs:
+NPUSHB
+ 15
+ 2
+ 111
+ 17
+ 159
+ 17
+ 2
+ 0
+ 17
+ 20
+ 1
+ 2
+ 65
+ 2
+ 1
+ 21
+PUSHW_3
+ 545
+ 41
+ 356
+SCANCTRL
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+DELTAP3
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 36 65 N 1 0 0 1 0 0 3
+Refer: 214 710 N 1 0 0 1 320 362 2
+EndChar

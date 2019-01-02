@@ -1,0 +1,27 @@
+StartChar: Ahookabove
+Encoding: 7842 7842 1190
+Width: 1366
+Flags: W
+TtInstrs:
+NPUSHB
+ 10
+ 2
+ 127
+ 35
+ 1
+ 0
+ 35
+ 34
+ 1
+ 2
+ 65
+SVTCA[x-axis]
+CALL
+DELTAP1
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 36 65 N 1 0 0 1 0 0 3
+Refer: 1140 777 N 1 0 0 1 940 0 2
+EndChar

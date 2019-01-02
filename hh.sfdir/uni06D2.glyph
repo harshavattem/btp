@@ -1,0 +1,218 @@
+StartChar: uni06D2
+Encoding: 1746 1746 1600
+AltUni2: 00fbae.ffffffff.0
+Width: 1663
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 64
+ 11
+ 15
+ 27
+ 15
+ 2
+ 21
+ 3
+ 0
+ 11
+ 16
+ 11
+ 2
+ 26
+ 5
+ 23
+ 25
+ 25
+ 64
+ 23
+ 25
+ 52
+ 25
+ 25
+ 37
+ 1
+ 40
+ 42
+ 37
+ 64
+ 30
+ 37
+ 52
+ 37
+ 6
+ 41
+ 35
+ 1
+ 15
+ 33
+ 1
+ 255
+ 33
+ 1
+ 42
+ 33
+ 1
+ 3
+ 15
+ 33
+ 63
+ 33
+ 79
+ 33
+ 175
+ 33
+ 191
+ 33
+ 5
+ 11
+ 5
+ 35
+ 33
+ 39
+ 27
+PUSHW_1
+ 751
+NPUSHB
+ 25
+ 19
+ 64
+ 13
+ 32
+ 28
+ 37
+ 52
+ 13
+ 32
+ 23
+ 25
+ 52
+ 13
+ 32
+ 18
+ 22
+ 52
+ 15
+ 13
+ 31
+ 13
+ 2
+ 26
+ 3
+ 9
+PUSHW_1
+ -24
+NPUSHB
+ 17
+ 9
+ 12
+ 52
+ 181
+ 9
+ 197
+ 9
+ 213
+ 9
+ 3
+ 9
+ 13
+ 39
+ 25
+ 19
+ 0
+ 39
+PUSHW_2
+ 751
+ 2
+SVTCA[y-axis]
+MDAP[rnd]
+MIRP[min,rnd,black]
+IP
+MDAP[rnd]
+MDRP[min,rnd,black]
+SRP2
+IP
+IP
+DELTAP1
+CALL
+SVTCA[y-axis]
+SDS
+SDB
+DELTAP1
+CALL
+CALL
+CALL
+SVTCA[y-axis]
+SMD
+RTG
+SRP0
+FLIPON
+MIRP[min,rnd,black]
+SRP1
+IP
+IP
+SDS
+SDB
+DELTAP1
+SDS
+DELTAP2
+DELTAP1
+DELTAP2
+DELTAP2
+SVTCA[x-axis]
+MDAP[rnd]
+MDRP[min,rnd,black]
+CALL
+SVTCA[x-axis]
+SRP0
+MDRP[grey]
+SHP[rp2]
+SRP1
+IP
+RTHG
+MDAP[rnd]
+CALL
+SVTCA[x-axis]
+SRP1
+SHP[rp1]
+IUP[x]
+IUP[y]
+SVTCA[y-axis]
+SDS
+SDB
+DELTAP1
+SDS
+SDB
+DELTAP1
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+1663 114 m 1,0,-1
+ 1410 -51 l 1,1,-1
+ 241 -51 l 2,2,3
+ 125 -51 125 -51 100 -37 c 0,4,5
+ 72 -21 72 -21 71 11 c 0,6,7
+ 69 75 69 75 95.5 166.5 c 128,-1,8
+ 122 258 122 258 156 298 c 0,9,10
+ 180 325 180 325 312 398 c 0,11,12
+ 401 446 401 446 490 494 c 0,13,14
+ 571 541 571 541 671 652 c 0,15,16
+ 741 730 741 730 745 734 c 0,17,18
+ 776 763 776 763 809 763 c 0,19,20
+ 851 763 851 763 876 709 c 0,21,22
+ 898 661 898 661 898 590 c 0,23,24
+ 898 513 898 513 887 467 c 1,25,26
+ 826 591 826 591 765 591 c 0,27,28
+ 711 591 711 591 646 515 c 0,29,30
+ 642 510 642 510 592 433 c 0,31,32
+ 556 378 556 378 526 364 c 0,33,34
+ 425 312 425 312 273 235 c 0,35,36
+ 153 177 153 177 153 152 c 0,37,38
+ 153 123 153 123 247 123 c 2,39,-1
+ 1663 123 l 1,40,-1
+ 1663 114 l 1,0,-1
+EndSplineSet
+Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uniFBAF
+Substitution2: "'fina' Terminal Forms in Arabic lookup 4 subtable" uniFBAF
+EndChar

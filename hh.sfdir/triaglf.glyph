@@ -1,0 +1,13 @@
+StartChar: triaglf
+Encoding: 9668 9668 379
+Width: 2027
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1739 1417 m 1,0,-1
+ 1739 -31 l 1,1,-1
+ 288 693 l 1,2,-1
+ 1739 1417 l 1,0,-1
+EndSplineSet
+EndChar

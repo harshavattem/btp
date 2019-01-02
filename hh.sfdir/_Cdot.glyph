@@ -1,0 +1,30 @@
+StartChar: Cdot
+Encoding: 266 266 410
+Width: 1479
+Flags: W
+TtInstrs:
+NPUSHB
+ 9
+ 1
+ 30
+ 11
+ 100
+ 72
+ 43
+ 1
+ 1
+ 30
+PUSHW_2
+ 545
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 38 67 N 1 0 0 1 0 0 3
+Refer: 218 729 N 1 0 0 1 432 400 2
+EndChar

@@ -1,0 +1,42 @@
+StartChar: emdash
+Encoding: 8212 8212 178
+Width: 2048
+Flags: W
+TtInstrs:
+NPUSHB
+ 13
+ 1
+ 53
+ 0
+ 2
+ 5
+ 32
+ 0
+ 1
+ 0
+ 4
+ 179
+ 122
+ 24
+CALL
+SRP0
+ALIGNRP
+DELTAP1
+SRP0
+ALIGNRP
+SVTCA[y-axis]
+MDAP[rnd]
+MIRP[min,rnd,black]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+0 458 m 1,0,-1
+ 0 603 l 1,1,-1
+ 2048 603 l 1,2,-1
+ 2048 458 l 1,3,-1
+ 0 458 l 1,0,-1
+EndSplineSet
+EndChar

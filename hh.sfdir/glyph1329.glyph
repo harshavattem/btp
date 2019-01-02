@@ -1,0 +1,79 @@
+StartChar: glyph1329
+Encoding: 65738 -1 1329
+Width: 500
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_3
+ 7
+ 5
+ 4
+PUSHW_1
+ 769
+PUSHB_4
+ 6
+ 3
+ 1
+ 0
+PUSHW_1
+ 769
+NPUSHB
+ 9
+ 16
+ 2
+ 32
+ 2
+ 2
+ 2
+ 6
+ 4
+ 5
+PUSHW_1
+ 770
+PUSHB_5
+ 7
+ 7
+ 2
+ 0
+ 3
+PUSHW_2
+ 770
+ 1
+SVTCA[y-axis]
+MDAP[rnd]
+MIRP[min,rnd,black]
+IP
+IP
+SHP[rp1]
+MDAP[rnd]
+MIRP[min,rnd,black]
+IP
+IP
+SVTCA[x-axis]
+MDAP[rnd]
+DELTAP1
+MIRP[min,rnd,black]
+IP
+IP
+MDRP[rp0,min,rnd,white]
+MIRP[min,rnd,black]
+IP
+IP
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+345 56 m 1,0,-1
+ 271 -89 l 1,1,-1
+ 107 -5 l 1,2,-1
+ 183 140 l 1,3,-1
+ 345 56 l 1,0,-1
+391 -194 m 1,4,-1
+ 317 -340 l 1,5,-1
+ 154 -254 l 1,6,-1
+ 231 -108 l 1,7,-1
+ 391 -194 l 1,4,-1
+EndSplineSet
+EndChar

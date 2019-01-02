@@ -1,0 +1,9 @@
+StartChar: afii10035
+Encoding: 1057 1057 587
+Width: 1479
+Flags: W
+LayerCount: 2
+Fore
+Refer: 38 67 N 1 0 0 1 0 0 3
+Kerns2: 625 -23 "'kern' Horizontal Kerning lookup 0 subtable" 608 45 "'kern' Horizontal Kerning lookup 0 subtable" 602 23 "'kern' Horizontal Kerning lookup 0 subtable" 599 -23 "'kern' Horizontal Kerning lookup 0 subtable" 596 -70 "'kern' Horizontal Kerning lookup 0 subtable" 593 -68 "'kern' Horizontal Kerning lookup 0 subtable" 591 -115 "'kern' Horizontal Kerning lookup 0 subtable" 589 -68 "'kern' Horizontal Kerning lookup 0 subtable" 588 -68 "'kern' Horizontal Kerning lookup 0 subtable" 584 -45 "'kern' Horizontal Kerning lookup 0 subtable" 582 -23 "'kern' Horizontal Kerning lookup 0 subtable" 581 -68 "'kern' Horizontal Kerning lookup 0 subtable" 577 -23 "'kern' Horizontal Kerning lookup 0 subtable" 574 -45 "'kern' Horizontal Kerning lookup 0 subtable" 570 -45 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

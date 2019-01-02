@@ -1,0 +1,48 @@
+StartChar: Idotaccent
+Encoding: 304 304 248
+Width: 569
+Flags: W
+TtInstrs:
+PUSHB_3
+ 1
+ 1
+ 7
+PUSHW_2
+ 545
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+PUSHB_2
+ 6
+ 2
+RS
+EQ
+IF
+PUSHB_7
+ 1
+ 0
+ 5
+ 6
+ 1
+ 2
+ 65
+CALL
+SHC[rp1]
+ELSE
+PUSHB_7
+ 1
+ 1
+ 7
+ 2
+ 9
+ 72
+ 39
+CALL
+EIF
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 44 73 N 1 0 0 1 0 0 3
+Refer: 218 729 N 1 0 0 1 -52 362 2
+EndChar

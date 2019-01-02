@@ -1,0 +1,43 @@
+StartChar: nacute
+Encoding: 324 324 276
+Width: 1139
+Flags: W
+TtInstrs:
+PUSHB_5
+ 1
+ 63
+ 26
+ 1
+ 26
+PUSHW_1
+ -64
+PUSHB_5
+ 18
+ 20
+ 52
+ 26
+ 5
+PUSHW_1
+ -38
+PUSHB_5
+ 72
+ 43
+ 1
+ 1
+ 26
+PUSHW_2
+ 546
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+CALL
+DELTAP2
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 81 110 N 1 0 0 1 0 0 3
+Refer: 141 180 N 1 0 0 1 226 0 2
+EndChar

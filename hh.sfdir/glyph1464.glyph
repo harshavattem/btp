@@ -1,0 +1,47 @@
+StartChar: glyph1464
+Encoding: 65795 -1 1464
+Width: 1077
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 22
+ 3
+ 2
+ 1
+ 0
+ 40
+ 34
+ 10
+ 17
+ 65
+ 3
+ 2
+ 1
+ 47
+ 39
+ 63
+ 39
+ 96
+ 39
+ 128
+ 39
+ 4
+ 39
+SVTCA[y-axis]
+MDAP[rnd]
+DELTAP1
+SHC[rp1]
+SHC[rp1]
+SHC[rp1]
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+SHC[rp1]
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 971 65227 N 1 0 0 1 0 0 3
+Refer: 1327 -1 N 1 0 0 1 120 1440 2
+EndChar

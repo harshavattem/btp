@@ -1,0 +1,47 @@
+StartChar: uniFB98
+Encoding: 64408 64408 1525
+Width: 807
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 16
+ 3
+ 2
+ 0
+ 47
+ 41
+ 1
+ 0
+ 65
+ 3
+ 2
+ 46
+ 64
+ 12
+ 21
+ 52
+ 46
+PUSHW_1
+ -64
+PUSHB_4
+ 9
+ 10
+ 52
+ 46
+SVTCA[y-axis]
+MDAP[rnd]
+CALL
+CALL
+SHC[rp1]
+SHC[rp1]
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 819 64404 N 1 0 0 1 0 0 3
+Refer: 1329 -1 N 1 0 0 1 160 0 2
+EndChar

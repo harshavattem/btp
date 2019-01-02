@@ -1,0 +1,263 @@
+StartChar: afii10041
+Encoding: 1063 1063 593
+Width: 1365
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 105
+ 2
+ 121
+ 2
+ 137
+ 2
+ 3
+ 22
+ 8
+ 2
+ 4
+PUSHW_1
+ 584
+NPUSHB
+ 11
+ 14
+ 14
+ 17
+ 10
+ 2
+ 1
+ 8
+ 17
+ 1
+ 32
+ 0
+PUSHW_1
+ -8
+PUSHB_5
+ 16
+ 16
+ 2
+ 85
+ 0
+PUSHW_1
+ -28
+NPUSHB
+ 11
+ 15
+ 15
+ 2
+ 85
+ 0
+ 30
+ 13
+ 13
+ 2
+ 85
+ 0
+PUSHW_1
+ -2
+PUSHB_5
+ 12
+ 12
+ 2
+ 85
+ 0
+PUSHW_1
+ -24
+NPUSHB
+ 11
+ 11
+ 11
+ 2
+ 85
+ 0
+ 6
+ 13
+ 13
+ 6
+ 85
+ 0
+PUSHW_1
+ -4
+NPUSHB
+ 43
+ 12
+ 12
+ 6
+ 85
+ 0
+ 93
+ 128
+ 20
+ 1
+ 20
+ 11
+ 32
+ 8
+ 10
+ 16
+ 16
+ 2
+ 85
+ 8
+ 20
+ 15
+ 15
+ 2
+ 85
+ 8
+ 22
+ 13
+ 13
+ 2
+ 85
+ 8
+ 26
+ 12
+ 12
+ 2
+ 85
+ 8
+ 18
+ 11
+ 11
+ 2
+ 85
+ 8
+PUSHW_1
+ -14
+NPUSHB
+ 26
+ 16
+ 16
+ 6
+ 85
+ 8
+ 14
+ 15
+ 15
+ 6
+ 85
+ 8
+ 12
+ 13
+ 13
+ 6
+ 85
+ 8
+ 24
+ 12
+ 12
+ 6
+ 85
+ 32
+ 8
+ 1
+ 8
+PUSHW_1
+ -64
+NPUSHB
+ 18
+ 19
+ 21
+ 52
+ 8
+ 93
+ 19
+ 32
+ 20
+ 1
+ 32
+ 20
+ 80
+ 20
+ 96
+ 20
+ 112
+ 20
+ 4
+DELTAP1
+DELTAP2
+SRP0
+MIRP[rp0,rnd,white]
+CALL
+DELTAP1
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+MIRP[min,rnd,black]
+SRP0
+DELTAP1
+MIRP[rp0,rnd,white]
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+MIRP[rp0,min,rnd,black]
+ALIGNRP
+SVTCA[y-axis]
+MIAP[rnd]
+MIAP[rnd]
+ALIGNRP
+IP
+MDAP[rnd]
+MIRP[min,rnd,black]
+IP
+IUP[x]
+IUP[y]
+RS
+JROF
+NPUSHB
+ 14
+ 5
+ 13
+ 6
+ 37
+ 13
+ 5
+ 11
+ 54
+ 0
+ 12
+ 7
+ 14
+ 54
+ 0
+CALL
+SVTCA[x-axis]
+CALL
+CALL
+FLIPRGON
+SVTCA[y-axis]
+DELTAP1
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+1204 0 m 1,0,-1
+ 1010 0 l 1,1,-1
+ 1010 591 l 1,2,3
+ 749 494 749 494 553 494 c 0,4,5
+ 400 494 400 494 283 565.5 c 128,-1,6
+ 166 637 166 637 126.5 747 c 128,-1,7
+ 87 857 87 857 87 1035 c 2,8,-1
+ 87 1466 l 1,9,-1
+ 281 1466 l 1,10,-1
+ 281 1053 l 2,11,12
+ 281 813 281 813 368.5 737.5 c 128,-1,13
+ 456 662 456 662 579 662 c 0,14,15
+ 784 662 784 662 1010 753 c 1,16,-1
+ 1010 1466 l 1,17,-1
+ 1204 1466 l 1,18,-1
+ 1204 0 l 1,0,-1
+EndSplineSet
+EndChar

@@ -1,0 +1,27 @@
+StartChar: adotbelow
+Encoding: 7841 7841 1189
+Width: 1139
+Flags: W
+TtInstrs:
+NPUSHB
+ 10
+ 2
+ 31
+ 57
+ 1
+ 0
+ 57
+ 58
+ 47
+ 55
+ 65
+SVTCA[x-axis]
+CALL
+DELTAP1
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 68 97 N 1 0 0 1 0 0 3
+Refer: 1149 61484 N 1 0 0 1 712 0 2
+EndChar

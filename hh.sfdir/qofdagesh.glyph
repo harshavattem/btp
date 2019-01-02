@@ -1,0 +1,66 @@
+StartChar: qofdagesh
+Encoding: 64327 64327 735
+Width: 1126
+Flags: W
+TtInstrs:
+NPUSHB
+ 28
+ 2
+ 35
+ 8
+ 16
+ 16
+ 6
+ 85
+ 35
+ 64
+ 62
+ 67
+ 52
+ 35
+ 64
+ 51
+ 55
+ 52
+ 35
+ 64
+ 29
+ 31
+ 52
+ 255
+ 35
+ 1
+ 112
+ 35
+ 1
+PUSHW_1
+ -93
+PUSHB_8
+ 35
+ 28
+ 23
+ 19
+ 65
+ 2
+ 1
+ 25
+PUSHW_2
+ 738
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+DELTAP1
+DELTAP2
+CALL
+CALL
+CALL
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 695 1511 N 1 0 0 1 0 0 3
+Refer: 664 1468 N 1 0 0 1 200 0 2
+EndChar

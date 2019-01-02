@@ -1,0 +1,34 @@
+StartChar: gbreve
+Encoding: 287 287 247
+Width: 1139
+Flags: W
+TtInstrs:
+NPUSHB
+ 12
+ 2
+ 192
+ 47
+ 1
+ 47
+ 19
+ 44
+ 104
+ 43
+ 2
+ 1
+ 47
+PUSHW_2
+ 546
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+DELTAP2
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 74 103 N 1 0 0 1 0 0 3
+Refer: 217 728 N 1 0 0 1 228 0 2
+EndChar

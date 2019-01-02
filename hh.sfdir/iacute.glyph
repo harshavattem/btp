@@ -1,0 +1,57 @@
+StartChar: iacute
+Encoding: 237 237 116
+Width: 569
+Flags: W
+TtInstrs:
+PUSHB_8
+ 1
+ 7
+ 64
+ 11
+ 11
+ 6
+ 85
+ 7
+PUSHW_1
+ -64
+PUSHB_4
+ 23
+ 25
+ 52
+ 7
+PUSHW_1
+ -64
+NPUSHB
+ 14
+ 34
+ 37
+ 52
+ 47
+ 7
+ 1
+ 7
+ 1
+ 90
+ 72
+ 43
+ 1
+ 1
+ 7
+PUSHW_2
+ 546
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+DELTAP1
+CALL
+CALL
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 213 305 N 1 0 0 1 0 0 3
+Refer: 141 180 N 1 0 0 1 -33 0 2
+EndChar

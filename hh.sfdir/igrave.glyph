@@ -1,0 +1,48 @@
+StartChar: igrave
+Encoding: 236 236 117
+Width: 569
+Flags: W
+TtInstrs:
+NPUSHB
+ 16
+ 1
+ 5
+ 64
+ 23
+ 25
+ 52
+ 5
+ 64
+ 34
+ 37
+ 52
+ 32
+ 5
+ 1
+ 5
+ 2
+PUSHW_1
+ -90
+PUSHB_5
+ 72
+ 43
+ 1
+ 1
+ 5
+PUSHW_2
+ 546
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+DELTAP1
+CALL
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 213 305 N 1 0 0 1 0 0 3
+Refer: 67 96 N 1 0 0 1 -54 0 2
+EndChar

@@ -1,0 +1,31 @@
+StartChar: Ohorntilde
+Encoding: 7904 7904 1252
+Width: 1756
+Flags: W
+TtInstrs:
+NPUSHB
+ 10
+ 2
+ 0
+ 45
+ 57
+ 37
+ 37
+ 65
+ 2
+ 1
+ 45
+PUSHW_2
+ 545
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 1130 416 N 1 0 0 1 0 0 3
+Refer: 215 732 N 1 0 0 1 459 337 2
+EndChar

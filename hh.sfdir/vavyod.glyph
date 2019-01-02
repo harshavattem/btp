@@ -1,0 +1,95 @@
+StartChar: vavyod
+Encoding: 1521 1521 700
+Width: 1010
+Flags: W
+TtInstrs:
+PUSHB_7
+ 2
+ 10
+ 6
+ 3
+ 7
+ 6
+ 9
+PUSHW_1
+ 712
+NPUSHB
+ 25
+ 0
+ 32
+ 3
+ 13
+ 15
+ 15
+ 6
+ 85
+ 3
+ 3
+ 12
+ 12
+ 6
+ 85
+ 3
+ 148
+ 4
+ 32
+ 7
+ 20
+ 16
+ 16
+ 6
+ 85
+ 7
+PUSHW_1
+ -3
+PUSHB_5
+ 13
+ 13
+ 6
+ 85
+ 7
+PUSHW_1
+ -3
+PUSHB_5
+ 11
+ 11
+ 6
+ 85
+ 7
+PUSHW_2
+ 711
+ 8
+SRP0
+MIRP[rp0,rnd,white]
+CALL
+CALL
+CALL
+MIRP[rp0,min,rnd,black]
+MIRP[rp0,rnd,white]
+CALL
+CALL
+MIRP[rp0,min,rnd,black]
+MIRP[rnd,white]
+SVTCA[y-axis]
+MIAP[rnd]
+ALIGNRP
+MDAP[rnd]
+MIAP[rnd]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+855 1061 m 1,0,-1
+ 855 0 l 1,1,-1
+ 660 0 l 1,2,-1
+ 660 1061 l 1,3,-1
+ 855 1061 l 1,0,-1
+350 1061 m 1,4,-1
+ 350 512 l 1,5,-1
+ 155 512 l 1,6,-1
+ 155 1061 l 1,7,-1
+ 350 1061 l 1,4,-1
+EndSplineSet
+EndChar

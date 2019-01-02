@@ -1,0 +1,51 @@
+StartChar: uniFBD5
+Encoding: 64469 64469 1505
+Width: 807
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 25
+ 3
+ 2
+ 1
+ 239
+ 40
+ 1
+ 0
+ 40
+ 40
+ 10
+ 10
+ 65
+ 3
+ 2
+ 1
+ 63
+ 39
+ 79
+ 39
+ 128
+ 39
+ 191
+ 39
+ 4
+ 39
+SVTCA[y-axis]
+MDAP[rnd]
+DELTAP1
+SHC[rp1]
+SHC[rp1]
+SHC[rp1]
+SVTCA[x-axis]
+CALL
+DELTAP1
+SHC[rp1]
+SHC[rp1]
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 815 64400 N 1 0 0 1 0 0 3
+Refer: 1646 -1 N 1 0 0 1 40 1785 2
+EndChar

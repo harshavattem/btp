@@ -1,0 +1,35 @@
+StartChar: shindot
+Encoding: 1473 1473 669
+Width: 682
+Flags: W
+TtInstrs:
+PUSHW_6
+ 7
+ 723
+ 0
+ 3
+ 723
+ 10
+MDAP[rnd]
+MIRP[min,rnd,black]
+SVTCA[y-axis]
+MDAP[rnd]
+MIRP[min,rnd,black]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+863 1351 m 0,0,1
+ 904 1351 904 1351 925.5 1324.5 c 128,-1,2
+ 947 1298 947 1298 947 1266 c 0,3,4
+ 947 1244 947 1244 938 1226 c 128,-1,5
+ 929 1208 929 1208 909.5 1195 c 128,-1,6
+ 890 1182 890 1182 863 1182 c 0,7,8
+ 828 1182 828 1182 803.5 1206.5 c 128,-1,9
+ 779 1231 779 1231 779 1266 c 0,10,11
+ 779 1307 779 1307 806 1329 c 128,-1,12
+ 833 1351 833 1351 863 1351 c 0,0,1
+EndSplineSet
+EndChar

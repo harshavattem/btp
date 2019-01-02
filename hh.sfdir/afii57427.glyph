@@ -1,0 +1,277 @@
+StartChar: afii57427
+Encoding: 1587 1587 945
+AltUni2: 00feb1.ffffffff.0
+Width: 1682
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_6
+ 64
+ 32
+ 16
+ 17
+ 52
+ 30
+PUSHW_1
+ -32
+NPUSHB
+ 26
+ 14
+ 17
+ 52
+ 33
+ 32
+ 11
+ 17
+ 52
+ 38
+ 52
+ 11
+ 17
+ 52
+ 65
+ 65
+ 66
+ 58
+ 52
+ 53
+ 44
+ 66
+ 66
+ 40
+ 53
+ 53
+ 39
+PUSHW_3
+ 751
+ 40
+ 777
+PUSHB_3
+ 25
+ 31
+ 24
+PUSHW_3
+ 775
+ 58
+ 751
+PUSHB_3
+ 0
+ 0
+ 44
+PUSHW_7
+ 751
+ 9
+ 747
+ 31
+ 751
+ 15
+ 785
+PUSHB_4
+ 4
+ 65
+ 49
+ 52
+PUSHW_3
+ 762
+ 53
+ -64
+NPUSHB
+ 17
+ 9
+ 17
+ 52
+ 53
+ 53
+ 65
+ 9
+ 40
+ 40
+ 15
+ 39
+ 31
+ 39
+ 2
+ 39
+ 39
+ 35
+PUSHW_4
+ 773
+ 44
+ 9
+ -64
+NPUSHB
+ 15
+ 9
+ 13
+ 52
+ 9
+ 9
+ 65
+ 28
+ 66
+ 66
+ 63
+ 65
+ 1
+ 65
+ 65
+ 61
+NPUSHW
+ 10
+ 773
+ 64
+ 0
+ 752
+ 72
+ 25
+ 763
+ 32
+ 24
+ -64
+PUSHB_6
+ 9
+ 11
+ 52
+ 24
+ 24
+ 28
+PUSHW_1
+ 771
+PUSHB_4
+ 0
+ 19
+ 1
+ 19
+PUSHW_1
+ 298
+SCANCTRL
+MDAP[rnd]
+DELTAP1
+MIRP[rp0,min,rnd,black]
+SHP[rp2]
+RTHG
+MDAP[rnd]
+CALL
+SMD
+MIRP[min,rnd,black]
+RTG
+SRP0
+MIRP[rp0,rnd,black]
+SMD
+MIRP[rp0,min,rnd,black]
+SHP[rp2]
+MDAP[rnd]
+DELTAP1
+RTHG
+IP
+MDAP[rnd]
+RTG
+SRP1
+SRP2
+IP
+MDAP[rnd]
+CALL
+ALIGNRP
+MIRP[rp0,min,rnd,black]
+SHP[rp2]
+MDAP[rnd]
+DELTAP1
+RTHG
+IP
+MDAP[rnd]
+SRP1
+SRP2
+IP
+MDAP[rnd]
+CALL
+MIRP[rp0,rnd,grey]
+IP
+SRP2
+IP
+SVTCA[y-axis]
+RTG
+MIAP[rnd]
+MIRP[min,rnd,black]
+MIAP[rnd]
+MIRP[min,rnd,black]
+ALIGNRP
+SRP0
+MIRP[min,rnd,black]
+MIAP[rnd]
+SRP2
+IP
+MIAP[rnd]
+MIRP[rp0,min,rnd,black]
+IP
+MDAP[rnd]
+SRP2
+IP
+MDAP[rnd]
+SRP1
+SRP2
+IP
+SRP1
+SRP2
+IP
+MDAP[rnd]
+IUP[x]
+IUP[y]
+SVTCA[x-axis]
+CALL
+CALL
+CALL
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+1682 293 m 1,0,-1
+ 1603 293 l 2,1,2
+ 1543 293 1543 293 1497.5 309.5 c 128,-1,3
+ 1452 326 1452 326 1405 362 c 1,4,5
+ 1363 324 1363 324 1330 311 c 0,6,7
+ 1283 293 1283 293 1193 293 c 2,8,-1
+ 1070 293 l 1,9,10
+ 1070 201 1070 201 1026 114 c 0,11,12
+ 969 1 969 1 852 -65 c 0,13,14
+ 705 -148 705 -148 484 -148 c 0,15,16
+ 284 -148 284 -148 178 -78 c 0,17,18
+ 62 -1 62 -1 62 158 c 0,19,20
+ 62 244 62 244 83 332 c 128,-1,21
+ 104 420 104 420 140 509 c 0,22,23
+ 162 563 162 563 216 675 c 1,24,-1
+ 256 657 l 1,25,26
+ 186 513 186 513 163.5 430 c 128,-1,27
+ 141 347 141 347 141 278 c 0,28,29
+ 141 154 141 154 229.5 89.5 c 128,-1,30
+ 318 25 318 25 482 25 c 0,31,32
+ 674 25 674 25 825 92 c 0,33,34
+ 1013 175 1013 175 1013 324 c 0,35,36
+ 1013 424 1013 424 976 514 c 0,37,38
+ 947 585 947 585 894 650 c 1,39,-1
+ 977 855 l 1,40,41
+ 1027 773 1027 773 1045 710 c 0,42,43
+ 1070 621 1070 621 1070 467 c 1,44,-1
+ 1193 467 l 2,45,46
+ 1288 467 1288 467 1328 496 c 0,47,48
+ 1363 521 1363 521 1363 573 c 0,49,50
+ 1363 602 1363 602 1359.5 631.5 c 128,-1,51
+ 1356 661 1356 661 1349 696 c 1,52,-1
+ 1389 756 l 1,53,-1
+ 1405 659 l 1,54,55
+ 1427 561 1427 561 1464 518 c 0,56,57
+ 1505 470 1505 470 1580 470 c 0,58,59
+ 1603 470 1603 470 1615.5 484.5 c 128,-1,60
+ 1628 499 1628 499 1628 521 c 0,61,62
+ 1628 571 1628 571 1597 628 c 0,63,64
+ 1574 670 1574 670 1536 712 c 1,65,-1
+ 1603 821 l 1,66,67
+ 1650 744 1650 744 1660 716 c 0,68,69
+ 1682 653 1682 653 1682 533 c 2,70,-1
+ 1682 293 l 1,0,-1
+EndSplineSet
+Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" afii62786
+Substitution2: "'fina' Terminal Forms in Arabic lookup 4 subtable" afii62786
+Substitution2: "'medi' Medial Forms in Arabic lookup 3 subtable" afii62785
+Substitution2: "'init' Initial Forms in Arabic lookup 2 subtable" afii62784
+EndChar

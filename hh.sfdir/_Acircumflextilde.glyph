@@ -1,0 +1,60 @@
+StartChar: Acircumflextilde
+Encoding: 7850 7850 1198
+Width: 1366
+Flags: W
+TtInstrs:
+NPUSHB
+ 34
+ 3
+ 22
+ 64
+ 29
+ 32
+ 52
+ 22
+ 64
+ 20
+ 23
+ 52
+ 16
+ 22
+ 1
+ 0
+ 22
+ 32
+ 1
+ 2
+ 65
+ 2
+ 0
+ 17
+ 20
+ 1
+ 2
+ 65
+ 2
+ 17
+ 64
+ 25
+ 40
+ 52
+ 17
+SVTCA[y-axis]
+MDAP[rnd]
+CALL
+SHC[rp1]
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+CALL
+DELTAP1
+CALL
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 36 65 N 1 0 0 1 0 0 3
+Refer: 1148 -1 N 1 0 0 1 653 25 2
+Refer: 1183 61485 N 1 0 0 1 1340 0 2
+EndChar

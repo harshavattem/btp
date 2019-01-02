@@ -1,0 +1,50 @@
+StartChar: ucircumflex
+Encoding: 251 251 128
+Width: 1139
+Flags: W
+TtInstrs:
+PUSHB_4
+ 1
+ 1
+ 1
+ 31
+PUSHW_2
+ 546
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+PUSHB_2
+ 6
+ 2
+RS
+EQ
+IF
+PUSHB_6
+ 0
+ 27
+ 30
+ 11
+ 22
+ 65
+CALL
+ELSE
+PUSHB_8
+ 143
+ 25
+ 1
+ 25
+ 17
+ 35
+ 72
+ 43
+CALL
+DELTAP1
+EIF
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 88 117 N 1 0 0 1 0 0 3
+Refer: 214 710 N 1 0 0 1 220 0 2
+EndChar

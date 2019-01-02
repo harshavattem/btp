@@ -1,0 +1,355 @@
+StartChar: mu1
+Encoding: 181 181 151
+Width: 1180
+Flags: W
+TtInstrs:
+NPUSHB
+ 61
+ 40
+ 4
+ 40
+ 5
+ 40
+ 22
+ 56
+ 4
+ 56
+ 10
+ 57
+ 11
+ 72
+ 4
+ 72
+ 10
+ 72
+ 11
+ 89
+ 4
+ 91
+ 9
+ 106
+ 4
+ 106
+ 9
+ 123
+ 4
+ 123
+ 10
+ 138
+ 4
+ 138
+ 10
+ 17
+ 18
+ 22
+ 25
+ 12
+ 3
+ 11
+ 2
+ 18
+ 22
+ 25
+ 15
+ 6
+ 2
+ 10
+ 20
+ 28
+ 7
+ 11
+ 13
+ 14
+ 2
+ 51
+ 25
+ 37
+ 1
+ 27
+PUSHW_1
+ -10
+PUSHB_5
+ 15
+ 15
+ 2
+ 85
+ 27
+PUSHW_1
+ -10
+PUSHB_5
+ 13
+ 13
+ 2
+ 85
+ 0
+PUSHW_1
+ -28
+PUSHB_5
+ 16
+ 16
+ 2
+ 85
+ 0
+PUSHW_1
+ -26
+PUSHB_5
+ 13
+ 13
+ 2
+ 85
+ 0
+PUSHW_1
+ -2
+PUSHB_5
+ 12
+ 12
+ 2
+ 85
+ 0
+PUSHW_1
+ -18
+PUSHB_5
+ 11
+ 11
+ 2
+ 85
+ 0
+PUSHW_1
+ -25
+NPUSHB
+ 11
+ 16
+ 16
+ 6
+ 85
+ 0
+ 27
+ 14
+ 15
+ 6
+ 85
+ 0
+PUSHW_1
+ -3
+PUSHB_5
+ 13
+ 13
+ 6
+ 85
+ 0
+PUSHW_1
+ -6
+PUSHB_5
+ 12
+ 12
+ 6
+ 85
+ 0
+PUSHW_1
+ -21
+NPUSHB
+ 28
+ 11
+ 11
+ 6
+ 85
+ 0
+ 26
+ 96
+ 27
+ 128
+ 27
+ 2
+ 176
+ 27
+ 192
+ 27
+ 2
+ 208
+ 27
+ 224
+ 27
+ 2
+ 27
+ 15
+ 12
+ 37
+ 13
+ 13
+ 14
+PUSHW_1
+ -12
+PUSHB_5
+ 16
+ 16
+ 2
+ 85
+ 14
+PUSHW_1
+ -8
+PUSHB_5
+ 15
+ 15
+ 2
+ 85
+ 14
+PUSHW_1
+ -8
+PUSHB_5
+ 13
+ 13
+ 2
+ 85
+ 14
+PUSHW_1
+ -4
+PUSHB_5
+ 12
+ 12
+ 2
+ 85
+ 14
+PUSHW_1
+ -8
+PUSHB_5
+ 11
+ 11
+ 2
+ 85
+ 14
+PUSHW_1
+ -17
+PUSHB_5
+ 16
+ 16
+ 6
+ 85
+ 14
+PUSHW_1
+ -14
+PUSHB_5
+ 15
+ 15
+ 6
+ 85
+ 14
+PUSHW_1
+ -3
+NPUSHB
+ 22
+ 12
+ 12
+ 6
+ 85
+ 224
+ 14
+ 1
+ 192
+ 14
+ 208
+ 14
+ 2
+ 0
+ 14
+ 32
+ 14
+ 176
+ 14
+ 3
+ 14
+ 25
+ 26
+PUSHW_1
+ 310
+PUSHB_2
+ 80
+ 24
+CALL
+FLIPOFF
+SRP0
+MIRP[rp0,rnd,grey]
+DELTAP1
+DELTAP1
+DELTAP1
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+ALIGNRP
+FLIPON
+SRP0
+MIRP[rp0,min,rnd,black]
+ALIGNRP
+FLIPOFF
+SRP0
+DELTAP1
+DELTAP1
+DELTAP1
+MIRP[rp0,rnd,white]
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+ALIGNRP
+FLIPON
+MIRP[rp0,min,rnd,black]
+MIRP[rnd,grey]
+SVTCA[y-axis]
+MIAP[rnd]
+MIAP[rnd]
+MIRP[min,rnd,black]
+MIAP[rnd]
+MIAP[rnd]
+ALIGNRP
+IP
+IP
+SRP1
+IP
+IP
+SVTCA[x-axis]
+SRP1
+SRP2
+IP
+IP
+IUP[x]
+IUP[y]
+SVTCA[y-axis]
+DELTAP1
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+1018 1062 m 1,0,-1
+ 1018 0 l 1,1,-1
+ 857 0 l 1,2,-1
+ 857 126 l 1,3,4
+ 805 46 805 46 754 16 c 0,5,6
+ 684 -25 684 -25 591 -25 c 0,7,8
+ 508 -25 508 -25 444 8 c 0,9,10
+ 396 33 396 33 338 107 c 1,11,-1
+ 338 -407 l 1,12,-1
+ 160 -407 l 1,13,-1
+ 160 1062 l 1,14,-1
+ 338 1062 l 1,15,-1
+ 338 612 l 2,16,17
+ 338 367 338 367 364 294.5 c 128,-1,18
+ 390 222 390 222 448.5 180 c 128,-1,19
+ 507 138 507 138 583 138 c 0,20,21
+ 663 138 663 138 726 182 c 128,-1,22
+ 789 226 789 226 815 295.5 c 128,-1,23
+ 841 365 841 365 841 609 c 2,24,-1
+ 841 1062 l 1,25,-1
+ 1018 1062 l 1,0,-1
+EndSplineSet
+EndChar

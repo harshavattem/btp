@@ -1,0 +1,352 @@
+StartChar: afii61352
+Encoding: 8470 8470 651
+Width: 2197
+Flags: W
+TtInstrs:
+NPUSHB
+ 24
+ 39
+ 1
+ 40
+ 6
+ 47
+ 39
+ 138
+ 1
+ 134
+ 6
+ 170
+ 11
+ 163
+ 14
+ 170
+ 21
+ 8
+ 7
+ 24
+ 9
+ 22
+ 2
+ 85
+ 2
+PUSHW_1
+ -24
+NPUSHB
+ 37
+ 9
+ 22
+ 2
+ 85
+ 55
+ 2
+ 102
+ 2
+ 117
+ 2
+ 133
+ 2
+ 143
+ 7
+ 5
+ 56
+ 8
+ 1
+ 7
+ 6
+ 6
+ 186
+ 2
+ 1
+ 20
+ 2
+ 2
+ 1
+ 2
+ 7
+ 6
+ 3
+ 1
+ 2
+ 31
+ 42
+ 13
+PUSHW_1
+ 358
+NPUSHB
+ 40
+ 25
+ 42
+ 19
+ 77
+ 35
+ 34
+ 53
+ 36
+ 37
+ 117
+ 8
+ 8
+ 6
+ 8
+ 1
+ 6
+ 2
+ 8
+ 2
+ 3
+ 32
+ 5
+ 22
+ 16
+ 16
+ 2
+ 85
+ 5
+ 4
+ 15
+ 15
+ 2
+ 85
+ 5
+ 10
+ 13
+ 13
+ 2
+ 85
+ 5
+PUSHW_1
+ -32
+NPUSHB
+ 16
+ 12
+ 12
+ 2
+ 85
+ 5
+ 5
+ 8
+ 10
+ 36
+ 197
+ 16
+ 37
+ 197
+ 22
+ 94
+ 10
+PUSHW_1
+ 354
+NPUSHB
+ 23
+ 28
+ 94
+ 16
+ 6
+ 11
+ 12
+ 2
+ 85
+ 16
+ 62
+ 39
+ 7
+ 8
+ 32
+ 9
+ 9
+ 0
+ 28
+ 16
+ 16
+ 2
+ 85
+ 0
+PUSHW_1
+ -12
+PUSHB_5
+ 15
+ 15
+ 2
+ 85
+ 0
+PUSHW_1
+ -14
+PUSHB_5
+ 13
+ 13
+ 2
+ 85
+ 0
+PUSHW_1
+ -6
+PUSHB_7
+ 11
+ 12
+ 2
+ 85
+ 0
+ 249
+ 38
+SRP0
+MIRP[rp0,rnd,white]
+CALL
+CALL
+CALL
+CALL
+ALIGNRP
+SRP0
+MIRP[rp0,min,rnd,black]
+ALIGNRP
+SRP0
+MIRP[rp0,rnd,white]
+CALL
+MIRP[min,rnd,black]
+MIRP[rp0,min,rnd,black]
+MIRP[min,rnd,black]
+MIRP[rnd,grey]
+SRP0
+MIRP[rnd,grey]
+SRP1
+SRP2
+IP
+MDAP[rnd]
+CALL
+CALL
+CALL
+CALL
+MIRP[rp0,min,rnd,black]
+ALIGNRP
+SRP1
+SRP2
+IP
+IP
+SVTCA[y-axis]
+MIAP[rnd]
+ALIGNRP
+SRP0
+MIRP[rp0,rnd,grey]
+ALIGNRP
+MIRP[rp0,min,rnd,black]
+ALIGNRP
+MIRP[rp0,min,rnd,white]
+MIRP[min,rnd,black]
+MIRP[rp0,min,rnd,black]
+MIRP[min,rnd,black]
+MIAP[rnd]
+ALIGNRP
+SRP2
+IP
+IP
+SDPVTL[orthog]
+SFVTCA[x-axis]
+MDAP[no-rnd]
+CALL
+SDPVTL[orthog]
+RDTG
+MDRP[rnd,grey]
+IUP[x]
+IUP[y]
+RTG
+RS
+JROF
+NPUSHB
+ 42
+ 11
+ 33
+ 26
+ 18
+ 28
+ 31
+ 1
+ 24
+ 20
+ 22
+ 31
+ 0
+ 30
+ 14
+ 28
+ 31
+ 1
+ 32
+ 12
+ 22
+ 31
+ 0
+ 27
+ 17
+ 25
+ 31
+ 0
+ 23
+ 21
+ 25
+ 31
+ 0
+ 29
+ 15
+ 31
+ 31
+ 1
+ 33
+ 11
+ 31
+ 31
+ 1
+SVTCA[y-axis]
+CALL
+CALL
+CALL
+CALL
+SVTCA[x-axis]
+CALL
+CALL
+CALL
+CALL
+FLIPRGON
+SVTCA[y-axis]
+DELTAP1
+CALL
+CALL
+SVTCA[x-axis]
+DELTAP1
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+160 1466 m 1,0,-1
+ 355 1466 l 1,1,-1
+ 1072 330 l 1,2,-1
+ 1072 1466 l 1,3,-1
+ 1257 1466 l 1,4,-1
+ 1257 0 l 1,5,-1
+ 1063 0 l 1,6,-1
+ 342 1131 l 1,7,-1
+ 342 0 l 1,8,-1
+ 160 0 l 1,9,-1
+ 160 1466 l 1,0,-1
+1391 785 m 0,10,11
+ 1391 962 1391 962 1490.5 1067 c 128,-1,12
+ 1590 1172 1590 1172 1754 1172 c 0,13,14
+ 1917 1172 1917 1172 2014.5 1064 c 128,-1,15
+ 2112 956 2112 956 2112 773 c 0,16,17
+ 2112 588 2112 588 2011.5 480 c 128,-1,18
+ 1911 372 1911 372 1746 372 c 0,19,20
+ 1604 372 1604 372 1497.5 469.5 c 128,-1,21
+ 1391 567 1391 567 1391 785 c 0,10,11
+1566 779 m 0,22,23
+ 1566 645 1566 645 1619.5 577 c 128,-1,24
+ 1673 509 1673 509 1751 509 c 0,25,26
+ 1824 509 1824 509 1880.5 574.5 c 128,-1,27
+ 1937 640 1937 640 1937 773 c 0,28,29
+ 1937 913 1937 913 1878.5 975.5 c 128,-1,30
+ 1820 1038 1820 1038 1750 1038 c 0,31,32
+ 1675 1038 1675 1038 1620.5 973 c 128,-1,33
+ 1566 908 1566 908 1566 779 c 0,22,23
+1410 266 m 1,34,-1
+ 2091 266 l 1,35,-1
+ 2091 118 l 1,36,-1
+ 1410 118 l 1,37,-1
+ 1410 266 l 1,34,-1
+EndSplineSet
+EndChar

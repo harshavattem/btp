@@ -1,0 +1,160 @@
+StartChar: IJ
+Encoding: 306 306 394
+Width: 1505
+Flags: W
+TtInstrs:
+NPUSHB
+ 14
+ 1
+ 4
+ 30
+ 15
+ 16
+ 2
+ 85
+ 4
+ 28
+ 13
+ 13
+ 2
+ 85
+ 4
+PUSHW_1
+ -16
+PUSHB_5
+ 11
+ 11
+ 2
+ 85
+ 4
+PUSHW_1
+ -32
+PUSHB_5
+ 9
+ 10
+ 6
+ 85
+ 4
+PUSHW_1
+ -4
+NPUSHB
+ 17
+ 12
+ 12
+ 6
+ 85
+ 4
+ 18
+ 13
+ 13
+ 6
+ 85
+ 4
+ 9
+ 15
+ 15
+ 6
+ 85
+ 4
+PUSHW_1
+ -38
+NPUSHB
+ 22
+ 16
+ 16
+ 6
+ 85
+ 79
+ 4
+ 95
+ 4
+ 159
+ 4
+ 191
+ 4
+ 192
+ 4
+ 5
+ 4
+ 3
+ 150
+ 72
+ 43
+ 0
+ 0
+PUSHW_1
+ -10
+PUSHB_5
+ 16
+ 16
+ 2
+ 85
+ 0
+PUSHW_1
+ -6
+PUSHB_5
+ 12
+ 13
+ 2
+ 85
+ 0
+PUSHW_1
+ -17
+PUSHB_5
+ 16
+ 16
+ 6
+ 85
+ 0
+PUSHW_1
+ -13
+PUSHB_5
+ 15
+ 15
+ 6
+ 85
+ 0
+PUSHW_1
+ -7
+NPUSHB
+ 14
+ 11
+ 13
+ 6
+ 85
+ 111
+ 0
+ 144
+ 0
+ 2
+ 0
+ 22
+ 191
+ 72
+ 43
+SVTCA[x-axis]
+CALL
+DELTAP1
+CALL
+CALL
+CALL
+CALL
+CALL
+SHC[rp1]
+CALL
+DELTAP1
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 44 73 N 1 0 0 1 0 0 2
+Refer: 45 74 N 1 0 0 1 535 0 2
+EndChar

@@ -1,0 +1,35 @@
+StartChar: Ydieresis
+Encoding: 376 376 186
+Width: 1366
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 2
+ 1
+ 17
+ 11
+ 0
+ 72
+ 43
+ 1
+ 2
+ 2
+ 20
+PUSHW_3
+ 545
+ 41
+ 356
+SCANCTRL
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 60 89 N 1 0 0 1 0 0 3
+Refer: 142 168 N 1 0 0 1 336 286 2
+EndChar

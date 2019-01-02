@@ -1,0 +1,44 @@
+StartChar: Oacute
+Encoding: 211 211 207
+Width: 1593
+Flags: W
+TtInstrs:
+PUSHB_2
+ 2
+ 31
+PUSHW_1
+ -64
+NPUSHB
+ 16
+ 22
+ 25
+ 52
+ 112
+ 31
+ 223
+ 31
+ 2
+ 31
+ 3
+ 0
+ 72
+ 43
+ 2
+ 1
+ 31
+PUSHW_2
+ 545
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+DELTAP2
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 50 79 N 1 0 0 1 0 0 3
+Refer: 141 180 N 1 0 0 1 455 362 2
+EndChar

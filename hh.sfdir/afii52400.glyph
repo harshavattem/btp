@@ -1,0 +1,172 @@
+StartChar: afii52400
+Encoding: 1570 1570 897
+AltUni2: 00fe81.ffffffff.0
+Width: 424
+GlyphClass: 3
+Flags: W
+TtInstrs:
+NPUSHB
+ 14
+ 0
+ 20
+ 22
+ 64
+ 22
+ 63
+ 52
+ 22
+ 22
+ 16
+ 20
+ 12
+ 8
+ 11
+PUSHW_1
+ -64
+PUSHB_7
+ 22
+ 63
+ 52
+ 11
+ 11
+ 4
+ 16
+PUSHW_1
+ 753
+PUSHB_3
+ 8
+ 8
+ 20
+PUSHW_1
+ 753
+NPUSHB
+ 11
+ 4
+ 64
+ 9
+ 15
+ 52
+ 4
+ 4
+ 39
+ 28
+ 27
+ 36
+PUSHW_5
+ 751
+ 39
+ 779
+ 27
+ 783
+NPUSHB
+ 9
+ 22
+ 22
+ 0
+ 11
+ 0
+ 11
+ 12
+ 12
+ 36
+PUSHW_1
+ 784
+PUSHB_7
+ 39
+ 39
+ 31
+ 28
+ 27
+ 27
+ 23
+PUSHW_2
+ 784
+ 31
+MDAP[rnd]
+MIRP[min,rnd,black]
+RTHG
+IP
+MDAP[rnd]
+SHP[rp1]
+SRP1
+IP
+MDAP[rnd]
+RTG
+MIRP[rp0,min,rnd,black]
+SHP[rp2]
+MDAP[rnd]
+SHP[rp1]
+SHP[rp1]
+RTHG
+MDAP[rnd]
+RTG
+MDAP[rnd]
+SHP[rp1]
+RTHG
+MDAP[rnd]
+SVTCA[y-axis]
+RTG
+MIAP[rnd]
+MIAP[rnd]
+MIRP[rnd,grey]
+SRP1
+IP
+SRP1
+SHP[rp1]
+MDAP[rnd]
+CALL
+MIRP[min,rnd,black]
+SHP[rp1]
+MDAP[rnd]
+MIRP[min,rnd,black]
+SRP2
+IP
+MDAP[rnd]
+CALL
+SRP2
+IP
+SRP1
+SRP2
+IP
+MDAP[rnd]
+CALL
+SRP2
+IP
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+422 1654 m 1,0,1
+ 394 1622 394 1622 365 1605 c 0,2,3
+ 324 1581 324 1581 276 1581 c 0,4,5
+ 226 1581 226 1581 181 1596 c 0,6,7
+ 82 1629 82 1629 76 1629 c 0,8,9
+ 64 1629 64 1629 52 1625.5 c 128,-1,10
+ 40 1622 40 1622 25 1615 c 1,11,-1
+ 14 1628 l 1,12,13
+ 39 1664 39 1664 50 1673 c 0,14,15
+ 73 1693 73 1693 111 1693 c 0,16,17
+ 120 1693 120 1693 220 1661 c 0,18,19
+ 270 1645 270 1645 303 1645 c 0,20,21
+ 356 1645 356 1645 408 1668 c 1,22,-1
+ 422 1654 l 1,0,1
+338 548 m 0,23,24
+ 338 468 338 468 309 393 c 0,25,26
+ 294 353 294 353 244 266 c 1,27,-1
+ 226 276 l 1,28,29
+ 229 305 229 305 231.5 343 c 128,-1,30
+ 234 381 234 381 234 394 c 0,31,32
+ 234 498 234 498 217.5 684.5 c 128,-1,33
+ 201 871 201 871 178 1074 c 0,34,35
+ 164 1197 164 1197 147 1325 c 1,36,37
+ 167 1369 167 1369 192.5 1420 c 128,-1,38
+ 218 1471 218 1471 241 1516 c 1,39,40
+ 257 1402 257 1402 281.5 1204 c 128,-1,41
+ 306 1006 306 1006 320 847 c 0,42,43
+ 338 649 338 649 338 548 c 0,23,24
+EndSplineSet
+Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" afii62753
+Substitution2: "'fina' Terminal Forms in Arabic lookup 4 subtable" afii62753
+EndChar

@@ -1,0 +1,87 @@
+StartChar: afii57388
+Encoding: 1548 1548 748
+AltUni2: 00066c.ffffffff.0
+Width: 653
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_2
+ 11
+ 10
+PUSHW_1
+ -64
+PUSHB_4
+ 15
+ 17
+ 52
+ 10
+PUSHW_1
+ -64
+PUSHB_6
+ 12
+ 17
+ 52
+ 10
+ 10
+ 3
+PUSHW_1
+ 748
+PUSHB_8
+ 11
+ 10
+ 10
+ 0
+ 15
+ 15
+ 6
+ 0
+PUSHW_1
+ -64
+PUSHB_6
+ 16
+ 17
+ 52
+ 0
+ 0
+ 6
+PUSHW_1
+ 284
+SCANCTRL
+MDAP[rnd]
+SHP[rp1]
+MDAP[rnd]
+CALL
+SRP2
+IP
+MDAP[rnd]
+SRP2
+IP
+MDAP[rnd]
+SHP[rp1]
+SVTCA[y-axis]
+MIAP[rnd]
+SHP[rp1]
+MDAP[rnd]
+CALL
+CALL
+SHP[rp1]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+493 417 m 0,0,1
+ 493 364 493 364 453 322 c 128,-1,2
+ 413 280 413 280 350 280 c 0,3,4
+ 273 280 273 280 222 352 c 128,-1,5
+ 171 424 171 424 171 531 c 0,6,7
+ 171 680 171 680 259 792 c 0,8,9
+ 302 847 302 847 388 908 c 1,10,-1
+ 421 853 l 1,11,12
+ 362 799 362 799 331 759 c 0,13,14
+ 276 688 276 688 276 634 c 256,15,16
+ 276 580 276 580 384.5 556 c 128,-1,17
+ 493 532 493 532 493 417 c 0,0,1
+EndSplineSet
+EndChar

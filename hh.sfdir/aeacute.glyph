@@ -1,0 +1,30 @@
+StartChar: aeacute
+Encoding: 509 509 473
+Width: 1821
+Flags: W
+TtInstrs:
+NPUSHB
+ 10
+ 3
+ 1
+ 78
+ 37
+ 0
+ 72
+ 39
+ 3
+ 1
+ 78
+PUSHW_2
+ 546
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 160 230 N 1 0 0 1 0 0 3
+Refer: 141 180 N 1 0 0 1 600 0 2
+EndChar

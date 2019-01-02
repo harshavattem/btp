@@ -1,0 +1,71 @@
+StartChar: afii57415
+Encoding: 1575 1575 909
+AltUni2: 00fe8d.ffffffff.0
+Width: 424
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_3
+ 5
+ 4
+ 13
+PUSHW_7
+ 751
+ 16
+ 779
+ 4
+ 783
+ 13
+ 784
+PUSHB_7
+ 16
+ 16
+ 8
+ 5
+ 4
+ 4
+ 0
+PUSHW_2
+ 784
+ 8
+MDAP[rnd]
+MIRP[min,rnd,black]
+RTHG
+IP
+MDAP[rnd]
+SHP[rp1]
+SRP1
+IP
+MDAP[rnd]
+RTG
+MIRP[min,rnd,black]
+SVTCA[y-axis]
+MIAP[rnd]
+MIAP[rnd]
+MIRP[rnd,grey]
+SRP1
+IP
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+338 548 m 0,0,1
+ 338 468 338 468 309 393 c 0,2,3
+ 294 353 294 353 244 266 c 1,4,-1
+ 226 276 l 1,5,6
+ 229 305 229 305 231.5 343 c 128,-1,7
+ 234 381 234 381 234 394 c 0,8,9
+ 234 498 234 498 217.5 684.5 c 128,-1,10
+ 201 871 201 871 178 1074 c 0,11,12
+ 164 1197 164 1197 147 1325 c 1,13,14
+ 167 1369 167 1369 192.5 1420 c 128,-1,15
+ 218 1471 218 1471 241 1516 c 1,16,17
+ 257 1402 257 1402 281.5 1204 c 128,-1,18
+ 306 1006 306 1006 320 847 c 0,19,20
+ 338 649 338 649 338 548 c 0,0,1
+EndSplineSet
+Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" afii62760
+Substitution2: "'fina' Terminal Forms in Arabic lookup 4 subtable" afii62760
+EndChar

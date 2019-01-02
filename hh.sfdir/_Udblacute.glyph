@@ -1,0 +1,59 @@
+StartChar: Udblacute
+Encoding: 368 368 293
+Width: 1479
+Flags: W
+TtInstrs:
+PUSHB_6
+ 2
+ 1
+ 1
+ 2
+ 2
+ 28
+PUSHW_2
+ 545
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+PUSHB_2
+ 6
+ 2
+RS
+EQ
+IF
+PUSHW_1
+ -23
+PUSHB_5
+ 21
+ 28
+ 12
+ 0
+ 65
+CALL
+ELSE
+NPUSHB
+ 11
+ 192
+ 25
+ 1
+ 96
+ 25
+ 1
+ 25
+ 17
+ 85
+ 72
+ 43
+CALL
+DELTAP1
+DELTAP1
+EIF
+SHC[rp1]
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 56 85 N 1 0 0 1 0 0 3
+Refer: 221 733 N 1 0 0 1 407 362 2
+EndChar

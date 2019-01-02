@@ -1,0 +1,40 @@
+StartChar: Ohorngrave
+Encoding: 7900 7900 1248
+Width: 1756
+Flags: W
+TtInstrs:
+NPUSHB
+ 9
+ 2
+ 15
+ 46
+ 1
+ 255
+ 46
+ 1
+ 46
+ 37
+PUSHW_1
+ -30
+PUSHB_5
+ 72
+ 43
+ 2
+ 1
+ 45
+PUSHW_2
+ 545
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+DELTAP1
+DELTAP2
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 1130 416 N 1 0 0 1 0 0 3
+Refer: 67 96 N 1 0 0 1 451 362 2
+EndChar

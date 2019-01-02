@@ -1,0 +1,30 @@
+StartChar: edotbelow
+Encoding: 7865 7865 1213
+Width: 1139
+Flags: W
+TtInstrs:
+PUSHB_6
+ 2
+ 80
+ 31
+ 96
+ 31
+ 2
+PUSHW_1
+ -40
+PUSHB_5
+ 31
+ 32
+ 4
+ 4
+ 65
+SVTCA[x-axis]
+CALL
+DELTAP1
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 72 101 N 1 0 0 1 0 0 3
+Refer: 1149 61484 N 1 0 0 1 730 0 2
+EndChar

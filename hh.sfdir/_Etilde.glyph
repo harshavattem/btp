@@ -1,0 +1,31 @@
+StartChar: Etilde
+Encoding: 7868 7868 1216
+Width: 1366
+Flags: W
+TtInstrs:
+NPUSHB
+ 10
+ 1
+ 0
+ 12
+ 24
+ 1
+ 2
+ 65
+ 1
+ 1
+ 12
+PUSHW_2
+ 545
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 40 69 N 1 0 0 1 0 0 3
+Refer: 215 732 N 1 0 0 1 380 362 2
+EndChar

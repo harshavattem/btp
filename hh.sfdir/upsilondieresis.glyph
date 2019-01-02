@@ -1,0 +1,38 @@
+StartChar: upsilondieresis
+Encoding: 971 971 552
+Width: 1120
+Flags: W
+TtInstrs:
+NPUSHB
+ 15
+ 2
+ 1
+ 112
+ 20
+ 1
+ 0
+ 20
+ 27
+ 0
+ 11
+ 65
+ 1
+ 2
+ 2
+ 20
+PUSHW_2
+ 546
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+DELTAP1
+SHC[rp1]
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 547 965 N 1 0 0 1 0 0 3
+Refer: 142 168 N 1 0 0 1 240 0 2
+EndChar

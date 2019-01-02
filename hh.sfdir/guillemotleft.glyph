@@ -1,0 +1,152 @@
+StartChar: guillemotleft
+Encoding: 171 171 169
+Width: 1139
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 9
+ 3
+ 13
+ 9
+ 25
+ 3
+ 29
+ 9
+ 4
+ 10
+ 4
+PUSHW_1
+ 459
+NPUSHB
+ 11
+ 8
+ 2
+ 8
+ 249
+ 7
+ 7
+ 11
+ 249
+ 10
+ 117
+ 6
+PUSHW_1
+ -64
+PUSHB_4
+ 25
+ 28
+ 52
+ 6
+PUSHW_1
+ -64
+NPUSHB
+ 27
+ 15
+ 17
+ 52
+ 6
+ 174
+ 9
+ 64
+ 25
+ 28
+ 52
+ 9
+ 64
+ 14
+ 17
+ 52
+ 9
+ 159
+ 0
+ 2
+ 232
+ 1
+ 58
+ 5
+ 249
+ 4
+ 117
+ 0
+PUSHW_1
+ -64
+PUSHB_4
+ 25
+ 28
+ 52
+ 0
+PUSHW_1
+ -64
+NPUSHB
+ 18
+ 15
+ 17
+ 52
+ 0
+ 174
+ 0
+ 3
+ 16
+ 3
+ 32
+ 3
+ 3
+ 3
+ 172
+ 12
+ 175
+ 121
+ 24
+CALL
+SRP0
+MIRP[rp0,rnd,white]
+DELTAP1
+MIRP[rp0,min,rnd,black]
+CALL
+CALL
+MIRP[rp0,rnd,white]
+MIRP[rp0,min,rnd,black]
+MIRP[rp0,rnd,grey]
+MIRP[min,rnd,black]
+SRP0
+MIRP[rp0,rnd,white]
+CALL
+CALL
+MIRP[rp0,min,rnd,black]
+CALL
+CALL
+MIRP[rp0,rnd,white]
+MIRP[rp0,min,rnd,black]
+ALIGNRP
+SRP0
+MIRP[rp0,min,rnd,black]
+SVTCA[y-axis]
+MDAP[rnd]
+ALIGNRP
+MIRP[rp0,min,rnd,black]
+ALIGNRP
+IUP[x]
+IUP[y]
+SVTCA[x-axis]
+DELTAP1
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+340 528 m 1,0,-1
+ 599 72 l 1,1,-1
+ 453 72 l 1,2,-1
+ 134 528 l 1,3,-1
+ 453 984 l 1,4,-1
+ 601 984 l 1,5,-1
+ 340 528 l 1,0,-1
+727 528 m 1,6,-1
+ 991 72 l 1,7,-1
+ 839 72 l 1,8,-1
+ 526 528 l 1,9,-1
+ 839 984 l 1,10,-1
+ 991 984 l 1,11,-1
+ 727 528 l 1,6,-1
+EndSplineSet
+EndChar

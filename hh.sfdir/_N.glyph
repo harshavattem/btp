@@ -1,0 +1,382 @@
+StartChar: N
+Encoding: 78 78 49
+Width: 1479
+Flags: W
+TtInstrs:
+PUSHB_2
+ 18
+ 11
+PUSHW_1
+ -64
+NPUSHB
+ 10
+ 19
+ 21
+ 52
+ 8
+ 24
+ 12
+ 22
+ 2
+ 85
+ 3
+PUSHW_1
+ -24
+NPUSHB
+ 33
+ 12
+ 22
+ 2
+ 85
+ 8
+ 2
+ 3
+ 3
+ 32
+ 7
+ 8
+ 20
+ 7
+ 7
+ 8
+ 2
+ 7
+ 3
+ 3
+ 8
+ 9
+ 4
+ 2
+ 2
+ 9
+ 7
+ 8
+ 4
+ 3
+ 32
+ 6
+ 6
+ 5
+PUSHW_1
+ -20
+PUSHB_5
+ 15
+ 15
+ 2
+ 85
+ 5
+PUSHW_1
+ -14
+NPUSHB
+ 11
+ 13
+ 13
+ 2
+ 85
+ 5
+ 18
+ 12
+ 12
+ 2
+ 85
+ 5
+PUSHW_1
+ -9
+NPUSHB
+ 26
+ 11
+ 11
+ 6
+ 85
+ 5
+ 93
+ 32
+ 11
+ 1
+ 32
+ 11
+ 80
+ 11
+ 96
+ 11
+ 112
+ 11
+ 128
+ 11
+ 5
+ 11
+ 8
+ 9
+ 32
+ 1
+ 0
+PUSHW_1
+ -64
+NPUSHB
+ 13
+ 19
+ 21
+ 52
+ 32
+ 0
+ 1
+ 0
+ 32
+ 16
+ 16
+ 2
+ 85
+ 0
+PUSHW_1
+ -10
+PUSHB_5
+ 15
+ 15
+ 2
+ 85
+ 0
+PUSHW_1
+ -10
+PUSHB_5
+ 13
+ 13
+ 2
+ 85
+ 0
+PUSHW_1
+ -6
+NPUSHB
+ 11
+ 12
+ 12
+ 2
+ 85
+ 0
+ 4
+ 11
+ 11
+ 6
+ 85
+ 0
+PUSHW_1
+ -9
+PUSHB_5
+ 12
+ 12
+ 6
+ 85
+ 0
+PUSHW_1
+ -8
+NPUSHB
+ 10
+ 13
+ 13
+ 6
+ 85
+ 0
+ 93
+ 10
+ 59
+ 89
+ 24
+CALL
+SRP0
+MIRP[rp0,rnd,white]
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+DELTAP1
+CALL
+ALIGNRP
+MIRP[rp0,min,rnd,black]
+ALIGNRP
+SRP0
+DELTAP1
+DELTAP2
+MIRP[rp0,rnd,grey]
+CALL
+CALL
+CALL
+CALL
+ALIGNRP
+SRP0
+MIRP[rp0,min,rnd,black]
+ALIGNRP
+SVTCA[y-axis]
+MIAP[rnd]
+ALIGNRP
+MIAP[rnd]
+ALIGNRP
+SRP2
+IP
+IP
+SVTCA[x-axis]
+SRP1
+IP
+IP
+SDPVTL[orthog]
+SFVTCA[y-axis]
+MDAP[no-rnd]
+CALL
+SDPVTL[orthog]
+RDTG
+MDRP[rnd,grey]
+PUSHB_2
+ 6
+ 2
+RS
+EQ
+IF
+PUSHW_2
+ 3
+ -32
+PUSHB_8
+ 12
+ 17
+ 52
+ 8
+ 32
+ 12
+ 17
+ 52
+SVTCA[y-axis]
+CALL
+CALL
+EIF
+IUP[x]
+IUP[y]
+CALL
+CALL
+SVTCA[x-axis]
+CALL
+RS
+NOT
+IF
+PUSHB_5
+ 8
+ 64
+ 70
+ 57
+ 3
+PUSHW_1
+ -64
+PUSHB_7
+ 70
+ 57
+ 8
+ 64
+ 50
+ 57
+ 3
+PUSHW_1
+ -64
+PUSHB_7
+ 50
+ 57
+ 7
+ 34
+ 25
+ 57
+ 2
+PUSHW_1
+ -34
+PUSHB_7
+ 25
+ 57
+ 7
+ 34
+ 50
+ 57
+ 2
+PUSHW_1
+ -34
+PUSHB_7
+ 50
+ 57
+ 7
+ 34
+ 35
+ 57
+ 2
+PUSHW_1
+ -34
+NPUSHB
+ 11
+ 35
+ 57
+ 7
+ 14
+ 20
+ 57
+ 7
+ 14
+ 19
+ 57
+ 2
+PUSHW_1
+ -12
+PUSHB_7
+ 19
+ 57
+ 7
+ 14
+ 29
+ 57
+ 2
+PUSHW_1
+ -12
+PUSHB_7
+ 29
+ 57
+ 7
+ 14
+ 21
+ 57
+ 2
+PUSHW_1
+ -8
+PUSHB_2
+ 21
+ 57
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+SVTCA[x-axis]
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+SVTCA[y-axis]
+CALL
+CALL
+CALL
+CALL
+EIF
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+156 0 m 1,0,-1
+ 156 1466 l 1,1,-1
+ 355 1466 l 1,2,-1
+ 1125 315 l 1,3,-1
+ 1125 1466 l 1,4,-1
+ 1311 1466 l 1,5,-1
+ 1311 0 l 1,6,-1
+ 1112 0 l 1,7,-1
+ 342 1152 l 1,8,-1
+ 342 0 l 1,9,-1
+ 156 0 l 1,0,-1
+EndSplineSet
+EndChar

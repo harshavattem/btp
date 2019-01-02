@@ -1,0 +1,31 @@
+StartChar: finalkafdagesh
+Encoding: 64314 64314 726
+Width: 1043
+Flags: W
+TtInstrs:
+NPUSHB
+ 10
+ 1
+ 0
+ 25
+ 18
+ 14
+ 8
+ 65
+ 1
+ 1
+ 15
+PUSHW_2
+ 737
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 682 1498 N 1 0 0 1 0 0 3
+Refer: 664 1468 N 1 0 0 1 18 -72 2
+EndChar

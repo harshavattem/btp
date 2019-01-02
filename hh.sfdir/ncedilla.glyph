@@ -1,0 +1,25 @@
+StartChar: ncedilla
+Encoding: 326 326 444
+Width: 1139
+Flags: W
+TtInstrs:
+PUSHB_8
+ 1
+ 0
+ 33
+ 28
+ 1
+ 12
+ 65
+ 25
+SVTCA[y-axis]
+MDAP[rnd]
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 81 110 N 1 0 0 1 0 0 3
+Refer: 494 61445 N 1 0 0 1 250 0 2
+EndChar

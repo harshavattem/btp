@@ -1,0 +1,74 @@
+StartChar: glyph1148
+Encoding: 65724 -1 1148
+Width: 0
+Flags: W
+TtInstrs:
+NPUSHB
+ 17
+ 0
+ 3
+ 6
+ 15
+ 3
+ 1
+ 3
+ 128
+ 2
+ 3
+ 3
+ 4
+ 0
+ 3
+ 1
+ 5
+ 6
+PUSHW_1
+ -64
+PUSHB_4
+ 20
+ 24
+ 52
+ 6
+PUSHW_1
+ -64
+PUSHB_6
+ 12
+ 17
+ 52
+ 6
+ 2
+ 1
+MDAP[rnd]
+MDRP[min,rnd,black]
+MDRP[rp0,rnd,white]
+CALL
+CALL
+MDRP[min,rnd,black]
+SRP2
+SLOOP
+IP
+SVTCA[y-axis]
+MIAP[rnd]
+SMD
+MDRP[min,rnd,black]
+DELTAP3
+MDRP[grey]
+SRP2
+IP
+IUP[x]
+IUP[y]
+SVTCA[x-axis]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+7 1559 m 1,0,-1
+ -124 1492 l 1,1,-1
+ -299 1492 l 1,2,-1
+ -90 1615 l 1,3,-1
+ 105 1615 l 1,4,-1
+ 313 1492 l 1,5,-1
+ 138 1492 l 1,6,-1
+ 7 1559 l 1,0,-1
+EndSplineSet
+EndChar

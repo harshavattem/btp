@@ -1,0 +1,108 @@
+StartChar: glyph1351
+Encoding: 65749 -1 1351
+Width: 885
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 18
+ 4
+ 3
+ 0
+ 98
+ 98
+ 24
+ 40
+ 65
+ 2
+ 0
+ 48
+ 48
+ 24
+ 0
+ 65
+ 4
+ 3
+ 78
+PUSHW_1
+ -64
+NPUSHB
+ 50
+ 15
+ 17
+ 52
+ 96
+ 78
+ 1
+ 15
+ 78
+ 159
+ 78
+ 175
+ 78
+ 191
+ 78
+ 4
+ 78
+ 2
+ 95
+ 48
+ 1
+ 48
+ 48
+ 64
+ 48
+ 127
+ 48
+ 3
+ 15
+ 48
+ 47
+ 48
+ 128
+ 48
+ 3
+ 48
+ 128
+ 18
+ 21
+ 52
+ 48
+ 64
+ 22
+ 23
+ 52
+ 48
+ 64
+ 9
+ 14
+ 52
+ 48
+SVTCA[y-axis]
+MDAP[rnd]
+CALL
+CALL
+CALL
+DELTAP1
+DELTAP2
+DELTAP3
+SHC[rp1]
+MDAP[rnd]
+DELTAP1
+DELTAP2
+CALL
+SHC[rp1]
+SHC[rp1]
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+CALL
+SHC[rp1]
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 1005 1608 N 1 0 0 1 0 0 3
+Refer: 1337 1620 N 1 0 0 1 680 -580 2
+Refer: 757 1615 N 1 0 0 1 200 -413 2
+EndChar

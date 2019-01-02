@@ -1,0 +1,13 @@
+StartChar: triagrt
+Encoding: 9658 9658 377
+Width: 2027
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+288 1417 m 1,0,-1
+ 1739 693 l 1,1,-1
+ 288 -31 l 1,2,-1
+ 288 1417 l 1,0,-1
+EndSplineSet
+EndChar

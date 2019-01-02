@@ -1,0 +1,40 @@
+StartChar: Ohornacute
+Encoding: 7898 7898 1246
+Width: 1756
+Flags: W
+TtInstrs:
+NPUSHB
+ 17
+ 2
+ 0
+ 48
+ 1
+ 111
+ 48
+ 240
+ 48
+ 2
+ 48
+ 37
+ 25
+ 72
+ 43
+ 2
+ 1
+ 45
+PUSHW_2
+ 545
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+DELTAP1
+DELTAP2
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 1130 416 N 1 0 0 1 0 0 3
+Refer: 141 180 N 1 0 0 1 455 362 2
+EndChar

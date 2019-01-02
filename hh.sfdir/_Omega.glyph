@@ -1,0 +1,391 @@
+StartChar: Omega
+Encoding: 937 937 525
+Width: 1531
+Flags: W
+TtInstrs:
+NPUSHB
+ 91
+ 159
+ 17
+ 159
+ 27
+ 2
+ 88
+ 1
+ 89
+ 4
+ 88
+ 5
+ 87
+ 13
+ 91
+ 20
+ 84
+ 21
+ 88
+ 23
+ 88
+ 24
+ 122
+ 18
+ 117
+ 26
+ 134
+ 24
+ 11
+ 92
+ 5
+ 80
+ 9
+ 111
+ 5
+ 100
+ 9
+ 118
+ 9
+ 5
+ 37
+ 9
+ 75
+ 18
+ 75
+ 20
+ 70
+ 24
+ 69
+ 26
+ 5
+ 11
+ 5
+ 4
+ 9
+ 29
+ 5
+ 20
+ 9
+ 42
+ 5
+ 5
+ 12
+ 21
+ 2
+ 23
+ 59
+ 26
+ 3
+ 22
+ 30
+ 7
+ 3
+ 14
+ 13
+ 0
+ 1
+ 45
+ 27
+ 27
+ 17
+ 45
+ 13
+ 30
+ 15
+ 16
+ 29
+ 28
+ 28
+ 16
+ 8
+ 13
+PUSHW_1
+ 570
+PUSHB_4
+ 16
+ 16
+ 17
+ 1
+PUSHW_4
+ 570
+ 27
+ 28
+ -10
+NPUSHB
+ 17
+ 11
+ 11
+ 2
+ 85
+ 28
+ 17
+ 10
+ 11
+ 11
+ 2
+ 85
+ 47
+ 17
+ 79
+ 17
+ 2
+ 17
+PUSHW_1
+ 632
+NPUSHB
+ 13
+ 14
+ 19
+ 38
+ 11
+ 74
+ 15
+ 14
+ 16
+ 16
+ 16
+ 2
+ 85
+ 14
+PUSHW_1
+ -10
+NPUSHB
+ 11
+ 15
+ 15
+ 2
+ 85
+ 14
+ 10
+ 13
+ 13
+ 2
+ 85
+ 14
+PUSHW_1
+ -20
+NPUSHB
+ 11
+ 11
+ 11
+ 2
+ 85
+ 14
+ 16
+ 16
+ 16
+ 6
+ 85
+ 14
+PUSHW_1
+ -6
+PUSHB_5
+ 12
+ 13
+ 6
+ 85
+ 14
+PUSHW_1
+ -9
+NPUSHB
+ 19
+ 11
+ 11
+ 6
+ 85
+ 16
+ 19
+ 1
+ 14
+ 106
+ 95
+ 31
+ 1
+ 31
+ 32
+ 28
+ 64
+ 28
+ 2
+ 28
+PUSHW_1
+ 632
+PUSHB_6
+ 29
+ 25
+ 38
+ 3
+ 74
+ 29
+PUSHW_1
+ -32
+PUSHB_5
+ 16
+ 16
+ 2
+ 85
+ 29
+PUSHW_1
+ -22
+PUSHB_5
+ 15
+ 15
+ 2
+ 85
+ 29
+PUSHW_1
+ -18
+PUSHB_5
+ 13
+ 13
+ 2
+ 85
+ 29
+PUSHW_1
+ -10
+PUSHB_5
+ 12
+ 12
+ 2
+ 85
+ 29
+PUSHW_1
+ -32
+PUSHB_5
+ 16
+ 16
+ 6
+ 85
+ 29
+PUSHW_1
+ -20
+PUSHB_5
+ 15
+ 15
+ 6
+ 85
+ 29
+PUSHW_1
+ -14
+PUSHB_5
+ 13
+ 13
+ 6
+ 85
+ 29
+PUSHW_1
+ -8
+NPUSHB
+ 15
+ 12
+ 12
+ 6
+ 85
+ 96
+ 29
+ 1
+ 0
+ 29
+ 32
+ 29
+ 2
+ 29
+ 172
+ 30
+SRP0
+MIRP[rp0,rnd,white]
+DELTAP1
+DELTAP2
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+MIRP[rp0,rnd,grey]
+MIRP[min,rnd,black]
+SRP0
+MIRP[min,rnd,black]
+DELTAP1
+SRP0
+DELTAP1
+MIRP[rp0,rnd,white]
+DELTAP1
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+ALIGNRP
+MIRP[rp0,rnd,grey]
+MIRP[min,rnd,black]
+SRP0
+MIRP[min,rnd,black]
+DELTAP1
+CALL
+SRP0
+CALL
+ALIGNRP
+MIRP[min,rnd,black]
+SRP0
+ALIGNRP
+SRP0
+MIRP[min,rnd,black]
+SVTCA[y-axis]
+MIAP[rnd]
+ALIGNRP
+SRP0
+ALIGNRP
+SRP0
+ALIGNRP
+MIRP[rp0,min,rnd,black]
+MIRP[rp0,rnd,grey]
+ALIGNRP
+SRP0
+MIRP[rp0,rnd,grey]
+ALIGNRP
+SRP0
+ALIGNRP
+MIAP[rnd]
+MIRP[min,rnd,black]
+IUP[x]
+IUP[y]
+SVTCA[x-axis]
+DELTAP2
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+SVTCA[y-axis]
+DELTAP1
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+97 173 m 1,0,-1
+ 417 173 l 1,1,2
+ 113 427 113 427 113 793 c 0,3,4
+ 113 992 113 992 193 1150 c 128,-1,5
+ 273 1308 273 1308 419 1399.5 c 128,-1,6
+ 565 1491 565 1491 770 1491 c 0,7,8
+ 973 1491 973 1491 1108.5 1407 c 128,-1,9
+ 1244 1323 1244 1323 1331.5 1166 c 128,-1,10
+ 1419 1009 1419 1009 1419 793 c 0,11,12
+ 1419 427 1419 427 1115 173 c 1,13,-1
+ 1435 173 l 1,14,-1
+ 1435 0 l 1,15,-1
+ 865 0 l 1,16,-1
+ 865 162 l 1,17,18
+ 1221 328 1221 328 1221 763 c 0,19,20
+ 1221 1008 1221 1008 1095.5 1166.5 c 128,-1,21
+ 970 1325 970 1325 769 1325 c 0,22,23
+ 562 1325 562 1325 438 1165.5 c 128,-1,24
+ 314 1006 314 1006 314 773 c 0,25,26
+ 314 332 314 332 668 162 c 1,27,-1
+ 668 0 l 1,28,-1
+ 97 0 l 1,29,-1
+ 97 173 l 1,0,-1
+EndSplineSet
+Kerns2: 527 -47 "'kern' Horizontal Kerning lookup 0 subtable" 522 -47 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

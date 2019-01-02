@@ -1,0 +1,9 @@
+StartChar: Tau
+Encoding: 932 932 521
+Width: 1251
+Flags: W
+LayerCount: 2
+Fore
+Refer: 55 84 N 1 0 0 1 0 0 3
+Kerns2: 554 -178 "'kern' Horizontal Kerning lookup 0 subtable" 553 -225 "'kern' Horizontal Kerning lookup 0 subtable" 552 -178 "'kern' Horizontal Kerning lookup 0 subtable" 551 188 "'kern' Horizontal Kerning lookup 0 subtable" 549 -150 "'kern' Horizontal Kerning lookup 0 subtable" 548 -113 "'kern' Horizontal Kerning lookup 0 subtable" 547 -176 "'kern' Horizontal Kerning lookup 0 subtable" 544 -225 "'kern' Horizontal Kerning lookup 0 subtable" 542 -113 "'kern' Horizontal Kerning lookup 0 subtable" 541 -150 "'kern' Horizontal Kerning lookup 0 subtable" 538 -76 "'kern' Horizontal Kerning lookup 0 subtable" 536 -150 "'kern' Horizontal Kerning lookup 0 subtable" 534 -178 "'kern' Horizontal Kerning lookup 0 subtable" 532 -178 "'kern' Horizontal Kerning lookup 0 subtable" 529 -225 "'kern' Horizontal Kerning lookup 0 subtable" 528 -225 "'kern' Horizontal Kerning lookup 0 subtable" 525 -37 "'kern' Horizontal Kerning lookup 0 subtable" 517 -37 "'kern' Horizontal Kerning lookup 0 subtable" 513 -152 "'kern' Horizontal Kerning lookup 0 subtable" 507 -152 "'kern' Horizontal Kerning lookup 0 subtable" 505 -152 "'kern' Horizontal Kerning lookup 0 subtable" 504 188 "'kern' Horizontal Kerning lookup 0 subtable" 307 -225 "'kern' Horizontal Kerning lookup 0 subtable" 305 -225 "'kern' Horizontal Kerning lookup 0 subtable" 304 -225 "'kern' Horizontal Kerning lookup 0 subtable" 302 -225 "'kern' Horizontal Kerning lookup 0 subtable" 301 -37 "'kern' Horizontal Kerning lookup 0 subtable" 300 -37 "'kern' Horizontal Kerning lookup 0 subtable" 30 -225 "'kern' Horizontal Kerning lookup 0 subtable" 29 -225 "'kern' Horizontal Kerning lookup 0 subtable" 17 -225 "'kern' Horizontal Kerning lookup 0 subtable" 15 -225 "'kern' Horizontal Kerning lookup 0 subtable" 3 -37 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

@@ -1,0 +1,40 @@
+StartChar: reshdagesh
+Encoding: 64328 64328 736
+Width: 1043
+Flags: W
+TtInstrs:
+PUSHB_2
+ 1
+ 25
+PUSHW_1
+ -18
+NPUSHB
+ 13
+ 13
+ 13
+ 6
+ 85
+ 0
+ 25
+ 18
+ 14
+ 8
+ 65
+ 1
+ 1
+ 15
+PUSHW_2
+ 737
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 696 1512 N 1 0 0 1 0 0 3
+Refer: 664 1468 N 1 0 0 1 18 -72 2
+EndChar

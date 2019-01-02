@@ -1,0 +1,56 @@
+StartChar: otilde
+Encoding: 245 245 125
+Width: 1139
+Flags: W
+TtInstrs:
+NPUSHB
+ 23
+ 2
+ 47
+ 43
+ 63
+ 43
+ 2
+ 127
+ 43
+ 255
+ 43
+ 2
+ 79
+ 43
+ 143
+ 43
+ 2
+ 47
+ 43
+ 63
+ 43
+ 2
+ 43
+ 4
+PUSHW_1
+ -20
+PUSHB_5
+ 72
+ 43
+ 2
+ 1
+ 41
+PUSHW_2
+ 546
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP2
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 82 111 N 1 0 0 1 0 0 3
+Refer: 215 732 N 1 0 0 1 224 0 2
+EndChar

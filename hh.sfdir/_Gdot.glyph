@@ -1,0 +1,31 @@
+StartChar: Gdot
+Encoding: 288 288 420
+Width: 1593
+Flags: W
+TtInstrs:
+NPUSHB
+ 10
+ 1
+ 0
+ 38
+ 41
+ 10
+ 2
+ 65
+ 1
+ 1
+ 38
+PUSHW_2
+ 545
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 42 71 N 1 0 0 1 0 0 3
+Refer: 218 729 N 1 0 0 1 526 351 2
+EndChar

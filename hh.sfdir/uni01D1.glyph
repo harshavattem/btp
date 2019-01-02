@@ -1,0 +1,31 @@
+StartChar: uni01D1
+Encoding: 465 465 1280
+Width: 1593
+Flags: W
+TtInstrs:
+NPUSHB
+ 10
+ 2
+ 0
+ 33
+ 30
+ 3
+ 3
+ 65
+ 2
+ 1
+ 32
+PUSHW_2
+ 545
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 50 79 N 1 0 0 1 0 0 3
+Refer: 223 711 N 1 0 0 1 450 351 2
+EndChar

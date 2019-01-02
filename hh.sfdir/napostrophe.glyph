@@ -1,0 +1,29 @@
+StartChar: napostrophe
+Encoding: 329 329 396
+Width: 1237
+Flags: W
+TtInstrs:
+NPUSHB
+ 14
+ 0
+ 1
+ 0
+ 35
+ 240
+ 72
+ 39
+ 1
+ 1
+ 24
+ 35
+ 0
+ 72
+ 39
+CALL
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 81 110 N 1 0 0 1 240 0 2
+Refer: 182 8217 N 1 0 0 1 0 0 2
+EndChar

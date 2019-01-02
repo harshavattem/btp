@@ -1,0 +1,31 @@
+StartChar: ncaron
+Encoding: 328 328 278
+Width: 1139
+Flags: W
+TtInstrs:
+NPUSHB
+ 10
+ 1
+ 0
+ 28
+ 25
+ 1
+ 11
+ 65
+ 1
+ 1
+ 26
+PUSHW_2
+ 546
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 81 110 N 1 0 0 1 0 0 3
+Refer: 223 711 N 1 0 0 1 226 0 2
+EndChar

@@ -1,0 +1,53 @@
+StartChar: Gbreve
+Encoding: 286 286 246
+Width: 1593
+Flags: W
+TtInstrs:
+PUSHB_4
+ 1
+ 1
+ 1
+ 42
+PUSHW_2
+ 545
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+PUSHB_2
+ 6
+ 2
+RS
+EQ
+IF
+PUSHB_6
+ 0
+ 45
+ 39
+ 14
+ 14
+ 65
+CALL
+ELSE
+NPUSHB
+ 10
+ 112
+ 42
+ 160
+ 42
+ 2
+ 42
+ 14
+ 0
+ 104
+ 43
+CALL
+DELTAP1
+EIF
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 42 71 N 1 0 0 1 0 0 3
+Refer: 217 728 N 1 0 0 1 526 351 2
+EndChar

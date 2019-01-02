@@ -1,0 +1,71 @@
+StartChar: yhookabove
+Encoding: 7927 7927 1273
+Width: 1024
+Flags: W
+TtInstrs:
+PUSHB_2
+ 1
+ 47
+PUSHW_1
+ -64
+PUSHB_5
+ 24
+ 24
+ 6
+ 85
+ 47
+PUSHW_1
+ -64
+PUSHB_5
+ 20
+ 21
+ 6
+ 85
+ 47
+PUSHW_1
+ -64
+NPUSHB
+ 15
+ 15
+ 17
+ 6
+ 85
+ 31
+ 47
+ 112
+ 47
+ 2
+ 144
+ 47
+ 160
+ 47
+ 2
+ 47
+PUSHW_1
+ -64
+PUSHB_5
+ 43
+ 48
+ 52
+ 47
+ 15
+PUSHW_1
+ -55
+PUSHB_2
+ 72
+ 43
+SVTCA[x-axis]
+CALL
+CALL
+DELTAP1
+DELTAP2
+CALL
+CALL
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 92 121 N 1 0 0 1 0 0 3
+Refer: 1157 61458 N 1 0 0 1 760 0 2
+EndChar

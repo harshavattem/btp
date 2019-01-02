@@ -1,0 +1,31 @@
+StartChar: edot
+Encoding: 279 279 417
+Width: 1139
+Flags: W
+TtInstrs:
+NPUSHB
+ 10
+ 2
+ 0
+ 30
+ 33
+ 7
+ 15
+ 65
+ 2
+ 1
+ 30
+PUSHW_2
+ 546
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 72 101 N 1 0 0 1 0 0 3
+Refer: 218 729 N 1 0 0 1 250 0 2
+EndChar

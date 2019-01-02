@@ -1,0 +1,27 @@
+StartChar: Uhookabove
+Encoding: 7910 7910 1258
+Width: 1479
+Flags: W
+TtInstrs:
+NPUSHB
+ 10
+ 1
+ 208
+ 31
+ 1
+ 0
+ 31
+ 37
+ 12
+ 0
+ 65
+SVTCA[x-axis]
+CALL
+DELTAP1
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 56 85 N 1 0 0 1 0 0 3
+Refer: 1140 777 N 1 0 0 1 1000 0 2
+EndChar

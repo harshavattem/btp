@@ -1,0 +1,32 @@
+StartChar: kcedilla
+Encoding: 311 311 439
+Width: 1024
+Flags: W
+TtInstrs:
+NPUSHB
+ 13
+ 1
+ 32
+ 22
+ 144
+ 22
+ 2
+ 0
+ 22
+ 17
+ 0
+ 5
+ 65
+ 14
+SVTCA[y-axis]
+MDAP[rnd]
+SVTCA[x-axis]
+CALL
+DELTAP1
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 78 107 N 1 0 0 1 0 0 3
+Refer: 494 61445 N 1 0 0 1 289 0 2
+EndChar

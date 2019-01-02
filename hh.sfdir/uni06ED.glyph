@@ -1,0 +1,30 @@
+StartChar: uni06ED
+Encoding: 1773 1773 1627
+Width: 0
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 10
+ 0
+ 9
+ 64
+ 67
+ 68
+ 52
+ 128
+ 9
+ 1
+ 9
+PUSHW_1
+ 774
+SVTCA[y-axis]
+MIAP[rnd]
+DELTAP1
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 1617 1762 N 1 0 0 1 0 -1429 3
+EndChar

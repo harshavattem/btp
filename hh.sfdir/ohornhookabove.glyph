@@ -1,0 +1,35 @@
+StartChar: ohornhookabove
+Encoding: 7903 7903 1251
+Width: 1343
+Flags: W
+TtInstrs:
+NPUSHB
+ 17
+ 2
+ 0
+ 65
+ 1
+ 144
+ 65
+ 192
+ 65
+ 208
+ 65
+ 3
+ 0
+ 65
+ 64
+ 37
+ 37
+ 65
+SVTCA[x-axis]
+CALL
+DELTAP1
+DELTAP2
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 1131 417 N 1 0 0 1 0 0 3
+Refer: 1157 61458 N 1 0 0 1 810 0 2
+EndChar

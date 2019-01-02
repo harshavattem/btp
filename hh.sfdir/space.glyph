@@ -1,0 +1,8 @@
+StartChar: space
+Encoding: 32 32 3
+AltUni2: 0000a0.ffffffff.0
+Width: 569
+Flags: W
+LayerCount: 2
+Kerns2: 527 -37 "'kern' Horizontal Kerning lookup 0 subtable" 522 -37 "'kern' Horizontal Kerning lookup 0 subtable" 521 -37 "'kern' Horizontal Kerning lookup 0 subtable" 513 -113 "'kern' Horizontal Kerning lookup 0 subtable" 507 -113 "'kern' Horizontal Kerning lookup 0 subtable" 505 -113 "'kern' Horizontal Kerning lookup 0 subtable" 497 -113 "'kern' Horizontal Kerning lookup 0 subtable" 60 -37 "'kern' Horizontal Kerning lookup 0 subtable" 55 -37 "'kern' Horizontal Kerning lookup 0 subtable" 36 -113 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

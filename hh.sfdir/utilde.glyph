@@ -1,0 +1,41 @@
+StartChar: utilde
+Encoding: 361 361 458
+Width: 1139
+Flags: W
+TtInstrs:
+NPUSHB
+ 18
+ 1
+ 239
+ 25
+ 1
+ 25
+ 64
+ 83
+ 84
+ 52
+ 0
+ 25
+ 37
+ 17
+ 17
+ 65
+ 1
+ 1
+ 25
+PUSHW_2
+ 546
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+CALL
+DELTAP2
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 88 117 N 1 0 0 1 0 0 3
+Refer: 215 732 N 1 0 0 1 236 0 2
+EndChar

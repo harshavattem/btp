@@ -1,0 +1,49 @@
+StartChar: eogonek
+Encoding: 281 281 266
+Width: 1139
+Flags: W
+TtInstrs:
+NPUSHB
+ 18
+ 2
+ 144
+ 30
+ 207
+ 30
+ 223
+ 30
+ 3
+ 96
+ 30
+ 128
+ 30
+ 2
+ 80
+ 30
+ 1
+ 30
+ 19
+PUSHW_1
+ -70
+PUSHB_7
+ 72
+ 43
+ 2
+ 1
+ 30
+ 10
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+DELTAP1
+DELTAP1
+DELTAP1
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 72 101 N 1 0 0 1 0 0 3
+Refer: 222 731 N 1 0 0 1 317 0 2
+EndChar

@@ -1,0 +1,9 @@
+StartChar: afii10082
+Encoding: 1088 1088 618
+Width: 1139
+Flags: W
+LayerCount: 2
+Fore
+Refer: 83 112 N 1 0 0 1 0 0 3
+Kerns2: 633 -23 "'kern' Horizontal Kerning lookup 0 subtable" 625 -45 "'kern' Horizontal Kerning lookup 0 subtable" 623 -23 "'kern' Horizontal Kerning lookup 0 subtable" 621 -23 "'kern' Horizontal Kerning lookup 0 subtable" 620 -45 "'kern' Horizontal Kerning lookup 0 subtable" 613 -70 "'kern' Horizontal Kerning lookup 0 subtable" 609 -23 "'kern' Horizontal Kerning lookup 0 subtable" 606 -47 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

@@ -1,0 +1,103 @@
+StartChar: zayin
+Encoding: 1494 1494 678
+Width: 783
+Flags: W
+TtInstrs:
+NPUSHB
+ 30
+ 15
+ 21
+ 32
+ 21
+ 2
+ 9
+ 10
+ 0
+ 232
+ 17
+ 249
+ 18
+ 6
+ 16
+ 16
+ 0
+ 17
+ 8
+ 32
+ 9
+ 9
+ 3
+ 32
+ 14
+ 14
+ 18
+ 15
+ 19
+ 1
+ 19
+PUSHW_1
+ 716
+NPUSHB
+ 11
+ 21
+ 18
+ 20
+ 12
+ 13
+ 6
+ 85
+ 32
+ 18
+ 1
+ 18
+PUSHW_2
+ 709
+ 20
+SRP0
+MIRP[rnd,white]
+DELTAP1
+CALL
+SRP0
+MIRP[rnd,white]
+DELTAP1
+SRP1
+IP
+MDAP[rnd]
+MIRP[min,rnd,black]
+IP
+MDAP[rnd]
+MIRP[min,rnd,black]
+SRP1
+SRP2
+IP
+MDAP[rnd]
+SVTCA[y-axis]
+MIAP[rnd]
+MIRP[min,rnd,black]
+MIRP[min,rnd,black]
+MIAP[rnd]
+IUP[x]
+IUP[y]
+SVTCA[x-axis]
+DELTAP1
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+738 926 m 1,0,1
+ 585 926 585 926 498.5 838.5 c 128,-1,2
+ 412 751 412 751 412 604 c 0,3,4
+ 412 575 412 575 421 491 c 0,5,6
+ 447 249 447 249 447 147 c 2,7,-1
+ 447 0 l 1,8,-1
+ 255 0 l 1,9,-1
+ 255 174 l 2,10,11
+ 255 280 255 280 235 500 c 0,12,13
+ 228 574 228 574 228 623 c 0,14,15
+ 228 788 228 788 363 901 c 1,16,-1
+ 95 901 l 1,17,-1
+ 95 1061 l 1,18,-1
+ 738 1061 l 1,19,-1
+ 738 926 l 1,0,1
+EndSplineSet
+EndChar

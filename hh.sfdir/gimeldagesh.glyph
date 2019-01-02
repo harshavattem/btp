@@ -1,0 +1,49 @@
+StartChar: gimeldagesh
+Encoding: 64306 64306 719
+Width: 817
+Flags: W
+TtInstrs:
+NPUSHB
+ 26
+ 1
+ 64
+ 36
+ 128
+ 36
+ 2
+ 32
+ 36
+ 80
+ 36
+ 144
+ 36
+ 176
+ 36
+ 192
+ 36
+ 5
+ 0
+ 36
+ 29
+ 17
+ 17
+ 65
+ 1
+ 1
+ 26
+PUSHW_2
+ 736
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+DELTAP1
+DELTAP2
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 674 1490 N 1 0 0 1 0 0 3
+Refer: 664 1468 N 1 0 0 1 -40 70 2
+EndChar

@@ -1,0 +1,49 @@
+StartChar: uniFB1E
+Encoding: 64286 64286 1653
+Width: 0
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHW_5
+ 1
+ 671
+ 0
+ 7
+ 671
+PUSHB_4
+ 8
+ 0
+ 8
+ 11
+PUSHW_2
+ 671
+ 4
+SVTCA[y-axis]
+MDAP[rnd]
+MIRP[rp0,min,rnd,black]
+MDRP[rp0,min,rnd,white]
+MDRP[grey]
+SVTCA[x-axis]
+MDAP[rnd]
+MIRP[min,rnd,black]
+MDRP[rp0,min,rnd,white]
+MIRP[min,rnd,black]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+173 1510 m 1,0,-1
+ 296 1510 l 1,1,2
+ 281 1385 281 1385 204.5 1318 c 128,-1,3
+ 128 1251 128 1251 1 1251 c 0,4,5
+ -127 1251 -127 1251 -203.5 1317.5 c 128,-1,6
+ -280 1384 -280 1384 -295 1510 c 1,7,-1
+ -172 1510 l 1,8,9
+ -158 1442 -158 1442 -116.5 1408.5 c 128,-1,10
+ -75 1375 -75 1375 -5 1375 c 0,11,12
+ 76 1375 76 1375 117.5 1407.5 c 128,-1,13
+ 159 1440 159 1440 173 1510 c 1,0,-1
+EndSplineSet
+EndChar

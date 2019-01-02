@@ -1,0 +1,136 @@
+StartChar: afii10049
+Encoding: 1071 1071 601
+Width: 1479
+Flags: W
+TtInstrs:
+PUSHW_2
+ 15
+ -12
+PUSHB_5
+ 11
+ 16
+ 6
+ 85
+ 16
+PUSHW_1
+ -12
+NPUSHB
+ 14
+ 11
+ 16
+ 6
+ 85
+ 1
+ 0
+ 0
+ 0
+ 34
+ 16
+ 16
+ 2
+ 85
+ 0
+PUSHW_1
+ -18
+PUSHB_5
+ 15
+ 15
+ 2
+ 85
+ 0
+PUSHW_1
+ -14
+NPUSHB
+ 11
+ 13
+ 13
+ 2
+ 85
+ 0
+ 16
+ 12
+ 12
+ 2
+ 85
+ 0
+PUSHW_1
+ -10
+PUSHB_5
+ 11
+ 11
+ 2
+ 85
+ 0
+PUSHW_1
+ -4
+PUSHB_5
+ 16
+ 16
+ 6
+ 85
+ 0
+PUSHW_1
+ -16
+NPUSHB
+ 11
+ 15
+ 15
+ 6
+ 85
+ 0
+ 2
+ 13
+ 13
+ 6
+ 85
+ 0
+PUSHW_1
+ -4
+PUSHB_5
+ 12
+ 12
+ 6
+ 85
+ 0
+PUSHW_1
+ -14
+NPUSHB
+ 13
+ 11
+ 11
+ 6
+ 85
+ 32
+ 0
+ 1
+ 32
+ 0
+ 1
+ 0
+ 93
+ 36
+SVTCA[x-axis]
+SRP0
+MIRP[rp0,rnd,white]
+DELTAP1
+DELTAP1
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+SRP1
+SHC[rp1]
+SHC[rp1]
+CALL
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 53 82 N -1 0 0 1 1479 0 0
+EndChar

@@ -1,0 +1,152 @@
+StartChar: greaterequal
+Encoding: 8805 8805 149
+Width: 1124
+Flags: W
+TtInstrs:
+NPUSHB
+ 24
+ 128
+ 2
+ 143
+ 4
+ 2
+ 10
+ 9
+ 8
+ 7
+ 4
+ 0
+ 4
+ 2
+ 1
+ 3
+ 11
+ 5
+ 10
+ 9
+ 7
+ 8
+ 37
+ 64
+ 9
+PUSHW_1
+ 684
+PUSHB_8
+ 1
+ 0
+ 171
+ 6
+ 171
+ 3
+ 32
+ 2
+PUSHW_4
+ 602
+ 64
+ 1
+ 336
+PUSHB_3
+ 3
+ 32
+ 4
+PUSHW_4
+ 602
+ 64
+ 5
+ 336
+NPUSHB
+ 9
+ 32
+ 3
+ 7
+ 10
+ 58
+ 3
+ 60
+ 6
+ 5
+PUSHW_1
+ 290
+NPUSHB
+ 11
+ 31
+ 0
+ 48
+ 0
+ 2
+ 0
+ 26
+ 12
+ 113
+ 140
+ 24
+CALL
+FLIPOFF
+SRP0
+MIRP[rp0,rnd,white]
+DELTAP1
+FLIPON
+MIRP[min,rnd,black]
+ALIGNRP
+MIRP[min,rnd,black]
+MIRP[rp0,rnd,grey]
+ALIGNRP
+SVTCA[y-axis]
+RTHG
+MDAP[rnd]
+SMD
+MIRP[rp0,min,rnd,black]
+RTG
+SMD
+MIRP[min,rnd,black]
+RTHG
+SMD
+SRP0
+MIRP[rp0,min,rnd,black]
+RTG
+SMD
+MIRP[min,rnd,black]
+RTHG
+SMD
+SRP0
+MIRP[min,rnd,black]
+MIRP[min,rnd,black]
+RTG
+SRP0
+MIRP[rp0,rnd,white]
+SMD
+MIRP[rp0,min,rnd,black]
+ALIGNRP
+SRP0
+ALIGNRP
+SVTCA[x-axis]
+SRP1
+SRP2
+SLOOP
+IP
+SRP2
+SLOOP
+IP
+IUP[x]
+IUP[y]
+SVTCA[y-axis]
+DELTAP1
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+1048 762 m 1,0,-1
+ 77 347 l 1,1,-1
+ 77 526 l 1,2,-1
+ 846 845 l 1,3,-1
+ 77 1160 l 1,4,-1
+ 77 1340 l 1,5,-1
+ 1048 930 l 1,6,-1
+ 1048 762 l 1,0,-1
+1046 106 m 1,7,-1
+ 78 106 l 1,8,-1
+ 78 273 l 1,9,-1
+ 1046 273 l 1,10,-1
+ 1046 106 l 1,7,-1
+EndSplineSet
+EndChar

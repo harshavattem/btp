@@ -1,0 +1,22 @@
+StartChar: upsilondieresistonos
+Encoding: 944 944 532
+Width: 1120
+Flags: W
+TtInstrs:
+PUSHB_5
+ 1
+ 2
+ 3
+ 3
+ 23
+PUSHW_2
+ 546
+ 41
+SVTCA[y-axis]
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 547 965 N 1 0 0 1 0 0 3
+Refer: 496 901 N 1 0 0 1 220 0 2
+EndChar

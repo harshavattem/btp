@@ -1,0 +1,244 @@
+StartChar: uni06CD
+Encoding: 1741 1741 1586
+Width: 1307
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 48
+ 73
+ 38
+ 1
+ 58
+ 38
+ 1
+ 101
+ 39
+ 117
+ 39
+ 2
+ 135
+ 38
+ 1
+ 116
+ 38
+ 1
+ 99
+ 38
+ 1
+ 84
+ 38
+ 1
+ 131
+ 34
+ 1
+ 102
+ 34
+ 118
+ 34
+ 2
+ 142
+ 32
+ 1
+ 3
+ 104
+ 32
+ 120
+ 32
+ 2
+ 9
+ 20
+ 25
+ 20
+ 41
+ 20
+ 3
+ 47
+PUSHW_1
+ 780
+PUSHB_4
+ 8
+ 8
+ 33
+ 41
+PUSHW_1
+ 765
+NPUSHB
+ 15
+ 15
+ 2
+ 2
+ 15
+ 0
+ 0
+ 15
+ 15
+ 56
+ 89
+ 26
+ 1
+ 26
+ 21
+ 31
+PUSHW_1
+ 763
+NPUSHB
+ 17
+ 54
+ 29
+ 70
+ 29
+ 2
+ 36
+ 29
+ 1
+ 2
+ 29
+ 18
+ 29
+ 2
+ 2
+ 29
+ 29
+ 33
+PUSHW_1
+ 780
+PUSHB_5
+ 27
+ 21
+ 2
+ 11
+ 4
+PUSHW_7
+ 751
+ 53
+ 772
+ 11
+ 751
+ 44
+ 747
+PUSHB_4
+ 28
+ 27
+ 31
+ 29
+PUSHW_3
+ 775
+ 35
+ 751
+PUSHB_8
+ 0
+ 19
+ 16
+ 19
+ 32
+ 19
+ 3
+ 19
+PUSHW_2
+ 781
+ 313
+SCANCTRL
+SVTCA[y-axis]
+MIAP[rnd]
+DELTAP1
+MIRP[min,rnd,black]
+MIAP[rnd]
+SHP[rp1]
+MDRP[min,rnd,black]
+IP
+MIAP[rnd]
+MIRP[min,rnd,black]
+MIAP[rnd]
+MIRP[min,rnd,black]
+SRP1
+IP
+SVTCA[x-axis]
+MDAP[rnd]
+MDRP[min,rnd,white]
+MIRP[min,rnd,black]
+SHP[rp2]
+RTHG
+MDAP[rnd]
+SDS
+DELTAP1
+DELTAP1
+DELTAP1
+MIRP[min,rnd,black]
+SRP2
+IP
+DELTAP1
+SRP1
+SHP[rp1]
+RTG
+MDAP[rnd]
+SHP[rp1]
+MDAP[rnd]
+SRP2
+IP
+RTDG
+MDAP[rnd]
+RTG
+SRP0
+MIRP[min,rnd,black]
+SRP1
+IP
+MDAP[rnd]
+MIRP[min,rnd,black]
+IUP[x]
+IUP[y]
+SVTCA[y-axis]
+DELTAP1
+DELTAP1
+SDS
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+SVTCA[x-axis]
+DELTAP1
+DELTAP1
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+1241 800 m 0,0,1
+ 1241 785 1241 785 1227 687 c 1,2,3
+ 1152 784 1152 784 1045 784 c 0,4,5
+ 958 784 958 784 862 683 c 0,6,7
+ 774 590 774 590 774 535 c 0,8,9
+ 774 497 774 497 870 497 c 2,10,-1
+ 950 497 l 2,11,12
+ 1073 497 1073 497 1139 486 c 0,13,14
+ 1187 478 1187 478 1187 413 c 0,15,16
+ 1187 137 1187 137 928 9 c 0,17,18
+ 731 -89 731 -89 424 -89 c 0,19,20
+ 50 -89 50 -89 50 206 c 0,21,22
+ 50 310 50 310 84 424 c 0,23,24
+ 115 528 115 528 156 606 c 2,25,-1
+ 174 639 l 1,26,-1
+ -70 513 l 1,27,-1
+ -70 574 l 1,28,-1
+ 218 724 l 1,29,30
+ 235 719 235 719 261 708 c 1,31,32
+ 131 477 131 477 131 326 c 0,33,34
+ 131 82 131 82 457 82 c 0,35,36
+ 577 82 577 82 736 130 c 0,37,38
+ 819 155 819 155 932 205 c 0,39,40
+ 1090 275 1090 275 1090 312 c 0,41,42
+ 1090 343 1090 343 1037 343 c 2,43,-1
+ 803 343 l 2,44,45
+ 757 343 757 343 725.5 375.5 c 128,-1,46
+ 694 408 694 408 694 454 c 0,47,48
+ 694 521 694 521 749 636 c 0,49,50
+ 809 761 809 761 894 845 c 0,51,52
+ 996 946 996 946 1099 946 c 0,53,54
+ 1241 946 1241 946 1241 800 c 0,0,1
+EndSplineSet
+Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" glyph1587
+Substitution2: "'fina' Terminal Forms in Arabic lookup 4 subtable" glyph1587
+EndChar

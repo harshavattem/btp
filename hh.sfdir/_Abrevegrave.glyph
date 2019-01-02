@@ -1,0 +1,103 @@
+StartChar: Abrevegrave
+Encoding: 7856 7856 1204
+Width: 1366
+Flags: W
+TtInstrs:
+PUSHB_7
+ 2
+ 32
+ 64
+ 25
+ 45
+ 52
+ 32
+SVTCA[y-axis]
+MDAP[rnd]
+CALL
+SHC[rp1]
+SVTCA[x-axis]
+PUSHB_2
+ 6
+ 2
+RS
+EQ
+IF
+NPUSHB
+ 14
+ 3
+ 84
+ 35
+ 35
+ 22
+ 22
+ 65
+ 2
+ 0
+ 31
+ 31
+ 1
+ 2
+ 65
+CALL
+SHC[rp1]
+CALL
+SHC[rp1]
+ELSE
+NPUSHB
+ 27
+ 3
+ 35
+ 64
+ 56
+ 57
+ 52
+ 35
+ 64
+ 41
+ 49
+ 52
+ 35
+ 64
+ 9
+ 17
+ 52
+ 64
+ 35
+ 111
+ 35
+ 223
+ 35
+ 239
+ 35
+ 4
+ 35
+ 2
+PUSHW_1
+ -11
+NPUSHB
+ 9
+ 72
+ 43
+ 2
+ 0
+ 17
+ 27
+ 1
+ 2
+ 65
+CALL
+SHC[rp1]
+CALL
+DELTAP2
+CALL
+CALL
+CALL
+SHC[rp1]
+EIF
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 36 65 N 1 0 0 1 0 0 3
+Refer: 1147 -1 N 1 0 0 1 683 0 2
+Refer: 1134 -1 N 1 0 0 1 945 0 2
+EndChar

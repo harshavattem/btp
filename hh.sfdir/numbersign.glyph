@@ -1,0 +1,347 @@
+StartChar: numbersign
+Encoding: 35 35 6
+Width: 1139
+Flags: W
+TtInstrs:
+NPUSHB
+ 135
+ 40
+ 29
+ 56
+ 29
+ 2
+ 9
+ 4
+ 9
+ 29
+ 2
+ 87
+ 15
+ 183
+ 19
+ 183
+ 28
+ 199
+ 19
+ 199
+ 28
+ 248
+ 29
+ 6
+ 1
+ 2
+ 21
+ 0
+ 9
+ 4
+ 3
+ 20
+ 0
+ 9
+ 5
+ 6
+ 17
+ 0
+ 9
+ 8
+ 7
+ 16
+ 0
+ 9
+ 11
+ 7
+ 16
+ 27
+ 10
+ 12
+ 7
+ 16
+ 24
+ 13
+ 15
+ 7
+ 16
+ 23
+ 14
+ 18
+ 6
+ 17
+ 23
+ 14
+ 19
+ 3
+ 20
+ 23
+ 14
+ 22
+ 2
+ 21
+ 23
+ 14
+ 25
+ 2
+ 21
+ 24
+ 13
+ 26
+ 2
+ 21
+ 27
+ 10
+ 28
+ 3
+ 20
+ 27
+ 10
+ 29
+ 3
+ 20
+ 24
+ 13
+ 30
+ 6
+ 17
+ 24
+ 13
+ 31
+ 6
+ 17
+ 27
+ 10
+ 10
+ 27
+ 27
+ 37
+ 0
+ 9
+ 20
+ 0
+ 0
+ 9
+ 13
+ 24
+ 24
+ 37
+ 23
+ 14
+ 20
+ 23
+ 23
+ 14
+ 21
+ 2
+ 37
+ 20
+ 3
+ 3
+ 0
+ 16
+ 7
+ 37
+ 17
+ 6
+PUSHW_1
+ 438
+NPUSHB
+ 56
+ 14
+ 14
+ 13
+ 13
+ 10
+ 10
+ 9
+ 0
+ 27
+ 24
+ 24
+ 23
+ 23
+ 0
+ 10
+ 21
+ 20
+ 20
+ 17
+ 16
+ 62
+ 14
+ 7
+ 6
+ 6
+ 3
+ 2
+ 62
+ 0
+ 24
+ 148
+ 13
+ 23
+ 148
+ 13
+ 37
+ 14
+ 64
+ 17
+ 57
+ 79
+ 14
+ 159
+ 14
+ 2
+ 14
+ 117
+ 33
+ 10
+ 148
+ 27
+ 9
+ 148
+ 27
+ 37
+ 0
+PUSHW_1
+ -64
+PUSHB_6
+ 17
+ 57
+ 32
+ 0
+ 1
+ 0
+PUSHW_1
+ 673
+PUSHB_4
+ 32
+ 169
+ 104
+ 24
+CALL
+SRP0
+MIRP[rp0,rnd,white]
+DELTAP1
+CALL
+MIRP[min,rnd,black]
+MIRP[rnd,grey]
+SRP0
+MIRP[rnd,grey]
+SRP0
+MIRP[rp0,rnd,white]
+DELTAP1
+CALL
+MIRP[min,rnd,black]
+MIRP[rnd,grey]
+SRP0
+MIRP[rnd,grey]
+SRP0
+MIRP[rp0,rnd,grey]
+ALIGNRP
+ALIGNRP
+SRP0
+ALIGNRP
+SRP0
+MIRP[rp0,rnd,grey]
+ALIGNRP
+ALIGNRP
+SRP0
+ALIGNRP
+SVTCA[y-axis]
+MIAP[rnd]
+ALIGNRP
+SRP0
+ALIGNRP
+SRP0
+ALIGNRP
+MIAP[rnd]
+ALIGNRP
+SRP0
+ALIGNRP
+SRP0
+ALIGNRP
+SRP0
+MIRP[rp0,min,rnd,black]
+ALIGNRP
+MIRP[rp0,min,rnd,black]
+ALIGNRP
+SRP1
+IP
+MDAP[rnd]
+ALIGNRP
+MIRP[rp0,min,rnd,black]
+ALIGNRP
+SDPVTL[orthog]
+SFVTCA[x-axis]
+MDAP[no-rnd]
+CALL
+RDTG
+SRP0
+MDRP[rnd,grey]
+SDPVTL[orthog]
+MDAP[no-rnd]
+RTG
+CALL
+RDTG
+SRP0
+MDRP[rnd,grey]
+ISECT
+ISECT
+ISECT
+ISECT
+ISECT
+ISECT
+ISECT
+ISECT
+ISECT
+ISECT
+ISECT
+ISECT
+ISECT
+ISECT
+ISECT
+ISECT
+IUP[x]
+IUP[y]
+SVTCA[x-axis]
+DELTAP1
+DELTAP1
+DELTAP2
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+103 -25 m 1,0,-1
+ 190 401 l 1,1,-1
+ 21 401 l 1,2,-1
+ 21 550 l 1,3,-1
+ 220 550 l 1,4,-1
+ 294 913 l 1,5,-1
+ 21 913 l 1,6,-1
+ 21 1062 l 1,7,-1
+ 324 1062 l 1,8,-1
+ 411 1491 l 1,9,-1
+ 561 1491 l 1,10,-1
+ 474 1062 l 1,11,-1
+ 789 1062 l 1,12,-1
+ 876 1491 l 1,13,-1
+ 1027 1491 l 1,14,-1
+ 940 1062 l 1,15,-1
+ 1113 1062 l 1,16,-1
+ 1113 913 l 1,17,-1
+ 910 913 l 1,18,-1
+ 835 550 l 1,19,-1
+ 1113 550 l 1,20,-1
+ 1113 401 l 1,21,-1
+ 805 401 l 1,22,-1
+ 718 -25 l 1,23,-1
+ 568 -25 l 1,24,-1
+ 654 401 l 1,25,-1
+ 340 401 l 1,26,-1
+ 253 -25 l 1,27,-1
+ 103 -25 l 1,0,-1
+370 550 m 1,28,-1
+ 684 550 l 1,29,-1
+ 759 913 l 1,30,-1
+ 444 913 l 1,31,-1
+ 370 550 l 1,28,-1
+EndSplineSet
+EndChar

@@ -1,0 +1,473 @@
+StartChar: Upsilontonos
+Encoding: 910 910 502
+Width: 1752
+Flags: W
+TtInstrs:
+PUSHB_7
+ 8
+ 9
+ 58
+ 3
+ 4
+ 59
+ 9
+PUSHW_1
+ -25
+PUSHB_4
+ 18
+ 23
+ 52
+ 8
+PUSHW_1
+ -25
+NPUSHB
+ 14
+ 18
+ 23
+ 52
+ 4
+ 25
+ 18
+ 23
+ 52
+ 3
+ 25
+ 18
+ 23
+ 52
+ 9
+PUSHW_1
+ -40
+PUSHB_4
+ 24
+ 33
+ 52
+ 8
+PUSHW_1
+ -40
+NPUSHB
+ 42
+ 24
+ 33
+ 52
+ 4
+ 40
+ 24
+ 33
+ 52
+ 18
+ 38
+ 4
+ 41
+ 8
+ 42
+ 10
+ 47
+ 18
+ 4
+ 104
+ 1
+ 104
+ 6
+ 104
+ 11
+ 222
+ 6
+ 4
+ 5
+ 4
+ 3
+ 3
+ 6
+ 8
+ 7
+ 9
+ 9
+ 6
+ 6
+ 3
+ 6
+ 9
+ 3
+PUSHW_1
+ -10
+NPUSHB
+ 42
+ 12
+ 16
+ 2
+ 85
+ 3
+ 32
+ 2
+ 1
+ 20
+ 2
+ 2
+ 1
+ 6
+ 9
+ 6
+ 3
+ 9
+ 10
+ 12
+ 16
+ 2
+ 85
+ 9
+ 32
+ 10
+ 11
+ 20
+ 10
+ 10
+ 11
+ 0
+ 16
+ 16
+ 16
+ 2
+ 16
+ 218
+ 15
+ 14
+ 2
+ 1
+ 11
+PUSHW_1
+ -32
+NPUSHB
+ 11
+ 13
+ 13
+ 6
+ 85
+ 11
+ 32
+ 11
+ 11
+ 6
+ 85
+ 11
+PUSHW_1
+ 537
+NPUSHB
+ 42
+ 10
+ 10
+ 9
+ 9
+ 3
+ 3
+ 2
+ 2
+ 0
+ 8
+ 11
+ 6
+ 1
+ 3
+ 2
+ 0
+ 14
+ 82
+ 15
+ 82
+ 144
+ 16
+ 1
+ 16
+ 233
+ 13
+ 25
+ 12
+ 12
+ 2
+ 85
+ 96
+ 13
+ 112
+ 13
+ 2
+ 13
+ 64
+ 15
+ 17
+ 52
+ 13
+PUSHW_1
+ -64
+NPUSHB
+ 14
+ 9
+ 11
+ 52
+ 79
+ 13
+ 95
+ 13
+ 176
+ 13
+ 192
+ 13
+ 4
+ 13
+ 18
+PUSHW_1
+ 536
+NPUSHB
+ 9
+ 12
+ 9
+ 82
+ 64
+ 10
+ 128
+ 10
+ 2
+ 10
+PUSHW_1
+ 437
+NPUSHB
+ 13
+ 11
+ 11
+ 12
+ 32
+ 0
+ 3
+ 82
+ 79
+ 2
+ 143
+ 2
+ 2
+ 2
+PUSHW_1
+ 437
+NPUSHB
+ 39
+ 1
+ 1
+ 0
+ 36
+ 16
+ 16
+ 2
+ 85
+ 0
+ 12
+ 15
+ 15
+ 2
+ 85
+ 0
+ 28
+ 12
+ 12
+ 2
+ 85
+ 0
+ 34
+ 16
+ 16
+ 6
+ 85
+ 0
+ 32
+ 15
+ 15
+ 6
+ 85
+ 0
+ 12
+ 12
+ 12
+ 6
+ 85
+ 0
+PUSHW_1
+ 583
+PUSHB_3
+ 17
+ 6
+ 12
+PUSHW_1
+ 393
+PUSHB_2
+ 168
+ 24
+CALL
+SRP1
+IP
+SRP0
+MIRP[rp0,rnd,white]
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+ALIGNRP
+SRP0
+MIRP[rp0,rnd,grey]
+DELTAP1
+MIRP[min,rnd,black]
+SRP0
+MIRP[rp0,min,rnd,black]
+ALIGNRP
+SRP0
+MIRP[rp0,rnd,grey]
+DELTAP1
+MIRP[min,rnd,black]
+SRP0
+MIRP[rnd,white]
+MDAP[rnd]
+DELTAP1
+CALL
+CALL
+DELTAP2
+CALL
+MIRP[rp0,min,rnd,black]
+DELTAP1
+MIRP[rp0,rnd,grey]
+MIRP[min,rnd,black]
+SVTCA[y-axis]
+SRP1
+SRP2
+SLOOP
+IP
+MIAP[rnd]
+MIAP[rnd]
+ALIGNRP
+SRP0
+ALIGNRP
+SRP0
+ALIGNRP
+SRP0
+MIRP[rp0,rnd,grey]
+CALL
+CALL
+ALIGNRP
+MIAP[rnd]
+ALIGNRP
+MIRP[min,rnd,black]
+DELTAP1
+SDPVTL[orthog]
+SFVTCA[x-axis]
+MDAP[no-rnd]
+CALL
+CALL
+SFVTL[parallel]
+RDTG
+SRP0
+MDRP[rnd,grey]
+SDPVTL[orthog]
+SFVTCA[x-axis]
+MDAP[no-rnd]
+RTG
+CALL
+CALL
+SFVTL[parallel]
+RDTG
+SRP0
+MDRP[rnd,grey]
+SDPVTL[orthog]
+SFVTPV
+SRP0
+MDRP[rnd,grey]
+MDRP[rnd,grey]
+SDPVTL[orthog]
+SFVTPV
+SRP0
+MDRP[rnd,grey]
+MDRP[rnd,grey]
+MPPEM
+PUSHB_1
+ 23
+GTEQ
+MPPEM
+PUSHB_1
+ 28
+LTEQ
+AND
+IF
+PUSHB_5
+ 8
+ 12
+ 9
+ 12
+ 4
+PUSHW_3
+ -12
+ 3
+ -12
+SVTCA[x-axis]
+SHPIX
+SHPIX
+SHPIX
+SHPIX
+EIF
+IUP[x]
+IUP[y]
+SVTCA[y-axis]
+DELTAP1
+SVTCA[x-axis]
+DELTAP1
+RS
+NOT
+IF
+NPUSHB
+ 9
+ 9
+ 34
+ 25
+ 57
+ 8
+ 34
+ 25
+ 57
+ 4
+PUSHW_1
+ -34
+PUSHB_2
+ 25
+ 57
+CALL
+CALL
+CALL
+EIF
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+945 0 m 1,0,-1
+ 945 621 l 1,1,-1
+ 380 1466 l 1,2,-1
+ 616 1466 l 1,3,-1
+ 905 1024 l 2,4,5
+ 990 893 990 893 1054 776 c 1,6,7
+ 1120 891 1120 891 1214 1035 c 2,8,-1
+ 1498 1466 l 1,9,-1
+ 1724 1466 l 1,10,-1
+ 1139 621 l 1,11,-1
+ 1139 0 l 1,12,-1
+ 945 0 l 1,0,-1
+-89 1186 m 1,13,-1
+ 44 1466 l 1,14,-1
+ 280 1466 l 1,15,-1
+ 60 1186 l 1,16,-1
+ -89 1186 l 1,13,-1
+EndSplineSet
+Kerns2: 553 -186 "'kern' Horizontal Kerning lookup 0 subtable" 551 98 "'kern' Horizontal Kerning lookup 0 subtable" 544 -186 "'kern' Horizontal Kerning lookup 0 subtable" 541 -152 "'kern' Horizontal Kerning lookup 0 subtable" 539 -152 "'kern' Horizontal Kerning lookup 0 subtable" 538 -76 "'kern' Horizontal Kerning lookup 0 subtable" 536 -152 "'kern' Horizontal Kerning lookup 0 subtable" 531 -76 "'kern' Horizontal Kerning lookup 0 subtable" 530 -152 "'kern' Horizontal Kerning lookup 0 subtable" 525 -98 "'kern' Horizontal Kerning lookup 0 subtable" 517 -115 "'kern' Horizontal Kerning lookup 0 subtable" 513 -152 "'kern' Horizontal Kerning lookup 0 subtable" 507 -152 "'kern' Horizontal Kerning lookup 0 subtable" 505 -152 "'kern' Horizontal Kerning lookup 0 subtable" 504 170 "'kern' Horizontal Kerning lookup 0 subtable" 307 -186 "'kern' Horizontal Kerning lookup 0 subtable" 305 -186 "'kern' Horizontal Kerning lookup 0 subtable" 302 -186 "'kern' Horizontal Kerning lookup 0 subtable" 301 -115 "'kern' Horizontal Kerning lookup 0 subtable" 300 -115 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

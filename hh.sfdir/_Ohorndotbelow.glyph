@@ -1,0 +1,27 @@
+StartChar: Ohorndotbelow
+Encoding: 7906 7906 1254
+Width: 1756
+Flags: W
+TtInstrs:
+NPUSHB
+ 10
+ 2
+ 0
+ 46
+ 1
+ 0
+ 46
+ 47
+ 29
+ 29
+ 65
+SVTCA[x-axis]
+CALL
+DELTAP2
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 1130 416 N 1 0 0 1 0 0 3
+Refer: 1149 61484 N 1 0 0 1 940 0 2
+EndChar

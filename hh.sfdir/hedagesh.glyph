@@ -1,0 +1,39 @@
+StartChar: hedagesh
+Encoding: 64308 64308 721
+Width: 1233
+Flags: W
+TtInstrs:
+NPUSHB
+ 17
+ 2
+ 64
+ 29
+ 112
+ 29
+ 176
+ 29
+ 3
+ 0
+ 29
+ 22
+ 15
+ 8
+ 65
+ 2
+ 1
+ 19
+PUSHW_2
+ 737
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+DELTAP1
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 676 1492 N 1 0 0 1 0 0 3
+Refer: 664 1468 N 1 0 0 1 268 -66 2
+EndChar

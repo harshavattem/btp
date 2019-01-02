@@ -1,0 +1,41 @@
+StartChar: uhorntilde
+Encoding: 7919 7919 1267
+Width: 1371
+Flags: W
+TtInstrs:
+NPUSHB
+ 18
+ 1
+ 239
+ 37
+ 1
+ 37
+ 64
+ 83
+ 84
+ 52
+ 0
+ 37
+ 49
+ 19
+ 31
+ 65
+ 1
+ 1
+ 37
+PUSHW_2
+ 546
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+CALL
+DELTAP2
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 1133 432 N 1 0 0 1 0 0 3
+Refer: 215 732 N 1 0 0 1 230 0 2
+EndChar

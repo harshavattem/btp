@@ -1,0 +1,31 @@
+StartChar: Ytilde
+Encoding: 7928 7928 1274
+Width: 1366
+Flags: W
+TtInstrs:
+NPUSHB
+ 10
+ 1
+ 0
+ 13
+ 25
+ 3
+ 9
+ 65
+ 1
+ 1
+ 13
+PUSHW_2
+ 545
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 60 89 N 1 0 0 1 0 0 3
+Refer: 215 732 N 1 0 0 1 360 337 2
+EndChar

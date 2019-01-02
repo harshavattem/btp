@@ -1,0 +1,31 @@
+StartChar: memdagesh
+Encoding: 64318 64318 729
+Width: 1231
+Flags: W
+TtInstrs:
+NPUSHB
+ 10
+ 1
+ 0
+ 37
+ 30
+ 21
+ 14
+ 65
+ 1
+ 1
+ 27
+PUSHW_2
+ 735
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 686 1502 N 1 0 0 1 0 0 3
+Refer: 664 1468 N 1 0 0 1 319 -68 2
+EndChar

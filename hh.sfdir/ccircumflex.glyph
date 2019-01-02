@@ -1,0 +1,31 @@
+StartChar: ccircumflex
+Encoding: 265 265 409
+Width: 1024
+Flags: W
+TtInstrs:
+NPUSHB
+ 10
+ 1
+ 0
+ 29
+ 32
+ 7
+ 14
+ 65
+ 1
+ 1
+ 29
+PUSHW_2
+ 546
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 70 99 N 1 0 0 1 0 0 3
+Refer: 214 710 N 1 0 0 1 250 0 2
+EndChar

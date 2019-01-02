@@ -1,0 +1,32 @@
+StartChar: lcedilla
+Encoding: 316 316 442
+Width: 455
+Flags: W
+TtInstrs:
+PUSHB_7
+ 1
+ 79
+ 4
+ 1
+ 31
+ 4
+ 1
+PUSHW_1
+ -28
+PUSHB_5
+ 4
+ 4
+ 0
+ 0
+ 65
+SVTCA[x-axis]
+CALL
+DELTAP1
+DELTAP2
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 79 108 N 1 0 0 1 0 0 3
+Refer: 494 61445 N 1 0 0 1 -110 0 2
+EndChar

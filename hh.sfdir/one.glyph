@@ -1,0 +1,189 @@
+StartChar: one
+Encoding: 49 49 20
+Width: 1139
+Flags: W
+TtInstrs:
+NPUSHB
+ 32
+ 3
+ 64
+ 13
+ 17
+ 52
+ 107
+ 4
+ 127
+ 2
+ 143
+ 2
+ 153
+ 8
+ 4
+ 172
+ 4
+ 1
+ 9
+ 0
+ 6
+ 5
+ 2
+ 3
+ 9
+ 5
+ 1
+ 12
+ 2
+ 1
+ 202
+ 10
+ 0
+PUSHW_1
+ -64
+NPUSHB
+ 10
+ 33
+ 35
+ 52
+ 48
+ 0
+ 1
+ 32
+ 0
+ 1
+ 0
+PUSHW_1
+ -32
+PUSHB_5
+ 16
+ 16
+ 2
+ 85
+ 0
+PUSHW_1
+ -22
+NPUSHB
+ 17
+ 15
+ 15
+ 2
+ 85
+ 0
+ 28
+ 12
+ 12
+ 2
+ 85
+ 0
+ 14
+ 13
+ 13
+ 2
+ 85
+ 0
+PUSHW_1
+ -16
+NPUSHB
+ 25
+ 15
+ 15
+ 6
+ 85
+ 0
+ 16
+ 12
+ 12
+ 6
+ 85
+ 0
+ 16
+ 13
+ 13
+ 6
+ 85
+ 0
+ 26
+ 12
+ 5
+ 64
+ 13
+ 15
+ 52
+ 5
+PUSHW_1
+ -64
+NPUSHB
+ 14
+ 33
+ 35
+ 52
+ 48
+ 5
+ 1
+ 32
+ 5
+ 64
+ 5
+ 2
+ 5
+ 25
+ 11
+PUSHW_3
+ 316
+ 389
+ 24
+CALL
+FLIPOFF
+SRP0
+MIRP[rnd,grey]
+DELTAP1
+DELTAP2
+CALL
+CALL
+SRP0
+MIRP[rp0,rnd,white]
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+DELTAP1
+DELTAP2
+CALL
+ALIGNRP
+FLIPON
+MIRP[rp0,min,rnd,black]
+ALIGNRP
+SVTCA[y-axis]
+MIAP[rnd]
+MIAP[rnd]
+SLOOP
+IP
+SVTCA[x-axis]
+SRP1
+IP
+IUP[x]
+IUP[y]
+SVTCA[x-axis]
+DELTAP1
+SVTCA[y-axis]
+DELTAP1
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+763 0 m 1,0,-1
+ 583 0 l 1,1,-1
+ 583 1147 l 1,2,3
+ 518 1085 518 1085 412.5 1023 c 128,-1,4
+ 307 961 307 961 223 930 c 1,5,-1
+ 223 1104 l 1,6,7
+ 374 1175 374 1175 487 1276 c 128,-1,8
+ 600 1377 600 1377 647 1472 c 1,9,-1
+ 763 1472 l 1,10,-1
+ 763 0 l 1,0,-1
+EndSplineSet
+Kerns2: 20 -152 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

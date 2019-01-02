@@ -1,0 +1,159 @@
+StartChar: he
+Encoding: 1492 1492 676
+Width: 1233
+Flags: W
+TtInstrs:
+NPUSHB
+ 31
+ 50
+ 3
+ 52
+ 4
+ 69
+ 3
+ 69
+ 4
+ 86
+ 3
+ 86
+ 4
+ 102
+ 4
+ 7
+ 14
+ 249
+ 0
+ 18
+ 7
+ 17
+ 10
+ 14
+ 12
+ 249
+ 0
+ 2
+ 7
+ 8
+ 32
+ 5
+PUSHW_1
+ -20
+NPUSHB
+ 11
+ 16
+ 16
+ 6
+ 85
+ 5
+ 16
+ 15
+ 15
+ 6
+ 85
+ 5
+PUSHW_1
+ -16
+PUSHB_5
+ 12
+ 12
+ 6
+ 85
+ 5
+PUSHW_1
+ 712
+NPUSHB
+ 14
+ 20
+ 14
+ 14
+ 0
+ 0
+ 15
+ 32
+ 18
+ 42
+ 16
+ 16
+ 6
+ 85
+ 18
+PUSHW_1
+ -18
+PUSHB_5
+ 15
+ 15
+ 6
+ 85
+ 18
+PUSHW_1
+ -10
+NPUSHB
+ 11
+ 13
+ 13
+ 6
+ 85
+ 18
+ 4
+ 12
+ 12
+ 6
+ 85
+ 18
+PUSHW_2
+ 711
+ 19
+SRP0
+MIRP[rp0,rnd,white]
+CALL
+CALL
+CALL
+CALL
+MIRP[min,rnd,black]
+SHP[rp1]
+MDAP[rnd]
+SHP[rp1]
+MDAP[rnd]
+SRP0
+MIRP[rp0,rnd,white]
+CALL
+CALL
+CALL
+MIRP[min,rnd,black]
+SVTCA[y-axis]
+MIAP[rnd]
+SHP[rp1]
+MIRP[rp0,min,rnd,black]
+SHP[rp2]
+MIAP[rnd]
+ALIGNRP
+MDAP[rnd]
+MDAP[rnd]
+MIRP[min,rnd,black]
+IUP[x]
+IUP[y]
+SVTCA[x-axis]
+DELTAP1
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+150 1042 m 1,0,1
+ 331 1073 331 1073 502 1073 c 0,2,3
+ 834 1073 834 1073 961 950 c 128,-1,4
+ 1088 827 1088 827 1088 573 c 2,5,-1
+ 1088 0 l 1,6,-1
+ 897 0 l 1,7,-1
+ 897 522 l 2,8,9
+ 897 681 897 681 860 755.5 c 128,-1,10
+ 823 830 823 830 732.5 868.5 c 128,-1,11
+ 642 907 642 907 469 907 c 0,12,13
+ 333 907 333 907 166 879 c 1,14,-1
+ 150 1042 l 1,0,1
+353 598 m 1,15,-1
+ 353 0 l 1,16,-1
+ 162 0 l 1,17,-1
+ 162 598 l 1,18,-1
+ 353 598 l 1,15,-1
+EndSplineSet
+EndChar

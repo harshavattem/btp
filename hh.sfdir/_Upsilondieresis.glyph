@@ -1,0 +1,36 @@
+StartChar: Upsilondieresis
+Encoding: 939 939 527
+Width: 1366
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 2
+ 1
+ 17
+ 11
+ 0
+ 72
+ 43
+ 1
+ 2
+ 2
+ 20
+PUSHW_3
+ 545
+ 41
+ 356
+SCANCTRL
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 60 89 N 1 0 0 1 0 0 3
+Refer: 142 168 N 1 0 0 1 336 286 2
+Kerns2: 553 -186 "'kern' Horizontal Kerning lookup 0 subtable" 551 98 "'kern' Horizontal Kerning lookup 0 subtable" 544 -186 "'kern' Horizontal Kerning lookup 0 subtable" 541 -152 "'kern' Horizontal Kerning lookup 0 subtable" 539 -152 "'kern' Horizontal Kerning lookup 0 subtable" 538 -76 "'kern' Horizontal Kerning lookup 0 subtable" 536 -152 "'kern' Horizontal Kerning lookup 0 subtable" 531 -76 "'kern' Horizontal Kerning lookup 0 subtable" 530 -152 "'kern' Horizontal Kerning lookup 0 subtable" 525 -98 "'kern' Horizontal Kerning lookup 0 subtable" 517 -115 "'kern' Horizontal Kerning lookup 0 subtable" 513 -152 "'kern' Horizontal Kerning lookup 0 subtable" 507 -152 "'kern' Horizontal Kerning lookup 0 subtable" 505 -152 "'kern' Horizontal Kerning lookup 0 subtable" 504 170 "'kern' Horizontal Kerning lookup 0 subtable" 307 -186 "'kern' Horizontal Kerning lookup 0 subtable" 305 -186 "'kern' Horizontal Kerning lookup 0 subtable" 302 -186 "'kern' Horizontal Kerning lookup 0 subtable" 301 -115 "'kern' Horizontal Kerning lookup 0 subtable" 300 -115 "'kern' Horizontal Kerning lookup 0 subtable" 3 -37 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

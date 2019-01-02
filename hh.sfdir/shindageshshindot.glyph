@@ -1,0 +1,35 @@
+StartChar: shindageshshindot
+Encoding: 64300 64300 713
+Width: 1422
+Flags: W
+TtInstrs:
+NPUSHB
+ 13
+ 2
+ 79
+ 59
+ 1
+ 10
+ 59
+ 59
+ 22
+ 22
+ 65
+ 2
+ 1
+ 47
+PUSHW_2
+ 733
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+DELTAP2
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 737 64329 N 1 0 0 1 0 0 3
+Refer: 662 1465 N 1 0 0 1 893 0 2
+EndChar

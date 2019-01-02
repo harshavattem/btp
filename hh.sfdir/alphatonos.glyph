@@ -1,0 +1,36 @@
+StartChar: alphatonos
+Encoding: 940 940 528
+Width: 1184
+Flags: W
+TtInstrs:
+NPUSHB
+ 14
+ 2
+ 224
+ 33
+ 240
+ 33
+ 2
+ 33
+ 21
+ 0
+ 72
+ 43
+ 2
+ 1
+ 33
+PUSHW_2
+ 546
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+DELTAP1
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 302 945 N 1 0 0 1 0 0 3
+Refer: 141 180 N 1 0 0 1 244 0 2
+EndChar

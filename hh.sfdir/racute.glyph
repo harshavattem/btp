@@ -1,0 +1,44 @@
+StartChar: racute
+Encoding: 341 341 282
+Width: 682
+Flags: W
+TtInstrs:
+NPUSHB
+ 13
+ 1
+ 175
+ 21
+ 223
+ 21
+ 2
+ 21
+ 64
+ 11
+ 13
+ 52
+ 21
+ 6
+PUSHW_1
+ -133
+PUSHB_5
+ 72
+ 43
+ 1
+ 1
+ 21
+PUSHW_2
+ 546
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+CALL
+DELTAP1
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 85 114 N 1 0 0 1 0 0 3
+Refer: 141 180 N 1 0 0 1 20 0 2
+EndChar

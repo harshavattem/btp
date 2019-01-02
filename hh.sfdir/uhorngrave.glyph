@@ -1,0 +1,34 @@
+StartChar: uhorngrave
+Encoding: 7915 7915 1263
+Width: 1371
+Flags: W
+TtInstrs:
+NPUSHB
+ 12
+ 1
+ 224
+ 38
+ 1
+ 38
+ 25
+ 12
+ 72
+ 43
+ 1
+ 1
+ 38
+PUSHW_2
+ 546
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+DELTAP2
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 1133 432 N 1 0 0 1 0 0 3
+Refer: 67 96 N 1 0 0 1 222 0 2
+EndChar

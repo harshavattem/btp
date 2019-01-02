@@ -1,0 +1,204 @@
+StartChar: glyph1331
+Encoding: 65740 -1 1331
+Width: 551
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 22
+ 38
+ 0
+ 37
+ 48
+ 37
+ 64
+ 37
+ 112
+ 37
+ 128
+ 37
+ 5
+ 10
+ 3
+ 37
+ 48
+ 22
+ 25
+ 16
+ 16
+ 14
+ 20
+PUSHW_1
+ -64
+NPUSHB
+ 52
+ 7
+ 14
+ 52
+ 20
+ 25
+ 64
+ 14
+ 13
+ 7
+ 44
+ 40
+ 9
+ 20
+ 52
+ 44
+ 5
+ 7
+ 31
+ 79
+ 27
+ 95
+ 27
+ 2
+ 27
+ 27
+ 48
+ 239
+ 2
+ 255
+ 2
+ 2
+ 2
+ 25
+ 13
+ 14
+ 20
+ 14
+ 20
+ 22
+ 15
+ 16
+ 31
+ 16
+ 2
+ 7
+ 16
+ 1
+ 5
+ 31
+ 3
+ 35
+ 40
+PUSHW_1
+ -64
+NPUSHB
+ 18
+ 7
+ 14
+ 52
+ 40
+ 3
+ 44
+ 31
+ 1
+ 63
+ 1
+ 95
+ 1
+ 127
+ 1
+ 159
+ 1
+ 5
+ 1
+PUSHW_1
+ 298
+SCANCTRL
+SVTCA[y-axis]
+MDAP[rnd]
+DELTAP1
+MDRP[rp0,min,rnd,black]
+MDRP[grey]
+MDRP[rp0,min,rnd,white]
+CALL
+MDRP[min,rnd,black]
+SRP1
+IP
+IP
+SRP0
+MDRP[rp0,min,rnd,grey]
+SDB
+DELTAP1
+MDRP[min,rnd,grey]
+IP
+IP
+MDAP[rnd]
+MDAP[rnd]
+IP
+IP
+SVTCA[x-axis]
+MDAP[rnd]
+DELTAP1
+SRP2
+IP
+MDAP[rnd]
+DELTAP1
+SHP[rp1]
+MDRP[min,rnd,black]
+SHP[rp2]
+SHP[rp2]
+CALL
+SVTCA[x-axis]
+RTG
+SRP0
+MDRP[rp0,rnd,white]
+MDRP[rnd,black]
+SMD
+MDRP[rp0,min,rnd,black]
+MDRP[min,rnd,black]
+CALL
+SRP1
+IP
+RTHG
+MDAP[rnd]
+SRP1
+IP
+SRP0
+MDRP[rp0,grey]
+SDS
+SDB
+DELTAP1
+RTG
+MDRP[min,rnd,black]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+551 1062 m 1,0,-1
+ -50 1062 l 1,1,-1
+ -50 1145 l 1,2,-1
+ 23 1145 l 2,3,4
+ 86 1145 86 1145 157 1189 c 1,5,6
+ 176 1235 176 1235 176 1280 c 0,7,8
+ 176 1329 176 1329 166 1393 c 0,9,10
+ 158 1442 158 1442 145 1498 c 0,11,12
+ 138 1528 138 1528 125 1575 c 1,13,-1
+ 96 1589 l 1,14,15
+ 104 1654 104 1654 123 1696 c 1,16,17
+ 131 1672 131 1672 163 1659 c 0,18,19
+ 183 1651 183 1651 215 1648 c 1,20,21
+ 213 1617 213 1617 199 1553 c 1,22,23
+ 195 1554 195 1554 181 1557 c 2,24,-1
+ 175 1559 l 1,25,26
+ 213 1432 213 1432 213 1346 c 0,27,28
+ 213 1314 213 1314 206 1271 c 0,29,30
+ 204 1258 204 1258 198 1225 c 1,31,32
+ 279 1272 279 1272 305 1284 c 0,33,34
+ 377 1318 377 1318 425 1318 c 0,35,36
+ 551 1318 551 1318 551 1182 c 2,37,-1
+ 551 1062 l 1,0,-1
+475 1181 m 0,38,39
+ 475 1231 475 1231 379 1231 c 0,40,41
+ 316 1231 316 1231 220 1181 c 0,42,43
+ 181 1161 181 1161 156 1145 c 1,44,-1
+ 363 1145 l 2,45,46
+ 475 1145 475 1145 475 1181 c 0,38,39
+EndSplineSet
+EndChar

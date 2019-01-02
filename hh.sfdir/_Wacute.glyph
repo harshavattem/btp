@@ -1,0 +1,30 @@
+StartChar: Wacute
+Encoding: 7810 7810 479
+Width: 1933
+Flags: W
+TtInstrs:
+NPUSHB
+ 9
+ 1
+ 25
+ 8
+ 0
+ 72
+ 43
+ 1
+ 1
+ 25
+PUSHW_2
+ 545
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 58 87 N 1 0 0 1 0 0 3
+Refer: 141 180 N 1 0 0 1 650 362 2
+EndChar

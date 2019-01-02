@@ -1,0 +1,43 @@
+StartChar: glyph1668
+Encoding: 65888 -1 1668
+Width: 1114
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_4
+ 4
+ 3
+ 2
+ 79
+PUSHW_1
+ -64
+NPUSHB
+ 14
+ 15
+ 17
+ 52
+ 48
+ 79
+ 64
+ 79
+ 2
+ 126
+ 79
+ 79
+ 11
+ 11
+ 65
+SVTCA[x-axis]
+CALL
+DELTAP1
+CALL
+SHC[rp1]
+SHC[rp1]
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 1019 65275 N 1 0 0 1 0 0 3
+Refer: 1647 -1 N 1 0 0 1 500 -46 2
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 6 subtable" glyph1545 afii62760
+EndChar

@@ -1,0 +1,88 @@
+StartChar: quotereversed
+Encoding: 8219 8219 485
+Width: 455
+Flags: W
+TtInstrs:
+PUSHB_7
+ 3
+ 1
+ 8
+ 0
+ 3
+ 171
+ 4
+PUSHW_1
+ 336
+NPUSHB
+ 24
+ 9
+ 1
+ 0
+ 60
+ 9
+ 9
+ 8
+ 0
+ 4
+ 105
+ 3
+ 197
+ 0
+ 0
+ 9
+ 129
+ 7
+ 63
+ 8
+ 1
+ 8
+ 25
+ 10
+ 157
+PUSHW_2
+ 400
+ 24
+CALL
+FLIPOFF
+SRP0
+MIRP[rp0,rnd,grey]
+DELTAP1
+ALIGNRP
+FLIPON
+MIRP[rp0,min,rnd,black]
+ALIGNRP
+SRP0
+MIRP[rp0,rnd,grey]
+MIRP[rnd,grey]
+SVTCA[y-axis]
+MIAP[rnd]
+ALIGNRP
+SRP0
+MIRP[rp0,min,rnd,black]
+ALIGNRP
+SRP0
+MIRP[rp0,min,rnd,black]
+MIRP[min,rnd,black]
+SVTCA[x-axis]
+SRP1
+SRP2
+IP
+SVTCA[y-axis]
+MDRP[min,black]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+331 1272 m 1,0,-1
+ 237 1272 l 1,1,2
+ 239 1116 239 1116 347 1072 c 1,3,-1
+ 303 1001 l 1,4,5
+ 210 1043 210 1043 174 1114 c 128,-1,6
+ 138 1185 138 1185 138 1316 c 2,7,-1
+ 138 1481 l 1,8,-1
+ 331 1481 l 1,9,-1
+ 331 1272 l 1,0,-1
+EndSplineSet
+EndChar

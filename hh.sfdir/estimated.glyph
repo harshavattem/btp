@@ -1,0 +1,193 @@
+StartChar: estimated
+Encoding: 8494 8494 488
+Width: 1229
+Flags: W
+TtInstrs:
+NPUSHB
+ 80
+ 182
+ 4
+ 1
+ 69
+ 23
+ 90
+ 4
+ 82
+ 14
+ 91
+ 16
+ 90
+ 21
+ 82
+ 23
+ 107
+ 4
+ 104
+ 7
+ 8
+ 32
+ 27
+ 58
+ 4
+ 75
+ 4
+ 73
+ 17
+ 74
+ 21
+ 5
+ 18
+ 0
+ 76
+ 19
+ 47
+ 25
+ 207
+ 25
+ 2
+ 25
+ 25
+ 9
+ 15
+ 6
+ 105
+ 5
+ 1
+ 172
+ 3
+ 171
+ 9
+ 11
+ 20
+ 58
+ 24
+ 172
+ 22
+ 171
+ 15
+ 7
+ 5
+ 171
+ 143
+ 6
+ 159
+ 6
+ 175
+ 6
+ 191
+ 6
+ 207
+ 6
+ 223
+ 6
+ 6
+ 6
+ 6
+ 20
+ 19
+PUSHW_1
+ 705
+NPUSHB
+ 21
+ 0
+ 18
+ 32
+ 18
+ 2
+ 16
+ 18
+ 32
+ 18
+ 48
+ 18
+ 3
+ 18
+ 49
+ 27
+ 1
+ 0
+ 24
+ 25
+ 25
+ 0
+PUSHW_1
+ 705
+PUSHB_8
+ 31
+ 12
+ 63
+ 12
+ 2
+ 12
+ 49
+ 26
+SRP0
+MIRP[rp0,rnd,white]
+DELTAP1
+MIRP[rp0,min,rnd,black]
+ALIGNRP
+SRP0
+ALIGNRP
+SRP0
+ALIGNRP
+SRP0
+MIRP[rp0,rnd,white]
+DELTAP1
+DELTAP1
+MIRP[rp0,min,rnd,black]
+ALIGNRP
+IP
+MDAP[rnd]
+DELTAP1
+MIRP[min,rnd,black]
+SVTCA[y-axis]
+MIAP[rnd]
+MIRP[rp0,min,rnd,black]
+MIRP[rp0,rnd,grey]
+MIRP[rnd,grey]
+MIAP[rnd]
+MIRP[rp0,min,rnd,black]
+MIRP[rnd,grey]
+MDAP[rnd]
+MIRP[rnd,grey]
+SRP1
+SRP2
+IP
+MDAP[rnd]
+DELTAP1
+ALIGNRP
+MIRP[rp0,min,rnd,black]
+ALIGNRP
+IUP[x]
+IUP[y]
+SVTCA[x-axis]
+DELTAP1
+DELTAP1
+SVTCA[y-axis]
+DELTAP1
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+321 531 m 1,0,-1
+ 321 160 l 1,1,2
+ 441 39 441 39 619 39 c 0,3,4
+ 873 39 873 39 1014 285 c 1,5,-1
+ 1086 242 l 1,6,7
+ 966 69 966 69 854 17.5 c 128,-1,8
+ 742 -34 742 -34 619 -34 c 0,9,10
+ 382 -34 382 -34 236 126 c 128,-1,11
+ 90 286 90 286 90 531 c 0,12,13
+ 90 778 90 778 237 937 c 128,-1,14
+ 384 1096 384 1096 619 1096 c 0,15,16
+ 833 1096 833 1096 985 954 c 128,-1,17
+ 1137 812 1137 812 1148 531 c 1,18,-1
+ 321 531 l 1,0,-1
+917 605 m 1,19,-1
+ 917 902 l 1,20,21
+ 789 1023 789 1023 617 1023 c 0,22,23
+ 442 1023 442 1023 321 901 c 1,24,-1
+ 321 605 l 1,25,-1
+ 917 605 l 1,19,-1
+EndSplineSet
+EndChar

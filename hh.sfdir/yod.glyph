@@ -1,0 +1,67 @@
+StartChar: yod
+Encoding: 1497 1497 681
+Width: 505
+Flags: W
+TtInstrs:
+PUSHB_5
+ 2
+ 2
+ 3
+ 6
+ 5
+PUSHW_1
+ 712
+PUSHB_3
+ 0
+ 32
+ 3
+PUSHW_1
+ -2
+PUSHB_5
+ 11
+ 11
+ 6
+ 85
+ 3
+PUSHW_1
+ -2
+NPUSHB
+ 11
+ 13
+ 13
+ 6
+ 85
+ 3
+ 16
+ 16
+ 16
+ 6
+ 85
+ 3
+PUSHW_2
+ 711
+ 4
+SRP0
+MIRP[rp0,rnd,grey]
+CALL
+CALL
+CALL
+MIRP[rp0,min,rnd,black]
+MIRP[rnd,white]
+SVTCA[y-axis]
+MIAP[rnd]
+SHP[rp1]
+MDAP[rnd]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+350 1061 m 1,0,-1
+ 350 512 l 1,1,-1
+ 155 512 l 1,2,-1
+ 155 1061 l 1,3,-1
+ 350 1061 l 1,0,-1
+EndSplineSet
+EndChar

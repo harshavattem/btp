@@ -1,0 +1,160 @@
+StartChar: afii57416
+Encoding: 1576 1576 911
+AltUni2: 00fe8f.ffffffff.0
+Width: 1461
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHW_2
+ 16
+ -64
+NPUSHB
+ 11
+ 14
+ 17
+ 52
+ 22
+ 52
+ 12
+ 17
+ 52
+ 29
+ 31
+ 30
+PUSHW_1
+ 770
+PUSHB_6
+ 32
+ 32
+ 1
+ 10
+ 18
+ 9
+NPUSHW
+ 9
+ 772
+ 23
+ 751
+ 24
+ 772
+ 18
+ 751
+ 1
+ 747
+PUSHB_3
+ 30
+ 32
+ 29
+PUSHW_1
+ 769
+PUSHB_8
+ 31
+ 31
+ 5
+ 24
+ 24
+ 23
+ 23
+ 19
+NPUSHW
+ 10
+ 771
+ 64
+ 0
+ 752
+ 34
+ 10
+ 763
+ 32
+ 9
+ -64
+PUSHB_6
+ 9
+ 11
+ 52
+ 9
+ 9
+ 14
+PUSHW_3
+ 771
+ 5
+ 298
+SCANCTRL
+MDAP[rnd]
+MIRP[rp0,min,rnd,black]
+SHP[rp2]
+RTHG
+MDAP[rnd]
+CALL
+SMD
+MIRP[min,rnd,black]
+RTG
+SRP0
+MIRP[rp0,rnd,grey]
+SMD
+MIRP[rp0,min,rnd,black]
+SHP[rp2]
+MDAP[rnd]
+RTHG
+IP
+MDAP[rnd]
+RTG
+SRP1
+IP
+MDAP[rnd]
+MIRP[min,rnd,black]
+IP
+IP
+SVTCA[y-axis]
+MIAP[rnd]
+MIRP[min,rnd,black]
+MIAP[rnd]
+MIRP[min,rnd,black]
+MIAP[rnd]
+SRP2
+IP
+SRP1
+SHP[rp1]
+MDAP[rnd]
+MIRP[rp0,min,rnd,black]
+IP
+IP
+IUP[x]
+IUP[y]
+SVTCA[x-axis]
+CALL
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+1461 293 m 1,0,-1
+ 507 293 l 2,1,2
+ 315 293 315 293 201 360 c 0,3,4
+ 58 444 58 444 58 623 c 0,5,6
+ 58 716 58 716 100 813 c 0,7,8
+ 115 848 115 848 172 946 c 1,9,-1
+ 202 927 l 1,10,11
+ 180 881 180 881 159 835 c 0,12,13
+ 130 764 130 764 130 708 c 0,14,15
+ 130 590 130 590 254 525 c 0,16,17
+ 365 467 365 467 535 467 c 2,18,-1
+ 1382 467 l 1,19,-1
+ 1382 494 l 2,20,21
+ 1382 606 1382 606 1355 676.5 c 128,-1,22
+ 1328 747 1328 747 1263 797 c 1,23,-1
+ 1340 960 l 1,24,25
+ 1384 905 1384 905 1393 891 c 0,26,27
+ 1461 779 1461 779 1461 565 c 2,28,-1
+ 1461 293 l 1,0,-1
+888 50 m 1,29,-1
+ 810 -95 l 1,30,-1
+ 648 -11 l 1,31,-1
+ 722 135 l 1,32,-1
+ 888 50 l 1,29,-1
+EndSplineSet
+Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" afii62763
+Substitution2: "'fina' Terminal Forms in Arabic lookup 4 subtable" afii62763
+Substitution2: "'medi' Medial Forms in Arabic lookup 3 subtable" afii62762
+Substitution2: "'init' Initial Forms in Arabic lookup 2 subtable" afii62761
+EndChar

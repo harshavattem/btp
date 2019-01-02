@@ -1,0 +1,49 @@
+StartChar: Ldot
+Encoding: 319 319 273
+Width: 1139
+Flags: W
+TtInstrs:
+PUSHB_2
+ 1
+ 6
+PUSHW_1
+ -64
+PUSHB_5
+ 12
+ 14
+ 52
+ 6
+ 4
+PUSHW_1
+ -345
+NPUSHB
+ 10
+ 72
+ 43
+ 1
+ 6
+ 64
+ 13
+ 17
+ 52
+ 6
+ 4
+PUSHW_1
+ 464
+PUSHB_2
+ 72
+ 43
+SVTCA[y-axis]
+CALL
+CALL
+SHC[rp1]
+SVTCA[x-axis]
+CALL
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 47 76 N 1 0 0 1 0 0 3
+Refer: 257 -1 N 1 0 0 1 228 0 2
+EndChar

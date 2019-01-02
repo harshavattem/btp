@@ -1,0 +1,44 @@
+StartChar: Ugrave
+Encoding: 217 217 212
+Width: 1479
+Flags: W
+TtInstrs:
+NPUSHB
+ 20
+ 1
+ 22
+ 64
+ 23
+ 25
+ 52
+ 127
+ 22
+ 1
+ 159
+ 22
+ 1
+ 22
+ 17
+ 0
+ 72
+ 43
+ 1
+ 1
+ 22
+PUSHW_2
+ 545
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+DELTAP1
+DELTAP2
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 56 85 N 1 0 0 1 0 0 3
+Refer: 67 96 N 1 0 0 1 389 362 2
+EndChar

@@ -1,0 +1,40 @@
+StartChar: Agrave
+Encoding: 192 192 172
+Width: 1366
+Flags: W
+TtInstrs:
+PUSHB_2
+ 2
+ 16
+PUSHW_1
+ -64
+NPUSHB
+ 11
+ 11
+ 17
+ 52
+ 16
+ 12
+ 0
+ 72
+ 43
+ 2
+ 1
+ 16
+PUSHW_3
+ 545
+ 41
+ 356
+SCANCTRL
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 36 65 N 1 0 0 1 0 0 3
+Refer: 67 96 N 1 0 0 1 359 362 2
+EndChar

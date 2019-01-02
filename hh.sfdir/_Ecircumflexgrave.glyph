@@ -1,0 +1,64 @@
+StartChar: Ecircumflexgrave
+Encoding: 7872 7872 1220
+Width: 1366
+Flags: W
+TtInstrs:
+NPUSHB
+ 37
+ 2
+ 19
+ 64
+ 58
+ 53
+ 15
+ 19
+ 31
+ 19
+ 2
+ 223
+ 19
+ 255
+ 19
+ 2
+ 15
+ 19
+ 1
+ 19
+ 16
+ 0
+ 72
+ 43
+ 1
+ 0
+ 14
+ 17
+ 1
+ 2
+ 65
+ 1
+ 14
+ 64
+ 25
+ 40
+ 52
+ 14
+SVTCA[y-axis]
+MDAP[rnd]
+CALL
+SHC[rp1]
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+CALL
+DELTAP1
+DELTAP2
+DELTAP3
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 40 69 N 1 0 0 1 0 0 3
+Refer: 1148 -1 N 1 0 0 1 683 25 2
+Refer: 1134 -1 N 1 0 0 1 975 0 2
+EndChar

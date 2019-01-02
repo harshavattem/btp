@@ -1,0 +1,39 @@
+StartChar: aring
+Encoding: 229 229 110
+Width: 1139
+Flags: W
+TtInstrs:
+NPUSHB
+ 16
+ 3
+ 2
+ 15
+ 65
+ 31
+ 65
+ 2
+ 65
+ 28
+ 0
+ 104
+ 43
+ 2
+ 3
+ 2
+ 65
+PUSHW_2
+ 546
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+DELTAP2
+SHC[rp1]
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 68 97 N 1 0 0 1 0 0 3
+Refer: 219 730 N 1 0 0 1 221 0 2
+EndChar

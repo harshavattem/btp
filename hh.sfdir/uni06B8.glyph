@@ -1,0 +1,130 @@
+StartChar: uni06B8
+Encoding: 1720 1720 1543
+Width: 1037
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_8
+ 3
+ 2
+ 1
+ 0
+ 62
+ 16
+ 62
+ 2
+PUSHW_1
+ -42
+NPUSHB
+ 38
+ 62
+ 62
+ 10
+ 0
+ 65
+ 3
+ 2
+ 61
+ 64
+ 71
+ 53
+ 61
+ 64
+ 60
+ 65
+ 52
+ 61
+ 64
+ 49
+ 54
+ 52
+ 1
+ 191
+ 61
+ 207
+ 61
+ 223
+ 61
+ 3
+ 208
+ 61
+ 1
+ 61
+ 64
+ 82
+ 82
+ 52
+ 61
+PUSHW_1
+ -64
+PUSHB_3
+ 71
+ 53
+ 61
+PUSHW_1
+ -64
+PUSHB_4
+ 60
+ 65
+ 52
+ 61
+PUSHW_1
+ -64
+PUSHB_4
+ 50
+ 54
+ 52
+ 61
+PUSHW_1
+ -64
+PUSHB_4
+ 41
+ 44
+ 52
+ 61
+PUSHW_1
+ -64
+NPUSHB
+ 9
+ 31
+ 36
+ 52
+ 61
+ 64
+ 9
+ 11
+ 52
+ 61
+SVTCA[y-axis]
+MDAP[rnd]
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+DELTAP1
+DELTAP3
+SHC[rp1]
+CALL
+CALL
+CALL
+SHC[rp1]
+SHC[rp1]
+SVTCA[x-axis]
+CALL
+DELTAP1
+SHC[rp1]
+SHC[rp1]
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 989 1604 N 1 0 0 1 0 0 3
+Refer: 1647 -1 N 1 0 0 1 300 -140 2
+Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" glyph1544
+Substitution2: "'fina' Terminal Forms in Arabic lookup 4 subtable" glyph1544
+Substitution2: "'medi' Medial Forms in Arabic lookup 3 subtable" glyph1546
+Substitution2: "'init' Initial Forms in Arabic lookup 2 subtable" glyph1545
+EndChar

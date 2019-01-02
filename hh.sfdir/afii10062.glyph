@@ -1,0 +1,31 @@
+StartChar: afii10062
+Encoding: 1038 1038 568
+Width: 1301
+Flags: W
+TtInstrs:
+NPUSHB
+ 10
+ 1
+ 0
+ 24
+ 18
+ 0
+ 4
+ 65
+ 1
+ 1
+ 21
+PUSHW_2
+ 545
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 589 1059 N 1 0 0 1 0 0 3
+Refer: 217 728 N 1 0 0 1 356 351 2
+EndChar

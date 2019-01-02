@@ -1,0 +1,31 @@
+StartChar: lamedholam
+Encoding: 59396 59396 708
+Width: 948
+Flags: W
+TtInstrs:
+NPUSHB
+ 10
+ 1
+ 0
+ 27
+ 27
+ 38
+ 38
+ 65
+ 1
+ 1
+ 23
+PUSHW_2
+ 731
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 684 1500 N 1 0 0 1 0 0 2
+Refer: 662 1465 N 1 0 0 1 -426 0 2
+EndChar

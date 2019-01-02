@@ -1,0 +1,67 @@
+StartChar: uni01DC
+Encoding: 476 476 1291
+Width: 1139
+Flags: W
+TtInstrs:
+NPUSHB
+ 20
+ 3
+ 16
+ 33
+ 33
+ 30
+ 30
+ 65
+ 2
+ 1
+ 112
+ 25
+ 1
+ 0
+ 25
+ 31
+ 17
+ 17
+ 65
+ 3
+ 34
+PUSHW_1
+ -64
+NPUSHB
+ 13
+ 15
+ 17
+ 52
+ 34
+ 64
+ 10
+ 12
+ 52
+ 34
+ 1
+ 2
+ 2
+ 25
+PUSHW_2
+ 546
+ 41
+SVTCA[y-axis]
+CALL
+MDAP[rnd]
+CALL
+CALL
+SHC[rp1]
+SVTCA[x-axis]
+CALL
+DELTAP1
+SHC[rp1]
+SHC[rp1]
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 88 117 N 1 0 0 1 0 0 3
+Refer: 142 168 N 1 0 0 1 220 0 2
+Refer: 67 96 N 1 0 0 1 205 370 2
+EndChar

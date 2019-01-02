@@ -1,0 +1,243 @@
+StartChar: Lambda
+Encoding: 923 923 513
+Width: 1368
+Flags: W
+TtInstrs:
+NPUSHB
+ 26
+ 95
+ 5
+ 1
+ 0
+ 12
+ 47
+ 12
+ 48
+ 12
+ 111
+ 12
+ 4
+ 87
+ 3
+ 92
+ 4
+ 86
+ 5
+ 3
+ 10
+ 8
+ 15
+ 16
+ 2
+ 85
+ 0
+PUSHW_1
+ -8
+NPUSHB
+ 17
+ 15
+ 16
+ 2
+ 85
+ 3
+ 5
+ 5
+ 2
+ 7
+ 8
+ 8
+ 5
+ 0
+ 1
+ 10
+ 9
+ 5
+PUSHW_1
+ -18
+NPUSHB
+ 9
+ 12
+ 12
+ 2
+ 85
+ 5
+ 2
+ 5
+ 8
+ 2
+PUSHW_1
+ -20
+NPUSHB
+ 13
+ 12
+ 12
+ 6
+ 85
+ 2
+ 32
+ 1
+ 0
+ 20
+ 1
+ 1
+ 0
+ 5
+PUSHW_1
+ -18
+NPUSHB
+ 40
+ 12
+ 12
+ 2
+ 85
+ 5
+ 8
+ 5
+ 2
+ 8
+ 12
+ 12
+ 13
+ 6
+ 85
+ 8
+ 32
+ 9
+ 10
+ 20
+ 9
+ 9
+ 10
+ 5
+ 0
+ 1
+ 9
+ 8
+ 8
+ 2
+ 1
+ 8
+ 10
+ 0
+ 2
+ 8
+ 10
+ 9
+ 0
+ 2
+ 1
+PUSHW_3
+ 351
+ 9
+ -8
+PUSHB_5
+ 13
+ 13
+ 2
+ 85
+ 9
+PUSHW_3
+ 351
+ 5
+ -12
+NPUSHB
+ 13
+ 11
+ 11
+ 6
+ 85
+ 0
+ 5
+ 48
+ 5
+ 2
+ 5
+ 5
+ 12
+ 11
+RTHG
+SRP1
+SRP2
+IP
+MDAP[rnd]
+DELTAP1
+CALL
+RTG
+MIRP[min,rnd,black]
+CALL
+MIRP[min,rnd,black]
+IP
+IP
+SRP2
+IP
+IP
+SVTCA[y-axis]
+MIAP[rnd]
+ALIGNRP
+MIAP[rnd]
+ALIGNRP
+MIAP[rnd]
+ALIGNRP
+SRP1
+SRP2
+IP
+SDPVTL[orthog]
+SFVTCA[x-axis]
+MDAP[no-rnd]
+CALL
+CALL
+SFVTL[parallel]
+RDTG
+SRP0
+MDRP[rnd,grey]
+CALL
+SDPVTL[orthog]
+SFVTCA[x-axis]
+MDAP[no-rnd]
+RTG
+CALL
+CALL
+SFVTL[parallel]
+RDTG
+SRP0
+MDRP[rnd,grey]
+CALL
+SVTCA[x-axis]
+SRP1
+IP
+SRP1
+IP
+SDPVTL[orthog]
+SFVTPV
+SRP0
+MDRP[rnd,grey]
+SDPVTL[orthog]
+SFVTPV
+SRP0
+MDRP[rnd,grey]
+IUP[x]
+IUP[y]
+SVTCA[x-axis]
+CALL
+CALL
+DELTAP3
+DELTAP1
+SVTCA[y-axis]
+DELTAP3
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+784 1466 m 1,0,-1
+ 1352 0 l 1,1,-1
+ 1141 0 l 1,2,-1
+ 760 1064 l 2,3,4
+ 710 1204 710 1204 683 1305 c 1,5,6
+ 650 1184 650 1184 605 1064 c 2,7,-1
+ 209 0 l 1,8,-1
+ 11 0 l 1,9,-1
+ 584 1466 l 1,10,-1
+ 784 1466 l 1,0,-1
+EndSplineSet
+Kerns2: 527 -152 "'kern' Horizontal Kerning lookup 0 subtable" 522 -152 "'kern' Horizontal Kerning lookup 0 subtable" 521 -152 "'kern' Horizontal Kerning lookup 0 subtable" 517 -43 "'kern' Horizontal Kerning lookup 0 subtable" 300 -43 "'kern' Horizontal Kerning lookup 0 subtable" 3 -113 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

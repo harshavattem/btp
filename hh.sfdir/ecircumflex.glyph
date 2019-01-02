@@ -1,0 +1,48 @@
+StartChar: ecircumflex
+Encoding: 234 234 114
+Width: 1139
+Flags: W
+TtInstrs:
+NPUSHB
+ 24
+ 2
+ 32
+ 64
+ 59
+ 53
+ 32
+ 64
+ 45
+ 50
+ 52
+ 15
+ 32
+ 159
+ 32
+ 2
+ 0
+ 32
+ 35
+ 10
+ 10
+ 65
+ 2
+ 1
+ 36
+PUSHW_2
+ 546
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+DELTAP3
+CALL
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 72 101 N 1 0 0 1 0 0 3
+Refer: 214 710 N 1 0 0 1 223 0 2
+EndChar

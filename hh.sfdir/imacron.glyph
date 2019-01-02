@@ -1,0 +1,31 @@
+StartChar: imacron
+Encoding: 299 299 431
+Width: 569
+Flags: W
+TtInstrs:
+NPUSHB
+ 10
+ 1
+ 0
+ 4
+ 7
+ 1
+ 2
+ 65
+ 1
+ 1
+ 7
+PUSHW_2
+ 707
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 213 305 N 1 0 0 1 0 0 3
+Refer: 216 713 N 1 0 0 1 -52 0 2
+EndChar

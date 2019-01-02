@@ -1,0 +1,9 @@
+StartChar: afii10065
+Encoding: 1072 1072 602
+Width: 1139
+Flags: W
+LayerCount: 2
+Fore
+Refer: 68 97 N 1 0 0 1 0 0 3
+Kerns2: 625 -45 "'kern' Horizontal Kerning lookup 0 subtable" 621 -23 "'kern' Horizontal Kerning lookup 0 subtable" 620 -45 "'kern' Horizontal Kerning lookup 0 subtable" 609 -23 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

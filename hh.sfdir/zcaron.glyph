@@ -1,0 +1,49 @@
+StartChar: zcaron
+Encoding: 382 382 229
+Width: 1024
+Flags: W
+TtInstrs:
+PUSHB_4
+ 1
+ 1
+ 1
+ 19
+PUSHW_3
+ 546
+ 41
+ 356
+SCANCTRL
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+PUSHB_2
+ 6
+ 2
+RS
+EQ
+IF
+PUSHB_6
+ 0
+ 20
+ 17
+ 6
+ 7
+ 65
+CALL
+ELSE
+PUSHB_6
+ 0
+ 20
+ 17
+ 6
+ 14
+ 65
+CALL
+EIF
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 93 122 N 1 0 0 1 0 0 3
+Refer: 223 711 N 1 0 0 1 184 0 2
+EndChar

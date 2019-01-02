@@ -1,0 +1,22 @@
+StartChar: Ydotbelow
+Encoding: 7924 7924 1270
+Width: 1366
+Flags: W
+TtInstrs:
+PUSHB_7
+ 1
+ 0
+ 14
+ 15
+ 0
+ 12
+ 65
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 60 89 N 1 0 0 1 0 0 3
+Refer: 1149 61484 N 1 0 0 1 820 0 2
+EndChar

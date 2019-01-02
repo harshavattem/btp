@@ -1,0 +1,15 @@
+StartChar: rcedilla
+Encoding: 343 343 452
+Width: 682
+Flags: W
+TtInstrs:
+PUSHB_1
+ 20
+SVTCA[y-axis]
+MDAP[rnd]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 85 114 N 1 0 0 1 0 0 3
+Refer: 494 61445 N 1 0 0 1 37 0 2
+EndChar

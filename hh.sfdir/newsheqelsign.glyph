@@ -1,0 +1,125 @@
+StartChar: newsheqelsign
+Encoding: 8362 8362 704
+Width: 1670
+Flags: W
+TtInstrs:
+NPUSHB
+ 9
+ 22
+ 6
+ 2
+ 16
+ 15
+ 1
+ 15
+ 18
+ 17
+PUSHW_1
+ 722
+PUSHB_6
+ 14
+ 14
+ 9
+ 10
+ 6
+ 7
+PUSHW_1
+ 722
+PUSHB_3
+ 10
+ 6
+ 29
+PUSHW_5
+ 712
+ 23
+ 720
+ 22
+ 721
+PUSHB_5
+ 1
+ 1
+ 0
+ 2
+ 0
+PUSHW_3
+ 720
+ 3
+ 721
+PUSHB_4
+ 17
+ 16
+ 14
+ 16
+PUSHW_8
+ 720
+ 15
+ 721
+ 7
+ 720
+ 10
+ 711
+ 28
+SRP0
+MIRP[rp0,rnd,white]
+MIRP[rp0,min,rnd,black]
+MIRP[rp0,rnd,white]
+MIRP[min,rnd,black]
+ALIGNRP
+SRP0
+ALIGNRP
+MIRP[rp0,rnd,white]
+MIRP[min,rnd,black]
+ALIGNRP
+SRP0
+ALIGNRP
+SRP0
+MIRP[rp0,rnd,white]
+MIRP[rp0,min,rnd,black]
+MIRP[rnd,white]
+SVTCA[y-axis]
+MIAP[rnd]
+MIRP[rp0,min,rnd,black]
+ALIGNRP
+MIAP[rnd]
+ALIGNRP
+SRP0
+MIRP[rp0,min,rnd,black]
+ALIGNRP
+MDAP[rnd]
+DELTAP1
+MDAP[rnd]
+MIAP[rnd]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+1118 791 m 2,0,-1
+ 1118 344 l 1,1,-1
+ 950 344 l 1,2,-1
+ 950 774 l 2,3,4
+ 950 851 950 851 915 884.5 c 128,-1,5
+ 880 918 880 918 802 918 c 2,6,-1
+ 323 918 l 1,7,-1
+ 323 0 l 1,8,-1
+ 155 0 l 1,9,-1
+ 155 1061 l 1,10,-1
+ 835 1061 l 2,11,12
+ 974 1061 974 1061 1046 986.5 c 128,-1,13
+ 1118 912 1118 912 1118 791 c 2,0,-1
+552 0 m 1,14,-1
+ 552 717 l 1,15,-1
+ 720 717 l 1,16,-1
+ 720 143 l 1,17,-1
+ 1199 143 l 2,18,19
+ 1287 143 1287 143 1317 182 c 128,-1,20
+ 1347 221 1347 221 1347 287 c 2,21,-1
+ 1347 1061 l 1,22,-1
+ 1515 1061 l 1,23,-1
+ 1515 270 l 2,24,25
+ 1515 155 1515 155 1447 77.5 c 128,-1,26
+ 1379 0 1379 0 1232 0 c 2,27,-1
+ 552 0 l 1,14,-1
+EndSplineSet
+EndChar

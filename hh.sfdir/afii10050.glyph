@@ -1,0 +1,154 @@
+StartChar: afii10050
+Encoding: 1168 1168 648
+Width: 1001
+Flags: W
+TtInstrs:
+NPUSHB
+ 46
+ 1
+ 4
+ 30
+ 7
+ 2
+ 6
+ 8
+ 0
+ 30
+ 3
+ 22
+ 15
+ 15
+ 2
+ 85
+ 3
+ 18
+ 12
+ 12
+ 2
+ 85
+ 3
+ 9
+ 11
+ 11
+ 6
+ 85
+ 3
+ 19
+ 12
+ 13
+ 6
+ 85
+ 3
+ 30
+ 15
+ 15
+ 6
+ 85
+ 3
+ 3
+ 8
+ 9
+ 5
+ 32
+ 6
+PUSHW_1
+ -28
+PUSHB_5
+ 16
+ 16
+ 2
+ 85
+ 6
+PUSHW_1
+ -12
+PUSHB_5
+ 15
+ 15
+ 2
+ 85
+ 6
+PUSHW_1
+ -6
+PUSHB_5
+ 13
+ 13
+ 2
+ 85
+ 6
+PUSHW_1
+ -2
+PUSHB_5
+ 12
+ 12
+ 2
+ 85
+ 6
+PUSHW_1
+ -3
+PUSHB_5
+ 15
+ 16
+ 6
+ 85
+ 6
+PUSHW_1
+ -1
+PUSHB_5
+ 13
+ 13
+ 6
+ 85
+ 6
+PUSHW_1
+ -6
+PUSHB_7
+ 12
+ 12
+ 6
+ 85
+ 6
+ 57
+ 8
+SRP0
+MIRP[rp0,rnd,white]
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+MIRP[min,rnd,black]
+SRP1
+SRP2
+IP
+MDAP[rnd]
+CALL
+CALL
+CALL
+CALL
+CALL
+MIRP[min,rnd,black]
+SVTCA[y-axis]
+MIAP[rnd]
+MIAP[rnd]
+MIRP[min,rnd,black]
+MDAP[rnd]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+767 1466 m 1,0,-1
+ 767 1872 l 1,1,-1
+ 940 1872 l 1,2,-1
+ 940 1293 l 1,3,-1
+ 355 1293 l 1,4,-1
+ 355 0 l 1,5,-1
+ 161 0 l 1,6,-1
+ 161 1466 l 1,7,-1
+ 767 1466 l 1,0,-1
+EndSplineSet
+Kerns2: 178 -45 "'kern' Horizontal Kerning lookup 0 subtable" 170 -160 "'kern' Horizontal Kerning lookup 0 subtable" 169 -160 "'kern' Horizontal Kerning lookup 0 subtable" 30 -45 "'kern' Horizontal Kerning lookup 0 subtable" 29 -45 "'kern' Horizontal Kerning lookup 0 subtable" 17 -250 "'kern' Horizontal Kerning lookup 0 subtable" 15 -250 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

@@ -1,0 +1,79 @@
+StartChar: lamedholamdagesh
+Encoding: 59397 59397 709
+Width: 948
+Flags: W
+TtInstrs:
+PUSHB_2
+ 2
+ 48
+PUSHW_1
+ -30
+PUSHB_5
+ 10
+ 10
+ 6
+ 85
+ 48
+PUSHW_1
+ -30
+PUSHB_8
+ 15
+ 15
+ 6
+ 85
+ 0
+ 48
+ 1
+ 48
+PUSHW_1
+ -64
+NPUSHB
+ 19
+ 12
+ 14
+ 52
+ 0
+ 48
+ 41
+ 20
+ 19
+ 65
+ 1
+ 0
+ 27
+ 27
+ 51
+ 51
+ 65
+ 2
+ 1
+ 38
+PUSHW_1
+ 732
+PUSHB_4
+ 41
+ 1
+ 1
+ 23
+PUSHW_2
+ 731
+ 41
+SVTCA[y-axis]
+CALL
+CALL
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+CALL
+CALL
+DELTAP1
+CALL
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 684 1500 N 1 0 0 1 0 0 2
+Refer: 662 1465 N 1 0 0 1 -426 0 2
+Refer: 664 1468 N 1 0 0 1 -31 57 2
+EndChar

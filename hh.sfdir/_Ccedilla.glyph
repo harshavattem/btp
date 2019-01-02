@@ -1,0 +1,45 @@
+StartChar: Ccedilla
+Encoding: 199 199 100
+Width: 1479
+Flags: W
+TtInstrs:
+NPUSHB
+ 25
+ 1
+ 0
+ 48
+ 32
+ 48
+ 79
+ 48
+ 3
+ 47
+ 48
+ 127
+ 48
+ 143
+ 48
+ 3
+ 48
+ 4
+ 0
+ 72
+ 43
+ 1
+ 1
+ 31
+ 8
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+DELTAP1
+DELTAP2
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 38 67 N 1 0 0 1 0 0 3
+Refer: 220 184 N 1 0 0 1 404 0 2
+EndChar

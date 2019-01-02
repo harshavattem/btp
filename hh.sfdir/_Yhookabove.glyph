@@ -1,0 +1,29 @@
+StartChar: Yhookabove
+Encoding: 7926 7926 1272
+Width: 1366
+Flags: W
+TtInstrs:
+NPUSHB
+ 12
+ 1
+ 208
+ 23
+ 224
+ 23
+ 2
+ 0
+ 23
+ 29
+ 3
+ 9
+ 65
+SVTCA[x-axis]
+CALL
+DELTAP1
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 60 89 N 1 0 0 1 0 0 3
+Refer: 1140 777 N 1 0 0 1 950 0 2
+EndChar

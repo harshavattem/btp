@@ -1,0 +1,22 @@
+StartChar: Ehookabove
+Encoding: 7866 7866 1214
+Width: 1366
+Flags: W
+TtInstrs:
+PUSHB_7
+ 1
+ 0
+ 22
+ 28
+ 1
+ 2
+ 65
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 40 69 N 1 0 0 1 0 0 3
+Refer: 1140 777 N 1 0 0 1 980 0 2
+EndChar

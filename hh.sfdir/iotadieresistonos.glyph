@@ -1,0 +1,202 @@
+StartChar: iotadieresistonos
+Encoding: 912 912 504
+Width: 455
+Flags: W
+TtInstrs:
+NPUSHB
+ 26
+ 9
+ 163
+ 10
+ 13
+ 163
+ 15
+ 64
+ 10
+ 15
+ 15
+ 4
+ 1
+ 159
+ 4
+ 1
+ 4
+ 66
+ 128
+ 7
+ 201
+ 2
+ 1
+ 6
+ 0
+ 10
+ 9
+PUSHW_1
+ 560
+PUSHB_4
+ 11
+ 11
+ 4
+ 12
+PUSHW_1
+ 560
+NPUSHB
+ 12
+ 80
+ 14
+ 96
+ 14
+ 2
+ 14
+ 14
+ 4
+ 31
+ 7
+ 1
+ 7
+PUSHW_1
+ 268
+NPUSHB
+ 20
+ 240
+ 6
+ 1
+ 6
+ 64
+ 44
+ 47
+ 52
+ 6
+ 73
+ 5
+ 64
+ 4
+ 17
+ 78
+ 2
+ 3
+ 37
+ 1
+ 0
+PUSHW_1
+ -4
+NPUSHB
+ 17
+ 14
+ 14
+ 2
+ 85
+ 0
+ 4
+ 11
+ 12
+ 2
+ 85
+ 0
+ 12
+ 16
+ 16
+ 6
+ 85
+ 0
+PUSHW_1
+ -2
+PUSHB_5
+ 13
+ 13
+ 6
+ 85
+ 0
+PUSHW_1
+ -4
+NPUSHB
+ 13
+ 12
+ 12
+ 6
+ 85
+ 16
+ 0
+ 32
+ 0
+ 2
+ 0
+ 69
+ 16
+ 71
+PUSHW_2
+ 266
+ 24
+CALL
+SRP0
+MIRP[rp0,rnd,white]
+DELTAP1
+CALL
+CALL
+CALL
+CALL
+CALL
+ALIGNRP
+MIRP[rp0,min,rnd,black]
+ALIGNRP
+MIRP[rnd,grey]
+MDAP[rnd]
+MIRP[min,rnd,black]
+MIRP[rp0,rnd,white]
+CALL
+DELTAP2
+MIRP[min,rnd,black]
+DELTAP2
+SRP1
+SHP[rp1]
+MDAP[rnd]
+DELTAP1
+MIRP[min,rnd,black]
+SRP1
+SHP[rp1]
+MDAP[rnd]
+MIRP[min,rnd,black]
+SVTCA[y-axis]
+MIAP[rnd]
+MIAP[rnd]
+ALIGNRP
+MIRP[rp0,min,rnd,white]
+SMD
+MIRP[min,rnd,black]
+DELTAP1
+DELTAP2
+ALIGNRP
+ALIGNRP
+SMD
+SRP0
+MIRP[min,rnd,black]
+SRP0
+MIRP[min,rnd,black]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+137 0 m 1,0,-1
+ 137 1062 l 1,1,-1
+ 317 1062 l 1,2,-1
+ 317 0 l 1,3,-1
+ 137 0 l 1,0,-1
+233 1507 m 1,4,-1
+ 419 1507 l 1,5,-1
+ 219 1230 l 1,6,-1
+ 102 1230 l 1,7,-1
+ 233 1507 l 1,4,-1
+418 1422 m 1,8,-1
+ 591 1422 l 1,9,-1
+ 591 1230 l 1,10,-1
+ 418 1230 l 1,11,-1
+ 418 1422 l 1,8,-1
+-136 1422 m 1,12,-1
+ 37 1422 l 1,13,-1
+ 37 1230 l 1,14,-1
+ -136 1230 l 1,15,-1
+ -136 1422 l 1,12,-1
+EndSplineSet
+EndChar

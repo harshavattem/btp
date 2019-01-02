@@ -1,0 +1,48 @@
+StartChar: Ecircumflextilde
+Encoding: 7876 7876 1224
+Width: 1366
+Flags: W
+TtInstrs:
+NPUSHB
+ 24
+ 2
+ 176
+ 19
+ 1
+ 0
+ 19
+ 29
+ 14
+ 17
+ 65
+ 1
+ 0
+ 14
+ 17
+ 1
+ 2
+ 65
+ 1
+ 14
+ 64
+ 25
+ 40
+ 52
+ 14
+SVTCA[y-axis]
+MDAP[rnd]
+CALL
+SHC[rp1]
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+CALL
+DELTAP2
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 40 69 N 1 0 0 1 0 0 3
+Refer: 1148 -1 N 1 0 0 1 683 25 2
+Refer: 1183 61485 N 1 0 0 1 1360 0 2
+EndChar

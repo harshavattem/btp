@@ -1,0 +1,52 @@
+StartChar: abrevetilde
+Encoding: 7861 7861 1209
+Width: 1139
+Flags: W
+TtInstrs:
+PUSHB_2
+ 3
+ 70
+PUSHW_1
+ -64
+NPUSHB
+ 21
+ 10
+ 12
+ 52
+ 0
+ 70
+ 80
+ 63
+ 57
+ 65
+ 2
+ 207
+ 60
+ 1
+ 60
+ 28
+ 3
+ 104
+ 43
+ 2
+ 1
+ 60
+PUSHW_2
+ 546
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+DELTAP1
+SHC[rp1]
+CALL
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 68 97 N 1 0 0 1 0 0 3
+Refer: 217 728 N 1 0 0 1 245 0 2
+Refer: 1146 771 N 1 0 0 1 1180 0 2
+EndChar

@@ -1,0 +1,115 @@
+StartChar: afii10068
+Encoding: 1075 1075 605
+Width: 747
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 3
+ 43
+ 0
+ 6
+ 5
+ 10
+ 1
+ 7
+ 4
+ 37
+ 0
+PUSHW_1
+ -10
+PUSHB_5
+ 17
+ 17
+ 2
+ 85
+ 0
+PUSHW_1
+ -6
+NPUSHB
+ 17
+ 14
+ 14
+ 2
+ 85
+ 0
+ 4
+ 12
+ 12
+ 2
+ 85
+ 0
+ 10
+ 11
+ 11
+ 2
+ 85
+ 0
+PUSHW_1
+ -12
+PUSHB_5
+ 16
+ 16
+ 6
+ 85
+ 0
+PUSHW_1
+ -4
+NPUSHB
+ 22
+ 13
+ 13
+ 6
+ 85
+ 0
+ 12
+ 12
+ 12
+ 6
+ 85
+ 0
+ 4
+ 11
+ 11
+ 6
+ 85
+ 0
+ 0
+ 1
+ 0
+ 69
+ 6
+SRP0
+MIRP[rp0,rnd,white]
+DELTAP1
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+MIRP[min,rnd,black]
+SRP0
+ALIGNRP
+SVTCA[y-axis]
+MIAP[rnd]
+MIAP[rnd]
+MIRP[min,rnd,black]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+136 1062 m 1,0,-1
+ 747 1062 l 1,1,-1
+ 747 913 l 1,2,-1
+ 316 913 l 1,3,-1
+ 316 0 l 1,4,-1
+ 136 0 l 1,5,-1
+ 136 1062 l 1,0,-1
+EndSplineSet
+Kerns2: 633 -23 "'kern' Horizontal Kerning lookup 0 subtable" 619 -45 "'kern' Horizontal Kerning lookup 0 subtable" 616 -45 "'kern' Horizontal Kerning lookup 0 subtable" 613 -45 "'kern' Horizontal Kerning lookup 0 subtable" 609 -23 "'kern' Horizontal Kerning lookup 0 subtable" 607 -45 "'kern' Horizontal Kerning lookup 0 subtable" 606 -92 "'kern' Horizontal Kerning lookup 0 subtable" 602 -45 "'kern' Horizontal Kerning lookup 0 subtable" 17 -250 "'kern' Horizontal Kerning lookup 0 subtable" 15 -250 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

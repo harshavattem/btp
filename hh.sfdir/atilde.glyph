@@ -1,0 +1,64 @@
+StartChar: atilde
+Encoding: 227 227 109
+Width: 1139
+Flags: W
+TtInstrs:
+NPUSHB
+ 30
+ 2
+ 73
+ 64
+ 13
+ 13
+ 6
+ 85
+ 73
+ 64
+ 10
+ 10
+ 6
+ 85
+ 73
+ 64
+ 25
+ 26
+ 52
+ 73
+ 64
+ 11
+ 13
+ 52
+ 127
+ 73
+ 143
+ 73
+ 2
+ 73
+ 28
+PUSHW_1
+ -48
+PUSHB_5
+ 72
+ 43
+ 2
+ 1
+ 71
+PUSHW_2
+ 546
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+DELTAP1
+CALL
+CALL
+CALL
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 68 97 N 1 0 0 1 0 0 3
+Refer: 215 732 N 1 0 0 1 222 0 2
+EndChar

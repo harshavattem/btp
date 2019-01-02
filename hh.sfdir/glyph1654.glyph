@@ -1,0 +1,33 @@
+StartChar: glyph1654
+Encoding: 65875 -1 1654
+Width: 700
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_6
+ 3
+ 5
+ 0
+ 2
+ 100
+ 0
+SVTCA[y-axis]
+MDAP[rnd]
+MIRP[min,rnd,black]
+SVTCA[x-axis]
+MDAP[rnd]
+SRP0
+MDRP[grey]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+0 287 m 1,0,-1
+ 0 391 l 1,1,-1
+ 700 391 l 1,2,-1
+ 700 287 l 1,3,-1
+ 0 287 l 1,0,-1
+EndSplineSet
+EndChar

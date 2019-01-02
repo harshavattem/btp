@@ -1,0 +1,9 @@
+StartChar: Kappa
+Encoding: 922 922 512
+Width: 1366
+Flags: W
+LayerCount: 2
+Fore
+Refer: 46 75 N 1 0 0 1 0 0 3
+Kerns2: 555 -25 "'kern' Horizontal Kerning lookup 0 subtable" 553 -25 "'kern' Horizontal Kerning lookup 0 subtable" 550 -25 "'kern' Horizontal Kerning lookup 0 subtable" 544 -25 "'kern' Horizontal Kerning lookup 0 subtable" 543 -25 "'kern' Horizontal Kerning lookup 0 subtable" 537 -25 "'kern' Horizontal Kerning lookup 0 subtable" 535 -25 "'kern' Horizontal Kerning lookup 0 subtable" 528 -25 "'kern' Horizontal Kerning lookup 0 subtable" 517 -63 "'kern' Horizontal Kerning lookup 0 subtable" 307 -25 "'kern' Horizontal Kerning lookup 0 subtable" 305 -25 "'kern' Horizontal Kerning lookup 0 subtable" 303 -25 "'kern' Horizontal Kerning lookup 0 subtable" 302 -25 "'kern' Horizontal Kerning lookup 0 subtable" 301 -113 "'kern' Horizontal Kerning lookup 0 subtable" 300 -63 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

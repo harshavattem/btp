@@ -1,0 +1,50 @@
+StartChar: odieresis
+Encoding: 246 246 124
+Width: 1139
+Flags: W
+TtInstrs:
+NPUSHB
+ 9
+ 3
+ 2
+ 30
+ 64
+ 22
+ 22
+ 6
+ 85
+ 30
+PUSHW_1
+ -64
+NPUSHB
+ 13
+ 10
+ 11
+ 6
+ 85
+ 30
+ 4
+ 110
+ 72
+ 43
+ 2
+ 3
+ 2
+ 33
+PUSHW_2
+ 546
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+CALL
+CALL
+SHC[rp1]
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 82 111 N 1 0 0 1 0 0 3
+Refer: 142 168 N 1 0 0 1 224 0 2
+EndChar

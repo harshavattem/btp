@@ -1,0 +1,59 @@
+StartChar: Ocircumflexacute
+Encoding: 7888 7888 1236
+Width: 1593
+Flags: W
+TtInstrs:
+PUSHB_8
+ 3
+ 208
+ 38
+ 1
+ 0
+ 38
+ 1
+ 38
+PUSHW_1
+ -64
+NPUSHB
+ 22
+ 31
+ 42
+ 52
+ 38
+ 31
+ 0
+ 72
+ 43
+ 2
+ 0
+ 30
+ 33
+ 0
+ 7
+ 65
+ 2
+ 30
+ 64
+ 25
+ 40
+ 52
+ 30
+SVTCA[y-axis]
+MDAP[rnd]
+CALL
+SHC[rp1]
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+CALL
+CALL
+DELTAP1
+DELTAP2
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 50 79 N 1 0 0 1 0 0 3
+Refer: 1148 -1 N 1 0 0 1 796 25 2
+Refer: 1137 61446 N 1 0 0 1 1134 0 2
+EndChar

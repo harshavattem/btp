@@ -1,0 +1,31 @@
+StartChar: umacron
+Encoding: 363 363 460
+Width: 1139
+Flags: W
+TtInstrs:
+NPUSHB
+ 10
+ 1
+ 0
+ 25
+ 28
+ 10
+ 23
+ 65
+ 1
+ 1
+ 25
+PUSHW_2
+ 707
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 88 117 N 1 0 0 1 0 0 3
+Refer: 216 713 N 1 0 0 1 236 0 2
+EndChar

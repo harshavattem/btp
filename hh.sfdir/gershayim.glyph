@@ -1,0 +1,69 @@
+StartChar: gershayim
+Encoding: 1524 1524 703
+Width: 854
+Flags: W
+TtInstrs:
+NPUSHB
+ 26
+ 0
+ 4
+ 1
+ 5
+ 4
+ 4
+ 5
+ 6
+ 2
+ 60
+ 1
+ 100
+ 3
+ 172
+ 95
+ 0
+ 1
+ 0
+ 0
+ 6
+ 60
+ 5
+ 100
+ 7
+ 172
+ 4
+MDAP[rnd]
+MIRP[min,rnd,black]
+MIRP[rp0,min,rnd,grey]
+MIRP[rp0,min,rnd,black]
+SHP[rp2]
+MDAP[rnd]
+DELTAP1
+MIRP[min,rnd,black]
+MIRP[rp0,min,rnd,grey]
+MIRP[min,rnd,black]
+SVTCA[y-axis]
+MIAP[rnd]
+SHP[rp1]
+MDAP[rnd]
+SRP0
+ALIGNRP
+SRP0
+ALIGNRP
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+461 676 m 1,0,-1
+ 559 1061 l 1,1,-1
+ 764 1061 l 1,2,-1
+ 582 676 l 1,3,-1
+ 461 676 l 1,0,-1
+90 676 m 1,4,-1
+ 188 1061 l 1,5,-1
+ 393 1061 l 1,6,-1
+ 211 676 l 1,7,-1
+ 90 676 l 1,4,-1
+EndSplineSet
+EndChar

@@ -1,0 +1,46 @@
+StartChar: Gcircumflex
+Encoding: 284 284 418
+Width: 1593
+Flags: W
+TtInstrs:
+PUSHB_4
+ 1
+ 1
+ 1
+ 40
+PUSHW_2
+ 545
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+PUSHB_2
+ 6
+ 2
+RS
+EQ
+IF
+PUSHB_6
+ 0
+ 40
+ 43
+ 14
+ 14
+ 65
+CALL
+ELSE
+PUSHB_5
+ 38
+ 14
+ 0
+ 72
+ 43
+CALL
+EIF
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 42 71 N 1 0 0 1 0 0 3
+Refer: 214 710 N 1 0 0 1 526 351 2
+EndChar

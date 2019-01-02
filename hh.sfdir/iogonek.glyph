@@ -1,0 +1,252 @@
+StartChar: iogonek
+Encoding: 303 303 435
+Width: 455
+Flags: W
+TtInstrs:
+NPUSHB
+ 85
+ 24
+ 54
+ 11
+ 11
+ 2
+ 85
+ 79
+ 24
+ 144
+ 24
+ 160
+ 24
+ 176
+ 24
+ 192
+ 24
+ 223
+ 24
+ 240
+ 24
+ 7
+ 0
+ 24
+ 31
+ 24
+ 112
+ 24
+ 128
+ 24
+ 159
+ 24
+ 176
+ 24
+ 192
+ 24
+ 223
+ 24
+ 235
+ 4
+ 224
+ 24
+ 255
+ 24
+ 11
+ 31
+ 24
+ 1
+ 0
+ 126
+ 1
+ 0
+ 20
+ 6
+ 22
+ 19
+ 10
+ 9
+ 69
+ 14
+ 15
+ 12
+ 32
+ 11
+ 1
+ 11
+ 4
+ 4
+ 22
+ 19
+ 6
+ 69
+ 32
+ 17
+ 1
+ 17
+ 2
+ 3
+ 3
+ 22
+ 1
+ 0
+ 0
+ 22
+ 37
+ 19
+PUSHW_1
+ -8
+PUSHB_5
+ 16
+ 16
+ 2
+ 85
+ 19
+PUSHW_1
+ -6
+NPUSHB
+ 23
+ 14
+ 14
+ 2
+ 85
+ 19
+ 4
+ 12
+ 12
+ 2
+ 85
+ 19
+ 10
+ 11
+ 11
+ 2
+ 85
+ 19
+ 20
+ 11
+ 11
+ 6
+ 85
+ 19
+PUSHW_1
+ -22
+PUSHB_5
+ 16
+ 16
+ 6
+ 85
+ 19
+PUSHW_1
+ -2
+PUSHB_5
+ 13
+ 13
+ 6
+ 85
+ 19
+PUSHW_1
+ -4
+NPUSHB
+ 34
+ 12
+ 12
+ 6
+ 85
+ 0
+ 19
+ 159
+ 19
+ 160
+ 19
+ 176
+ 19
+ 192
+ 19
+ 224
+ 19
+ 6
+ 192
+ 19
+ 240
+ 19
+ 2
+ 0
+ 19
+ 32
+ 19
+ 208
+ 19
+ 224
+ 19
+ 4
+ 19
+ 78
+ 23
+SRP0
+MIRP[rp0,rnd,white]
+DELTAP1
+DELTAP2
+DELTAP3
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+MIRP[min,rnd,black]
+ALIGNRP
+SRP0
+ALIGNRP
+SRP0
+ALIGNRP
+SRP0
+ALIGNRP
+MDAP[rnd]
+DELTAP1
+MIRP[min,rnd,black]
+SRP1
+SRP2
+IP
+MDAP[rnd]
+MDAP[rnd]
+DELTAP1
+ALIGNRP
+SVTCA[y-axis]
+MIAP[rnd]
+MIRP[min,rnd,black]
+MIAP[rnd]
+ALIGNRP
+MIAP[rnd]
+MIAP[rnd]
+MIRP[rp0,min,rnd,black]
+IUP[x]
+IUP[y]
+SVTCA[x-axis]
+DELTAP1
+DELTAP3
+DELTAP2
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+136 1259 m 1,0,-1
+ 136 1466 l 1,1,-1
+ 316 1466 l 1,2,-1
+ 316 1259 l 1,3,-1
+ 136 1259 l 1,0,-1
+257 0 m 1,4,5
+ 228 -78 228 -78 228 -140 c 0,6,7
+ 228 -207 228 -207 269 -249.5 c 128,-1,8
+ 310 -292 310 -292 372 -292 c 0,9,10
+ 449 -292 449 -292 540 -246 c 1,11,-1
+ 540 -365 l 1,12,13
+ 423 -425 423 -425 319 -425 c 0,14,15
+ 218 -425 218 -425 160 -364 c 128,-1,16
+ 102 -303 102 -303 102 -205 c 0,17,18
+ 102 -140 102 -140 136 0 c 1,19,-1
+ 136 1062 l 1,20,-1
+ 316 1062 l 1,21,-1
+ 316 0 l 1,22,-1
+ 257 0 l 1,4,5
+EndSplineSet
+EndChar

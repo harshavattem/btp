@@ -1,0 +1,44 @@
+StartChar: Ograve
+Encoding: 210 210 209
+Width: 1593
+Flags: W
+TtInstrs:
+PUSHB_2
+ 2
+ 29
+PUSHW_1
+ -64
+NPUSHB
+ 16
+ 11
+ 12
+ 52
+ 80
+ 29
+ 239
+ 29
+ 2
+ 29
+ 3
+ 0
+ 72
+ 43
+ 2
+ 1
+ 29
+PUSHW_2
+ 545
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+DELTAP1
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 50 79 N 1 0 0 1 0 0 3
+Refer: 67 96 N 1 0 0 1 451 362 2
+EndChar

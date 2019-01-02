@@ -1,0 +1,76 @@
+StartChar: minute
+Encoding: 8242 8242 397
+Width: 384
+Flags: W
+TtInstrs:
+NPUSHB
+ 35
+ 3
+ 34
+ 26
+ 33
+ 52
+ 2
+ 34
+ 26
+ 33
+ 52
+ 2
+ 3
+ 0
+ 5
+ 4
+ 4
+ 1
+ 5
+ 238
+ 3
+ 2
+ 0
+ 2
+ 249
+ 4
+ 129
+ 47
+ 1
+ 1
+ 1
+ 25
+ 6
+ 157
+ 104
+ 24
+CALL
+FLIPOFF
+SRP0
+MIRP[rp0,rnd,grey]
+DELTAP1
+FLIPON
+MIRP[rp0,min,rnd,black]
+MIRP[min,rnd,black]
+SVTCA[y-axis]
+MIAP[rnd]
+ALIGNRP
+MIRP[min,rnd,black]
+SVTCA[x-axis]
+SRP1
+SRP2
+SLOOP
+IP
+IUP[x]
+IUP[y]
+CALL
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+128 947 m 1,0,-1
+ 140 1221 l 1,1,-1
+ 192 1466 l 1,2,-1
+ 398 1466 l 1,3,-1
+ 345 1221 l 1,4,-1
+ 240 947 l 1,5,-1
+ 128 947 l 1,0,-1
+EndSplineSet
+EndChar

@@ -1,0 +1,46 @@
+StartChar: omacron
+Encoding: 333 333 448
+Width: 1139
+Flags: W
+TtInstrs:
+PUSHB_4
+ 2
+ 2
+ 1
+ 26
+PUSHW_2
+ 707
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+PUSHB_2
+ 6
+ 2
+RS
+EQ
+IF
+PUSHB_6
+ 0
+ 27
+ 28
+ 0
+ 7
+ 65
+CALL
+ELSE
+PUSHB_5
+ 26
+ 2
+ 10
+ 72
+ 43
+CALL
+EIF
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 82 111 N 1 0 0 1 0 0 3
+Refer: 216 713 N 1 0 0 1 235 0 2
+EndChar

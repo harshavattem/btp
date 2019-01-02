@@ -1,0 +1,245 @@
+StartChar: glyph1529
+Encoding: 65827 -1 1529
+Width: 807
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_4
+ 4
+ 3
+ 2
+ 51
+PUSHW_1
+ -128
+PUSHB_4
+ 58
+ 255
+ 52
+ 51
+PUSHW_1
+ -64
+PUSHB_4
+ 61
+ 62
+ 52
+ 51
+PUSHW_1
+ -64
+PUSHB_4
+ 39
+ 57
+ 52
+ 51
+PUSHW_1
+ -64
+PUSHB_4
+ 33
+ 36
+ 52
+ 51
+PUSHW_1
+ -64
+NPUSHB
+ 17
+ 18
+ 20
+ 52
+ 0
+ 51
+ 80
+ 51
+ 96
+ 51
+ 3
+ 0
+ 51
+ 51
+ 10
+ 10
+ 65
+ 40
+PUSHW_1
+ -48
+PUSHB_4
+ 55
+ 255
+ 52
+ 39
+PUSHW_1
+ -48
+PUSHB_4
+ 55
+ 255
+ 52
+ 38
+PUSHW_1
+ -48
+PUSHB_4
+ 55
+ 255
+ 52
+ 39
+PUSHW_1
+ -8
+PUSHB_4
+ 29
+ 39
+ 52
+ 39
+PUSHW_1
+ -32
+NPUSHB
+ 38
+ 18
+ 28
+ 52
+ 20
+ 39
+ 36
+ 39
+ 2
+ 25
+ 34
+ 1
+ 6
+ 34
+ 115
+ 35
+ 115
+ 36
+ 115
+ 37
+ 230
+ 38
+ 246
+ 38
+ 6
+ 4
+ 3
+ 2
+ 223
+ 50
+ 1
+ 95
+ 50
+ 111
+ 50
+ 224
+ 50
+ 3
+ 50
+PUSHW_1
+ -64
+NPUSHB
+ 9
+ 14
+ 16
+ 52
+ 50
+ 64
+ 18
+ 22
+ 52
+ 50
+PUSHW_1
+ -64
+PUSHB_4
+ 24
+ 28
+ 52
+ 50
+PUSHW_1
+ -64
+PUSHB_4
+ 60
+ 61
+ 52
+ 50
+PUSHW_1
+ -64
+NPUSHB
+ 10
+ 70
+ 255
+ 52
+ 50
+ 64
+ 73
+ 53
+ 50
+ 1
+ 31
+PUSHW_1
+ -128
+PUSHB_4
+ 100
+ 255
+ 52
+ 31
+PUSHW_1
+ -64
+PUSHB_4
+ 42
+ 99
+ 52
+ 31
+PUSHW_1
+ -32
+PUSHB_4
+ 29
+ 41
+ 52
+ 31
+PUSHW_1
+ -40
+PUSHB_5
+ 25
+ 28
+ 52
+ 0
+ 31
+SVTCA[y-axis]
+MDAP[rnd]
+SHC[rp1]
+CALL
+CALL
+CALL
+CALL
+SHC[rp1]
+MDAP[rnd]
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+DELTAP2
+DELTAP3
+SHC[rp1]
+SHC[rp1]
+SHC[rp1]
+DELTAP1
+DELTAP2
+DELTAP3
+CALL
+CALL
+CALL
+CALL
+CALL
+SVTCA[x-axis]
+CALL
+DELTAP1
+CALL
+CALL
+CALL
+CALL
+CALL
+SHC[rp1]
+SHC[rp1]
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 819 64404 N 1 0 0 1 0 0 3
+Refer: 1646 -1 N 1 0 0 1 -15 1865 2
+EndChar

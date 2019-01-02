@@ -1,0 +1,300 @@
+StartChar: approxequal
+Encoding: 8776 8776 167
+Width: 1124
+Flags: W
+TtInstrs:
+NPUSHB
+ 99
+ 36
+ 11
+ 35
+ 14
+ 43
+ 22
+ 36
+ 34
+ 34
+ 37
+ 43
+ 45
+ 47
+ 47
+ 7
+ 0
+ 2
+ 15
+ 14
+ 0
+ 25
+ 13
+ 34
+ 15
+ 37
+ 17
+ 2
+ 28
+ 14
+ 26
+ 15
+ 17
+ 25
+ 26
+ 33
+ 30
+ 34
+ 28
+ 37
+ 26
+ 38
+ 33
+ 2
+ 33
+ 25
+ 53
+ 2
+ 54
+ 5
+ 53
+ 25
+ 54
+ 28
+ 69
+ 2
+ 70
+ 5
+ 69
+ 25
+ 70
+ 28
+ 86
+ 2
+ 86
+ 25
+ 101
+ 2
+ 101
+ 25
+ 118
+ 5
+ 118
+ 28
+ 134
+ 5
+ 134
+ 28
+ 31
+ 27
+ 10
+ 27
+ 18
+ 27
+ 41
+ 20
+ 45
+ 4
+ 11
+ 10
+ 11
+ 18
+ 11
+ 41
+ 4
+ 45
+ 4
+ 36
+ 32
+ 35
+PUSHW_1
+ 672
+PUSHB_8
+ 39
+ 32
+ 112
+ 32
+ 128
+ 32
+ 2
+ 32
+PUSHW_1
+ 691
+PUSHB_3
+ 16
+ 32
+ 9
+PUSHW_1
+ 672
+PUSHB_8
+ 13
+ 32
+ 12
+ 58
+ 3
+ 24
+ 32
+ 23
+PUSHW_1
+ 672
+PUSHB_8
+ 43
+ 32
+ 112
+ 26
+ 128
+ 26
+ 2
+ 26
+PUSHW_1
+ 691
+PUSHB_4
+ 20
+ 1
+ 32
+ 0
+PUSHW_1
+ 672
+PUSHB_5
+ 20
+ 32
+ 3
+ 6
+ 39
+PUSHW_4
+ 318
+ 36
+ 32
+ 318
+PUSHB_4
+ 36
+ 35
+ 35
+ 16
+PUSHW_4
+ 318
+ 13
+ 9
+ 318
+PUSHB_5
+ 13
+ 12
+ 105
+ 47
+ 43
+PUSHW_4
+ 318
+ 23
+ 26
+ 318
+PUSHB_4
+ 23
+ 24
+ 24
+ 20
+PUSHW_4
+ 318
+ 0
+ 3
+ 318
+PUSHB_8
+ 1
+ 1
+ 0
+ 105
+ 46
+ 155
+ 141
+ 24
+CALL
+SRP0
+MIRP[rp0,rnd,white]
+ALIGNRP
+SRP0
+MIRP[min,rnd,black]
+SRP0
+MIRP[rnd,white]
+ALIGNRP
+SRP0
+ALIGNRP
+MIRP[min,rnd,black]
+SRP0
+MIRP[rnd,white]
+SRP0
+MIRP[rp0,rnd,white]
+ALIGNRP
+MIRP[rnd,white]
+SRP0
+MIRP[min,rnd,black]
+ALIGNRP
+SRP0
+ALIGNRP
+MIRP[rnd,white]
+SRP0
+MIRP[min,rnd,black]
+SVTCA[y-axis]
+MIAP[rnd]
+MIRP[rp0,min,rnd,black]
+MIRP[rp0,rnd,grey]
+MIRP[min,rnd,black]
+SRP0
+MIRP[rp0,rnd,white]
+DELTAP1
+MIRP[rp0,min,rnd,black]
+MIRP[rp0,rnd,grey]
+MIRP[min,rnd,black]
+SRP0
+MIRP[rp0,rnd,grey]
+MIRP[min,rnd,black]
+MIRP[rp0,rnd,grey]
+MIRP[rp0,min,rnd,black]
+MIRP[rp0,rnd,white]
+DELTAP1
+MIRP[min,rnd,black]
+MIRP[rp0,rnd,grey]
+MIRP[min,rnd,black]
+IUP[x]
+IUP[y]
+SVTCA[y-axis]
+DELTAP1
+DELTAP1
+DELTAP1
+SVTCA[x-axis]
+DELTAP1
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+51 738 m 1,0,-1
+ 51 943 l 1,1,2
+ 157 1063 157 1063 329 1063 c 0,3,4
+ 389 1063 389 1063 454.5 1046 c 128,-1,5
+ 520 1029 520 1029 643 976 c 0,6,7
+ 712 946 712 946 746.5 937.5 c 128,-1,8
+ 781 929 781 929 816 929 c 0,9,10
+ 881 929 881 929 950.5 968 c 128,-1,11
+ 1020 1007 1020 1007 1074 1066 c 1,12,-1
+ 1074 854 l 1,13,14
+ 1010 794 1010 794 944.5 767 c 128,-1,15
+ 879 740 879 740 797 740 c 0,16,17
+ 737 740 737 740 683 753.5 c 128,-1,18
+ 629 767 629 767 510 820.5 c 128,-1,19
+ 391 874 391 874 312 874 c 0,20,21
+ 248 874 248 874 191.5 846.5 c 128,-1,22
+ 135 819 135 819 51 738 c 1,0,-1
+51 376 m 1,23,-1
+ 51 581 l 1,24,25
+ 157 701 157 701 329 701 c 0,26,27
+ 389 701 389 701 454.5 684 c 128,-1,28
+ 520 667 520 667 643 614 c 0,29,30
+ 712 585 712 585 746.5 576 c 128,-1,31
+ 781 567 781 567 816 567 c 0,32,33
+ 881 567 881 567 950.5 606 c 128,-1,34
+ 1020 645 1020 645 1074 704 c 1,35,-1
+ 1074 492 l 1,36,37
+ 1010 432 1010 432 944.5 405 c 128,-1,38
+ 879 378 879 378 797 378 c 0,39,40
+ 737 378 737 378 683 392 c 128,-1,41
+ 629 406 629 406 510 459 c 128,-1,42
+ 391 512 391 512 312 512 c 0,43,44
+ 248 512 248 512 191.5 484.5 c 128,-1,45
+ 135 457 135 457 51 376 c 1,23,-1
+EndSplineSet
+EndChar

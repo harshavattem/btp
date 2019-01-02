@@ -1,0 +1,49 @@
+StartChar: Uhornacute
+Encoding: 7912 7912 1260
+Width: 1749
+Flags: W
+TtInstrs:
+PUSHB_2
+ 1
+ 39
+PUSHW_1
+ -64
+NPUSHB
+ 20
+ 57
+ 53
+ 112
+ 39
+ 1
+ 47
+ 39
+ 95
+ 39
+ 143
+ 39
+ 3
+ 39
+ 26
+ 23
+ 72
+ 43
+ 1
+ 1
+ 38
+PUSHW_2
+ 545
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+DELTAP1
+DELTAP3
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 1132 431 N 1 0 0 1 0 0 3
+Refer: 141 180 N 1 0 0 1 392 362 2
+EndChar

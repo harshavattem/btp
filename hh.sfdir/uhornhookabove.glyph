@@ -1,0 +1,45 @@
+StartChar: uhornhookabove
+Encoding: 7917 7917 1265
+Width: 1371
+Flags: W
+TtInstrs:
+PUSHB_2
+ 1
+ 57
+PUSHW_1
+ -64
+NPUSHB
+ 16
+ 22
+ 24
+ 6
+ 85
+ 80
+ 57
+ 160
+ 57
+ 2
+ 144
+ 57
+ 160
+ 57
+ 2
+ 57
+ 25
+PUSHW_1
+ -25
+PUSHB_2
+ 72
+ 43
+SVTCA[x-axis]
+CALL
+DELTAP1
+DELTAP2
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 1133 432 N 1 0 0 1 0 0 3
+Refer: 1157 61458 N 1 0 0 1 795 0 2
+EndChar

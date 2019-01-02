@@ -1,0 +1,62 @@
+StartChar: uni068C
+Encoding: 1676 1676 1414
+AltUni2: 00fb84.ffffffff.0
+Width: 691
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 33
+ 2
+ 1
+ 48
+ 29
+ 64
+ 29
+ 128
+ 29
+ 3
+ 0
+ 29
+ 23
+ 4
+ 0
+ 65
+ 2
+ 1
+ 63
+ 28
+ 159
+ 28
+ 2
+ 28
+ 64
+ 18
+ 21
+ 52
+ 28
+ 64
+ 12
+ 13
+ 52
+ 28
+SVTCA[y-axis]
+MDAP[rnd]
+CALL
+CALL
+DELTAP1
+SHC[rp1]
+SHC[rp1]
+SVTCA[x-axis]
+CALL
+DELTAP1
+SHC[rp1]
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 937 1583 N 1 0 0 1 0 0 3
+Refer: 1326 -1 N 1 0 0 1 80 1400 2
+Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uniFB85
+Substitution2: "'fina' Terminal Forms in Arabic lookup 4 subtable" uniFB85
+EndChar

@@ -1,0 +1,22 @@
+StartChar: odotbelow
+Encoding: 7885 7885 1233
+Width: 1139
+Flags: W
+TtInstrs:
+PUSHB_7
+ 2
+ 0
+ 27
+ 28
+ 11
+ 11
+ 65
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 82 111 N 1 0 0 1 0 0 3
+Refer: 1149 61484 N 1 0 0 1 710 0 2
+EndChar

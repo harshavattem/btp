@@ -1,0 +1,66 @@
+StartChar: ahookabove
+Encoding: 7843 7843 1191
+Width: 1139
+Flags: W
+TtInstrs:
+PUSHB_2
+ 2
+ 76
+PUSHW_1
+ -64
+PUSHB_5
+ 18
+ 18
+ 6
+ 85
+ 76
+PUSHW_1
+ -64
+NPUSHB
+ 27
+ 14
+ 16
+ 6
+ 85
+ 144
+ 76
+ 1
+ 112
+ 76
+ 128
+ 76
+ 2
+ 80
+ 76
+ 96
+ 76
+ 160
+ 76
+ 176
+ 76
+ 224
+ 76
+ 240
+ 76
+ 6
+ 76
+ 28
+PUSHW_1
+ -54
+PUSHB_2
+ 72
+ 43
+SVTCA[x-axis]
+CALL
+DELTAP1
+DELTAP2
+DELTAP3
+CALL
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 68 97 N 1 0 0 1 0 0 3
+Refer: 1157 61458 N 1 0 0 1 820 0 2
+EndChar

@@ -1,0 +1,29 @@
+StartChar: aogonek
+Encoding: 261 261 261
+Width: 1139
+Flags: W
+TtInstrs:
+NPUSHB
+ 12
+ 2
+ 1
+ 56
+ 39
+ 0
+ 72
+ 39
+ 2
+ 1
+ 56
+ 10
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 68 97 N 1 0 0 1 0 0 3
+Refer: 222 731 N 1 0 0 1 647 25 2
+EndChar

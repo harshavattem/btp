@@ -1,0 +1,48 @@
+StartChar: abrevedotbelow
+Encoding: 7863 7863 1211
+Width: 1139
+Flags: W
+TtInstrs:
+NPUSHB
+ 22
+ 3
+ 31
+ 71
+ 1
+ 0
+ 71
+ 72
+ 47
+ 55
+ 65
+ 2
+ 207
+ 60
+ 1
+ 60
+ 28
+ 3
+ 104
+ 43
+ 2
+ 1
+ 60
+PUSHW_2
+ 546
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+DELTAP1
+SHC[rp1]
+CALL
+DELTAP1
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 68 97 N 1 0 0 1 0 0 3
+Refer: 217 728 N 1 0 0 1 245 0 2
+Refer: 1149 61484 N 1 0 0 1 712 0 2
+EndChar

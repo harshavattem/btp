@@ -1,0 +1,238 @@
+StartChar: Sigma
+Encoding: 931 931 520
+Width: 1266
+Flags: W
+TtInstrs:
+NPUSHB
+ 60
+ 245
+ 9
+ 1
+ 54
+ 3
+ 54
+ 9
+ 2
+ 21
+ 4
+ 149
+ 4
+ 165
+ 4
+ 214
+ 2
+ 4
+ 7
+ 2
+ 11
+ 9
+ 22
+ 2
+ 26
+ 9
+ 38
+ 2
+ 45
+ 9
+ 55
+ 2
+ 58
+ 3
+ 63
+ 9
+ 73
+ 3
+ 10
+ 105
+ 3
+ 106
+ 9
+ 120
+ 3
+ 120
+ 9
+ 184
+ 3
+ 185
+ 9
+ 246
+ 2
+ 249
+ 9
+ 8
+ 3
+ 4
+ 3
+ 2
+ 4
+PUSHW_1
+ -16
+PUSHB_5
+ 15
+ 16
+ 2
+ 85
+ 4
+PUSHW_1
+ -16
+NPUSHB
+ 17
+ 12
+ 12
+ 2
+ 85
+ 4
+ 30
+ 8
+ 9
+ 20
+ 8
+ 8
+ 9
+ 3
+ 2
+ 3
+ 4
+ 2
+PUSHW_1
+ -10
+NPUSHB
+ 54
+ 15
+ 16
+ 2
+ 85
+ 2
+ 18
+ 12
+ 12
+ 6
+ 85
+ 2
+ 30
+ 10
+ 9
+ 20
+ 10
+ 10
+ 9
+ 10
+ 8
+ 9
+ 3
+ 4
+ 4
+ 2
+ 4
+ 5
+ 2
+ 1
+ 30
+ 11
+ 2
+ 5
+ 30
+ 7
+ 8
+ 4
+ 2
+ 9
+ 3
+ 4
+ 8
+ 8
+ 7
+ 10
+ 11
+ 11
+ 7
+ 0
+ 227
+ 32
+ 6
+ 1
+ 6
+PUSHW_1
+ 305
+PUSHB_4
+ 13
+ 7
+ 233
+ 12
+SRP0
+MIRP[rnd,white]
+SRP0
+MIRP[rp0,rnd,white]
+DELTAP1
+MIRP[rnd,grey]
+SRP0
+ALIGNRP
+SRP0
+ALIGNRP
+SRP0
+ALIGNRP
+SRP2
+SLOOP
+IP
+SVTCA[y-axis]
+MIAP[rnd]
+MIRP[min,rnd,black]
+MIAP[rnd]
+MIRP[rp0,min,rnd,black]
+ALIGNRP
+SRP0
+ALIGNRP
+SRP1
+SRP2
+SLOOP
+IP
+SDPVTL[orthog]
+SFVTCA[x-axis]
+MDAP[no-rnd]
+CALL
+CALL
+CALL
+SFVTL[parallel]
+RDTG
+SRP0
+MDRP[rnd,grey]
+SDPVTL[orthog]
+SFVTCA[x-axis]
+MDAP[no-rnd]
+RTG
+CALL
+CALL
+CALL
+SFVTL[parallel]
+RDTG
+SRP0
+MDRP[rnd,grey]
+IUP[x]
+IUP[y]
+SVTCA[x-axis]
+DELTAP1
+DELTAP2
+DELTAP3
+SVTCA[y-axis]
+DELTAP2
+DELTAP1
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+1145 1466 m 1,0,-1
+ 1145 1293 l 1,1,-1
+ 358 1293 l 1,2,-1
+ 858 761 l 1,3,-1
+ 358 173 l 1,4,-1
+ 1186 173 l 1,5,-1
+ 1186 0 l 1,6,-1
+ 148 0 l 1,7,-1
+ 148 202 l 1,8,-1
+ 627 761 l 1,9,-1
+ 148 1271 l 1,10,-1
+ 148 1466 l 1,11,-1
+ 1145 1466 l 1,0,-1
+EndSplineSet
+Kerns2: 652 -98 "'kern' Horizontal Kerning lookup 0 subtable" 306 -98 "'kern' Horizontal Kerning lookup 0 subtable"
+EndChar

@@ -1,0 +1,32 @@
+StartChar: Ihookabove
+Encoding: 7880 7880 1228
+Width: 569
+Flags: W
+TtInstrs:
+PUSHB_2
+ 1
+ 14
+PUSHW_1
+ -64
+NPUSHB
+ 10
+ 16
+ 16
+ 6
+ 85
+ 0
+ 14
+ 20
+ 1
+ 2
+ 65
+SVTCA[x-axis]
+CALL
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 44 73 N 1 0 0 1 0 0 3
+Refer: 1140 777 N 1 0 0 1 570 0 2
+EndChar

@@ -1,0 +1,56 @@
+StartChar: Abrevetilde
+Encoding: 7860 7860 1208
+Width: 1366
+Flags: W
+TtInstrs:
+NPUSHB
+ 31
+ 3
+ 207
+ 35
+ 223
+ 35
+ 239
+ 35
+ 3
+ 47
+ 35
+ 1
+ 0
+ 35
+ 45
+ 1
+ 2
+ 65
+ 2
+ 0
+ 17
+ 27
+ 1
+ 2
+ 65
+ 2
+ 32
+ 64
+ 25
+ 45
+ 52
+ 32
+SVTCA[y-axis]
+MDAP[rnd]
+CALL
+SHC[rp1]
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+CALL
+DELTAP1
+DELTAP2
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 36 65 N 1 0 0 1 0 0 3
+Refer: 1147 -1 N 1 0 0 1 683 0 2
+Refer: 1183 61485 N 1 0 0 1 1360 0 2
+EndChar

@@ -1,0 +1,35 @@
+StartChar: Zdot
+Encoding: 379 379 297
+Width: 1251
+Flags: W
+TtInstrs:
+PUSHB_6
+ 1
+ 207
+ 13
+ 1
+ 13
+ 2
+PUSHW_1
+ -239
+PUSHB_5
+ 72
+ 43
+ 1
+ 1
+ 13
+PUSHW_2
+ 545
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+DELTAP1
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 61 90 N 1 0 0 1 0 0 3
+Refer: 218 729 N 1 0 0 1 304 362 2
+EndChar

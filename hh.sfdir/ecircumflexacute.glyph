@@ -1,0 +1,86 @@
+StartChar: ecircumflexacute
+Encoding: 7871 7871 1219
+Width: 1139
+Flags: W
+TtInstrs:
+PUSHB_5
+ 3
+ 95
+ 40
+ 1
+ 40
+PUSHW_1
+ -64
+NPUSHB
+ 47
+ 23
+ 25
+ 52
+ 40
+ 33
+ 0
+ 72
+ 43
+ 2
+ 32
+ 64
+ 59
+ 53
+ 32
+ 64
+ 45
+ 50
+ 52
+ 15
+ 32
+ 159
+ 32
+ 2
+ 0
+ 32
+ 35
+ 10
+ 10
+ 65
+ 2
+ 31
+ 32
+ 47
+ 32
+ 2
+ 240
+ 32
+ 1
+ 95
+ 32
+ 1
+ 32
+ 64
+ 9
+ 12
+ 52
+ 32
+SVTCA[y-axis]
+MDAP[rnd]
+CALL
+DELTAP1
+DELTAP2
+DELTAP3
+SHC[rp1]
+SVTCA[x-axis]
+CALL
+DELTAP3
+CALL
+CALL
+SHC[rp1]
+CALL
+CALL
+DELTAP1
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 72 101 N 1 0 0 1 0 0 3
+Refer: 214 710 N 1 0 0 1 223 0 2
+Refer: 1171 769 N 1 0 0 1 844 0 2
+EndChar

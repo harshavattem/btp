@@ -1,0 +1,62 @@
+StartChar: Abreveacute
+Encoding: 7854 7854 1202
+Width: 1366
+Flags: W
+TtInstrs:
+PUSHB_2
+ 3
+ 35
+PUSHW_1
+ -64
+PUSHB_4
+ 65
+ 66
+ 52
+ 35
+PUSHW_1
+ -64
+NPUSHB
+ 24
+ 57
+ 53
+ 255
+ 35
+ 1
+ 35
+ 22
+ 19
+ 72
+ 43
+ 2
+ 0
+ 17
+ 27
+ 1
+ 2
+ 65
+ 2
+ 32
+ 64
+ 25
+ 45
+ 52
+ 32
+SVTCA[y-axis]
+MDAP[rnd]
+CALL
+SHC[rp1]
+SVTCA[x-axis]
+CALL
+SHC[rp1]
+CALL
+DELTAP2
+CALL
+CALL
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 36 65 N 1 0 0 1 0 0 3
+Refer: 1147 -1 N 1 0 0 1 683 0 2
+Refer: 1137 61446 N 1 0 0 1 991 0 2
+EndChar

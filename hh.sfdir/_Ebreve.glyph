@@ -1,0 +1,46 @@
+StartChar: Ebreve
+Encoding: 276 276 414
+Width: 1366
+Flags: W
+TtInstrs:
+PUSHB_4
+ 1
+ 1
+ 1
+ 16
+PUSHW_2
+ 545
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+PUSHB_2
+ 6
+ 2
+RS
+EQ
+IF
+PUSHB_6
+ 0
+ 19
+ 13
+ 1
+ 2
+ 65
+CALL
+ELSE
+PUSHB_5
+ 19
+ 5
+ 70
+ 72
+ 43
+CALL
+EIF
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 40 69 N 1 0 0 1 0 0 3
+Refer: 217 728 N 1 0 0 1 363 362 2
+EndChar

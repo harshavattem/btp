@@ -1,0 +1,43 @@
+StartChar: Scedilla
+Encoding: 350 350 249
+Width: 1366
+Flags: W
+TtInstrs:
+NPUSHB
+ 22
+ 1
+ 31
+ 51
+ 1
+ 192
+ 51
+ 240
+ 51
+ 2
+ 144
+ 51
+ 1
+ 51
+ 45
+ 25
+ 72
+ 43
+ 1
+ 1
+ 50
+ 8
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+DELTAP1
+DELTAP1
+DELTAP2
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 54 83 N 1 0 0 1 0 0 3
+Refer: 220 184 N 1 0 0 1 339 10 2
+EndChar

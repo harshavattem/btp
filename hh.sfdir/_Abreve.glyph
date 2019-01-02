@@ -1,0 +1,30 @@
+StartChar: Abreve
+Encoding: 258 258 258
+Width: 1366
+Flags: W
+TtInstrs:
+NPUSHB
+ 10
+ 2
+ 1
+ 19
+ 12
+ 9
+ 104
+ 39
+ 2
+ 1
+ 19
+PUSHW_2
+ 545
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 36 65 N 1 0 0 1 0 0 3
+Refer: 217 728 N 1 0 0 1 338 351 2
+EndChar

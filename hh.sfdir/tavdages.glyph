@@ -1,0 +1,37 @@
+StartChar: tavdages
+Encoding: 64330 64330 738
+Width: 1316
+Flags: W
+TtInstrs:
+NPUSHB
+ 15
+ 1
+ 160
+ 41
+ 176
+ 41
+ 2
+ 0
+ 41
+ 34
+ 24
+ 18
+ 65
+ 1
+ 1
+ 31
+PUSHW_2
+ 737
+ 41
+SVTCA[y-axis]
+CALL
+SVTCA[x-axis]
+CALL
+DELTAP1
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 698 1514 N 1 0 0 1 0 0 3
+Refer: 664 1468 N 1 0 0 1 390 -93 2
+EndChar

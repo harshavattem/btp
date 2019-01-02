@@ -1,0 +1,61 @@
+StartChar: hyphen
+Encoding: 45 45 16
+AltUni2: 0000ad.ffffffff.0
+Width: 682
+Flags: W
+TtInstrs:
+NPUSHB
+ 25
+ 112
+ 2
+ 112
+ 3
+ 2
+ 77
+ 1
+ 77
+ 2
+ 2
+ 1
+ 35
+ 0
+ 2
+ 26
+ 5
+ 112
+ 0
+ 1
+ 0
+ 25
+ 4
+ 112
+ 141
+ 24
+CALL
+FLIPOFF
+SRP0
+MIRP[rnd,grey]
+DELTAP1
+SRP0
+MIRP[rnd,white]
+SVTCA[y-axis]
+MDAP[rnd]
+FLIPON
+MIRP[min,rnd,black]
+IUP[x]
+IUP[y]
+SVTCA[y-axis]
+DELTAP2
+SVTCA[x-axis]
+DELTAP1
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+65 440 m 1,0,-1
+ 65 621 l 1,1,-1
+ 618 621 l 1,2,-1
+ 618 440 l 1,3,-1
+ 65 440 l 1,0,-1
+EndSplineSet
+EndChar

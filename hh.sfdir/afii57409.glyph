@@ -1,0 +1,174 @@
+StartChar: afii57409
+Encoding: 1569 1569 751
+Width: 845
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_6
+ 11
+ 32
+ 16
+ 17
+ 52
+ 33
+PUSHW_1
+ -32
+NPUSHB
+ 15
+ 16
+ 17
+ 52
+ 23
+ 19
+ 24
+ 64
+ 14
+ 21
+ 52
+ 24
+ 24
+ 28
+ 35
+ 0
+PUSHW_3
+ 751
+ 1
+ -64
+PUSHB_8
+ 9
+ 13
+ 52
+ 1
+ 1
+ 35
+ 10
+ 19
+PUSHW_1
+ 751
+PUSHB_3
+ 28
+ 28
+ 35
+PUSHW_1
+ 751
+PUSHB_6
+ 10
+ 6
+ 10
+ 5
+ 5
+ 10
+PUSHW_1
+ 747
+NPUSHB
+ 13
+ 35
+ 35
+ 24
+ 24
+ 23
+ 23
+ 1
+ 0
+ 0
+ 1
+ 1
+ 38
+ 6
+PUSHW_1
+ -64
+NPUSHB
+ 12
+ 9
+ 10
+ 52
+ 6
+ 5
+ 16
+ 14
+ 15
+ 52
+ 5
+ 5
+ 31
+PUSHW_3
+ 755
+ 13
+ 278
+SCANCTRL
+MDAP[rnd]
+MIRP[min,rnd,black]
+IP
+MDAP[rnd]
+CALL
+SHP[rp1]
+CALL
+SRP1
+SHP[rp1]
+MDAP[rnd]
+SHP[rp1]
+MDAP[rnd]
+SRP1
+IP
+MDAP[rnd]
+IP
+MDAP[rnd]
+IP
+MDAP[rnd]
+SVTCA[y-axis]
+MIAP[rnd]
+SHP[rp1]
+MDAP[rnd]
+SRP2
+IP
+SRP0
+MIRP[rp0,min,rnd,black]
+SHP[rp2]
+MDAP[rnd]
+MIRP[min,rnd,black]
+SRP1
+SRP2
+IP
+MDAP[rnd]
+CALL
+MIRP[min,rnd,black]
+SRP1
+SRP2
+IP
+MDAP[rnd]
+CALL
+SRP1
+IP
+IUP[x]
+IUP[y]
+SVTCA[x-axis]
+CALL
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+744 537 m 1,0,-1
+ 696 373 l 1,1,2
+ 544 335 544 335 446 288 c 0,3,4
+ 333 234 333 234 240 147 c 1,5,-1
+ 209 164 l 1,6,7
+ 222 210 222 210 244 249 c 0,8,9
+ 263 283 263 283 288 310 c 1,10,-1
+ 172 376 l 1,11,12
+ 121 410 121 410 121 450 c 0,13,14
+ 121 482 121 482 161 566 c 0,15,16
+ 209 666 209 666 271 733 c 0,17,18
+ 351 819 351 819 432 819 c 0,19,20
+ 507 819 507 819 556 776 c 0,21,22
+ 567 767 567 767 607 721 c 1,23,-1
+ 555 590 l 1,24,25
+ 518 615 518 615 511 620 c 0,26,27
+ 450 659 450 659 411 659 c 0,28,29
+ 363 659 363 659 311 632 c 128,-1,30
+ 259 605 259 605 259 571 c 0,31,32
+ 259 530 259 530 319 492 c 0,33,34
+ 366 463 366 463 461 429 c 1,35,36
+ 600 496 600 496 744 537 c 1,0,-1
+EndSplineSet
+EndChar

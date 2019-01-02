@@ -1,0 +1,27 @@
+StartChar: Edotbelow
+Encoding: 7864 7864 1212
+Width: 1366
+Flags: W
+TtInstrs:
+NPUSHB
+ 10
+ 1
+ 32
+ 13
+ 1
+ 0
+ 13
+ 14
+ 0
+ 11
+ 65
+SVTCA[x-axis]
+CALL
+DELTAP1
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 40 69 N 1 0 0 1 0 0 3
+Refer: 1149 61484 N 1 0 0 1 860 0 2
+EndChar
